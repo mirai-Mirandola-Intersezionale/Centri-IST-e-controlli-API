@@ -1,4 +1,4 @@
-[{
+{
     "ist-centers": [
         {
             "id":1497283644,
@@ -8,9 +8,7 @@
             "id":2151224573,
             "name": "Consultorio Mirandola"
         }
-    ]
-
-},{
+    ],
     "sert":[{
         "cod_asl": "321",
         "cod_struttura": "002419",
@@ -2375,4 +2373,4 @@
         ":@computed_region_6hky_swhk": "4",
         ":@computed_region_ttgh_9sm5": "4"
     }]
-}]
+}
