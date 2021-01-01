@@ -1,7 +1,13 @@
 {
-    "ist-centers": {
-        "id":0,
-        "name": "SERT Mirandola"
-    },
+    "ist-centers": [
+        {
+            "id":0,
+            "name": "SERT Mirandola"
+        },
+        {
+            "id":1,
+            "name": "Consultorio Mirandola"
+        }
+    ]
 
 }
