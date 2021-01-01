@@ -7,3 +7,5 @@ Una lista di centri dove poter testarsi per le principali IST e HIV in modo anon
 [SERT Regione Lombardia](https://www.dati.lombardia.it/Famiglia/Elenco-SERT/ce49-g3mw)
 
 [Ministero della salute: portale "salute della donna"](http://www.salute.gov.it/portale/donna/consultoriDonna.jsp?lingua=italiano&id=4524&area=Salute%20donna&menu=consultori)
+
+[Uniti contro l'AIDS: lista di centri per test IST e HIV](https://www.uniticontrolaids.it/aids-ist/test/dove.aspx)
