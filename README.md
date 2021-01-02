@@ -11,3 +11,5 @@ Una lista di centri dove poter testarsi per le principali IST e HIV in modo anon
 [Uniti contro l'AIDS: lista di centri per test IST e HIV](https://www.uniticontrolaids.it/aids-ist/test/dove.aspx)
 
 [Obiezione respinta](https://obiezionerespinta.info/)
+
+[ArciGay: Associazione LGBTI+ Italiana](https://www.arcigay.it/sedi/)
