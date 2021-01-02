@@ -43180,5 +43180,357 @@
           "Telefono": "079564762",
           "Sito web": "http://www.atssardegna.it/"
         }
+      ],
+      "arcigay":[
+        {
+          "comune_ubicazione": "Ancona",
+          "denom_struttura": "Arcigay Comunitas Ancona",
+          "natura_giuridica": "Comitato Territoriale Arcigay"
+        },
+        {
+          "comune_ubicazione": "Aosta",
+          "denom_struttura": "Arcigay Valle d'Aosta Queer VdA",
+          "natura_giuridica": "Comitato Territoriale Arcigay"
+        },
+        {
+          "comune_ubicazione": "Arezzo",
+          "denom_struttura": "Arcigay Arezzo \"Chimera Arcobaleno",
+          "natura_giuridica": "Comitato territoriale Arcigay"
+        },
+        {
+          "comune_ubicazione": "Asti",
+          "denom_struttura": "Love is Love",
+          "natura_giuridica": "Associazione Aderente Arcigay"
+        },
+        {
+          "comune_ubicazione": "Bari",
+          "denom_struttura": "Arcigay Bari \"L'arcobaleno del Levante",
+          "natura_giuridica": "Comitato territoriale Arcigay"
+        },
+        {
+          "comune_ubicazione": "Barletta – Andria – Trani",
+          "denom_struttura": "Arcigay Bat \"Le Mine Vaganti",
+          "natura_giuridica": "Comitato territoriale Arcigay"
+        },
+        {
+          "comune_ubicazione": "Bergamo",
+          "denom_struttura": "Arcigay Bergamo \"Cives",
+          "natura_giuridica": "Comitato territoriale Arcigay"
+        },
+        {
+          "comune_ubicazione": "Bologna",
+          "denom_struttura": "Cassero LGBT Center",
+          "natura_giuridica": "Comitato territoriale Arcigay"
+        },
+        {
+          "comune_ubicazione": "Bolzano",
+          "denom_struttura": "Centaurus Arcigay dell'Alto Adige Südtirol",
+          "natura_giuridica": "Comitato territoriale Arcigay"
+        },
+        {
+          "comune_ubicazione": "Brescia",
+          "denom_struttura": "Arcigay Brescia \"Orlando",
+          "natura_giuridica": "Comitato territoriale Arcigay"
+        },
+        {
+          "comune_ubicazione": "Campania",
+          "denom_struttura": "Arcigay Campania",
+          "natura_giuridica": "Coordinamento Regionale Arcigay"
+        },
+        {
+          "comune_ubicazione": "Caserta",
+          "denom_struttura": "Rain Arcigay Caserta",
+          "natura_giuridica": "Comitato territoriale Arcigay"
+        },
+        {
+          "comune_ubicazione": "Castelli Romani",
+          "denom_struttura": "Castelli Romani",
+          "natura_giuridica": "Associazione Aderente Arcigay"
+        },
+        {
+          "comune_ubicazione": "Catania",
+          "denom_struttura": "Arcigay Catania \"Pegaso LGBT",
+          "natura_giuridica": "Comitato territoriale Arcigay"
+        },
+        {
+          "comune_ubicazione": "Chieti",
+          "denom_struttura": "Arcigay Chieti",
+          "natura_giuridica": ["Sylvia Rivera","Comitato territoriale Arcigay"]
+        },
+        {
+          "comune_ubicazione": "Como",
+          "denom_struttura": "Arcigay Como",
+          "natura_giuridica": "Associazione Aderente Arcigay"
+        },
+        {
+          "comune_ubicazione": "Cosenza",
+          "denom_struttura": "Arcigay EOS Cosenza",
+          "natura_giuridica": "Comitato territoriale Arcigay"
+        },
+        {
+          "comune_ubicazione": "Cremona",
+          "denom_struttura": "Arcigay Cremona \"La Rocca",
+          "natura_giuridica": "Comitato territoriale Arcigay"
+        },
+        {
+          "comune_ubicazione": "Cuneo",
+          "denom_struttura": "Arcigay \"Granda Queer\" Cuneo",
+          "natura_giuridica": "Comitato territoriale Arcigay"
+        },
+        {
+          "comune_ubicazione": "Ferrara",
+          "denom_struttura": "Arcigay Ferrara",
+          "natura_giuridica": "Comitato territoriale Arcigay"
+        },
+        {
+          "comune_ubicazione": "Firenze",
+          "denom_struttura": "Arcigay Firenze Altre Sponde",
+          "natura_giuridica": "Associazione Aderente Arcigay"
+        },
+        {
+          "comune_ubicazione": "Foggia",
+          "denom_struttura": "Arcigay Foggia \"Le Bigotte",
+          "natura_giuridica": "Comitato territoriale Arcigay"
+        },
+        {
+          "comune_ubicazione": "Frosinone",
+          "denom_struttura": "Frosinone",
+          "natura_giuridica": "Associazione Aderente Arcigay"
+        },
+        {
+          "comune_ubicazione": "Genova",
+          "denom_struttura": "Arcigay Genova",
+          "natura_giuridica": ["Approdo Lilia Mulas APS","Comitato territoriale Arcigay"]
+        },
+        {
+          "comune_ubicazione": "Imperia",
+          "denom_struttura": "M.I.A. Arcigay Imperia",
+          "natura_giuridica": "Comitato territoriale Arcigay"
+        },
+        {
+          "comune_ubicazione": "L’Aquila",
+          "denom_struttura": "Arcigay \"Massimo Consoli\" L'Aquila",
+          "natura_giuridica": "Comitato territoriale Arcigay"
+        },
+        {
+          "comune_ubicazione": "Latina",
+          "denom_struttura": "SEIcomeSEI",
+          "natura_giuridica": "Comitato territoriale Arcigay"
+        },
+        {
+          "comune_ubicazione": "Le fate ignoranti",
+          "denom_struttura": "Le fate ignoranti",
+          "natura_giuridica": "Associazione Aderente Arcigay"
+        },
+        {
+          "comune_ubicazione": "Lecce",
+          "denom_struttura": "Arcigay Salento",
+          "natura_giuridica": "Comitato territoriale Arcigay"
+        },
+        {
+          "comune_ubicazione": "Livorno",
+          "denom_struttura": "L.E.D. Libertà e Diritti",
+          "natura_giuridica": "Comitato territoriale Arcigay"
+        },
+        {
+          "comune_ubicazione": "Mantova",
+          "denom_struttura": "Arcigay \"La Salamandra\" Mantova",
+          "natura_giuridica": "Comitato territoriale Arcigay"
+        },
+        {
+          "comune_ubicazione": "Messina",
+          "denom_struttura": "Arcigay \"Makwan\" Messina",
+          "natura_giuridica": "Comitato territoriale Arcigay"
+        },
+        {
+          "comune_ubicazione": "Milano",
+          "denom_struttura": "Centro d’Iniziativa Gay",
+          "natura_giuridica": "Comitato territoriale Arcigay"
+        },
+        {
+          "comune_ubicazione": "Modena",
+          "denom_struttura": "Arcigay Modena \"Matthew Shepard",
+          "natura_giuridica": "Comitato territoriale Arcigay"
+        },
+        {
+          "comune_ubicazione": "Molise",
+          "denom_struttura": "Arcigay Molise \"Lambda Identità Libere",
+          "natura_giuridica": "Comitato Territoriale Arcigay"
+        },
+        {
+          "comune_ubicazione": "Napoli",
+          "denom_struttura": "Arcigay \"Antinoo\" Napoli",
+          "natura_giuridica": "Comitato territoriale Arcigay"
+        },
+        {
+          "comune_ubicazione": "Padova",
+          "denom_struttura": "Arcigay Tralaltro Padova",
+          "natura_giuridica": "Comitato territoriale Arcigay"
+        },
+        {
+          "comune_ubicazione": "Palermo",
+          "denom_struttura": "Arcigay Palermo",
+          "natura_giuridica": "Comitato territoriale Arcigay"
+        },
+        {
+          "comune_ubicazione": "Pavia",
+          "denom_struttura": "Arcigay Pavia \"Coming",
+          "natura_giuridica": ["Aut","Comitato territoriale Arcigay"]
+        },
+        {
+          "comune_ubicazione": "Pesaro Urbino",
+          "denom_struttura": "Arcigay Agorà",
+          "natura_giuridica": "Comitato territoriale Arcigay"
+        },
+        {
+          "comune_ubicazione": "Pescara",
+          "denom_struttura": "Mazì",
+          "natura_giuridica": "Comitato Territoriale Arcigay"
+        },
+        {
+          "comune_ubicazione": "Piacenza",
+          "denom_struttura": "Arcigay Piacenza Lambda",
+          "natura_giuridica": "Comitato territoriale Arcigay"
+        },
+        {
+          "comune_ubicazione": "Pisa",
+          "denom_struttura": "Pinkriot Arcigay Pisa",
+          "natura_giuridica": "Comitato territoriale Arcigay"
+        },
+        {
+          "comune_ubicazione": "Pistoia",
+          "denom_struttura": "Arcigay Pistoia \"La Fenice",
+          "natura_giuridica": "Comitato territoriale Arcigay"
+        },
+        {
+          "comune_ubicazione": "Potenza",
+          "denom_struttura": "Arcigay Basilicata \"Marco Bisceglia",
+          "natura_giuridica": "Comitato territoriale Arcigay"
+        },
+        {
+          "comune_ubicazione": "Ragusa",
+          "denom_struttura": "Arcigay Ragusa",
+          "natura_giuridica": "Comitato territoriale Arcigay"
+        },
+        {
+          "comune_ubicazione": "Ravenna",
+          "denom_struttura": "Arcigay Ravenna Elio Venturi",
+          "natura_giuridica": "Comitato territoriale Arcigay"
+        },
+        {
+          "comune_ubicazione": "Reggio Calabria",
+          "denom_struttura": "Arcigay IDM \"I Due Mari",
+          "natura_giuridica": ["Reggio Calabria","Comitato territoriale Arcigay"]
+        },
+        {
+          "comune_ubicazione": "Reggio Emilia",
+          "denom_struttura": "Arcigay Reggio Emilia \"Gioconda",
+          "natura_giuridica": "Comitato territoriale Arcigay"
+        },
+        {
+          "comune_ubicazione": "Rieti",
+          "denom_struttura": "Rieti LGBT+",
+          "natura_giuridica": "Associazione Aderente Arcigay"
+        },
+        {
+          "comune_ubicazione": "Rimini",
+          "denom_struttura": "Arcigay Rimini \"Alan Turing",
+          "natura_giuridica": "Comitato territoriale Arcigay"
+        },
+        {
+          "comune_ubicazione": "Roma",
+          "denom_struttura": "Arcigay Roma Gruppo Ora",
+          "natura_giuridica": "Comitato territoriale Arcigay"
+        },
+        {
+          "comune_ubicazione": "Roma",
+          "denom_struttura": "Divine Ostia",
+          "natura_giuridica": "Associazione Aderente Arcigay"
+        },
+        {
+          "comune_ubicazione": "Rovigo",
+          "denom_struttura": "Arcigay Rovigo \"Politropia",
+          "natura_giuridica": "Comitato territoriale Arcigay"
+        },
+        {
+          "comune_ubicazione": "Salerno",
+          "denom_struttura": "Arcigay \"Marcella di Folco\" Salerno",
+          "natura_giuridica": "Comitato territoriale Arcigay"
+        },
+        {
+          "comune_ubicazione": "Savona",
+          "denom_struttura": "Arcigay Savona \"APERTAMENTE",
+          "natura_giuridica": "Comitato territoriale Arcigay"
+        },
+        {
+          "comune_ubicazione": "Siena",
+          "denom_struttura": "Movimento Pansessuale Arcigay Siena",
+          "natura_giuridica": "Comitato territoriale Arcigay"
+        },
+        {
+          "comune_ubicazione": "Siracusa",
+          "denom_struttura": "Arcigay Siracusa",
+          "natura_giuridica": "Comitato territoriale Arcigay"
+        },
+        {
+          "comune_ubicazione": "Strambopoli",
+          "denom_struttura": "Strambopoli",
+          "natura_giuridica": "Associazione Aderente Arcigay"
+        },
+        {
+          "comune_ubicazione": "Taranto",
+          "denom_struttura": "Arcigay Taranto",
+          "natura_giuridica": "Associazione Aderente Arcigay"
+        },
+        {
+          "comune_ubicazione": "Teramo",
+          "denom_struttura": "Arcigay Teramo",
+          "natura_giuridica": "Associazione Aderente Arcigay"
+        },
+        {
+          "comune_ubicazione": "Torino",
+          "denom_struttura": "Arcigay Torino \"Ottavio Mai",
+          "natura_giuridica": "Comitato territoriale Arcigay"
+        },
+        {
+          "comune_ubicazione": "Trento",
+          "denom_struttura": "Arcigay del Trentino",
+          "natura_giuridica": "Comitato territoriale Arcigay"
+        },
+        {
+          "comune_ubicazione": "Trieste",
+          "denom_struttura": "Arcigay Arcobaleno Trieste Gorizia",
+          "natura_giuridica": "Comitato territoriale Arcigay"
+        },
+        {
+          "comune_ubicazione": "Udine",
+          "denom_struttura": "Arcigay Friuli \"Nuovi Passi",
+          "natura_giuridica": "Comitato territoriale Arcigay"
+        },
+        {
+          "comune_ubicazione": "Varese",
+          "denom_struttura": "Arcigay Varese",
+          "natura_giuridica": "Comitato territoriale Arcigay"
+        },
+        {
+          "comune_ubicazione": "Verbania",
+          "denom_struttura": "Arcigay Nuovi Colori ONLUS",
+          "natura_giuridica": "Comitato territoriale Arcigay"
+        },
+        {
+          "comune_ubicazione": "Vercelli",
+          "denom_struttura": "Arcigay Rainbow Vercelli",
+          "natura_giuridica": ["Valsesia","Comitato territoriale Arcigay"]
+        },
+        {
+          "comune_ubicazione": "Verona",
+          "denom_struttura": "Pianeta Milk",
+          "natura_giuridica": ["Verona Lgbt* Center","Arcigay/Arci","Comitato territoriale Arcigay"]
+        },
+        {
+          "comune_ubicazione": "Vicenza",
+          "denom_struttura": "Arcigay Vicenza \"15 Giugno",
+          "natura_giuridica": "Comitato territoriale Arcigay"
+        }
       ]
 }
