@@ -18,7 +18,7 @@
     <script>
         const lista = document.querySelector('ul.risorse-lista')
 
-        $.getJSON('https://ist-centri-controlli-api.herokuapp.com/', function (data) {
+        $.getJSON('https://mirai-mirandola-intersezionale.github.io/Centri-IST-e-controlli-API/db.json', function (data) {
             let keys = Object.keys(data)
             keys.forEach(key => {
                 let li = document.createElement('li')
