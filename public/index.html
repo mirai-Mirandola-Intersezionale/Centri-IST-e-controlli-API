@@ -5,9 +5,37 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>API per centri di IST e test HIV, consultori e centri di ascolto</title>
+    <meta name="description"
+        content="Una lista di centri dove poter testarsi per le principali IST e HIV in modo anonimo e non e per fare controlli vari di salute. La seguente lista è in costante aggiornamento e se avete da aggiungere altri posti utili di qualsiasi tipo, che possano aiutare e facciano un servizio rispettoso e per i gruppi più discriminati o che danno informazioni utili, aggiungeteli pure!">
 </head>
 
 <body>
+    <h1 id="centri-ist-e-controlli-api">Centri-IST-e-controlli-API</h1>
+    <p>Una lista di centri dove poter testarsi per le principali IST e HIV in modo anonimo e non e fare controlli vari
+        di salute. La seguente lista è in costante aggiornamento e se avete da aggiungere altri posti utili di qualsiasi
+        tipo, che possano aiutare e facciano un servizio rispettoso e per i gruppi più discriminati o che danno
+        informazioni utili, aprite una PULL REQUEST e proponete il cambiamento. Grazie mille per il supporto!</p>
+    <h3 id="risorse">Risorse</h3>
+    <ul>
+        <li>
+            <p><a href="https://www.dati.lombardia.it/Famiglia/Elenco-SERT/ce49-g3mw">SERT Regione Lombardia</a></p>
+        </li>
+        <li>
+            <p><a
+                    href="http://www.salute.gov.it/portale/donna/consultoriDonna.jsp?lingua=italiano&amp;id=4524&amp;area=Salute%20donna&amp;menu=consultori">Ministero
+                    della salute: portale &quot;salute della donna&quot;</a></p>
+        </li>
+        <li>
+            <p><a href="https://www.uniticontrolaids.it/aids-ist/test/dove.aspx">Uniti contro l'AIDS: lista di centri
+                    per test IST e HIV</a></p>
+        </li>
+        <li>
+            <p><a href="https://obiezionerespinta.info/">Obiezione respinta</a></p>
+        </li>
+        <li>
+            <p><a href="https://www.arcigay.it/sedi/">ArciGay: Associazione LGBTI+ Italiana</a></p>
+        </li>
+    </ul>
     <h3>Resources</h3>
     <ul class="risorse-lista">
 
@@ -18,13 +46,14 @@
     <script>
         const lista = document.querySelector('ul.risorse-lista')
 
-        $.getJSON('https://mirai-mirandola-intersezionale.github.io/Centri-IST-e-controlli-API/db.json', function (data) {
+        $.getJSON('https://mirai-mirandola-intersezionale.github.io/Centri-IST-e-controlli-API/db.json', function (
+        data) {
             let keys = Object.keys(data)
             keys.forEach(key => {
                 let li = document.createElement('li')
                 lista.appendChild(li)
                 let a = document.createElement('a')
-                a.setAttribute('href',`https://ist-centri-controlli-api.herokuapp.com/${key}`)
+                a.setAttribute('href', `https://ist-centri-controlli-api.herokuapp.com/${key}`)
                 a.setAttribute('target', '_blank')
                 li.appendChild(a)
                 a.innerText = '/' + key + ': ' + data[key].length
