@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>API</title>
+</head>
+
+<body>
+    <h3>Resources</h3>
+    <ul class="risorse-lista">
+
+    </ul>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"
+        integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg=="
+        crossorigin="anonymous"></script>
+    <script>
+        const lista = document.querySelector('ul.risorse-lista')
+
+        $.getJSON('../db.json', function (data) {
+            let keys = Object.keys(data)
+            keys.forEach(key => {
+                let li = document.createElement('li')
+                lista.appendChild(li)
+                let a = document.createElement('a')
+                a.setAttribute('href',`https://ist-centri-controlli-api.herokuapp.com/${key}`)
+                a.setAttribute('target', '_blank')
+                li.appendChild(a)
+                a.innerText = '/' + key + ':' + data[key].length
+            })
+        })
+    </script>
+</body>
+
+</html>
