@@ -8,17 +8,24 @@
     <title>API per centri di IST e test HIV, consultori e centri di ascolto</title>
     <meta name="description"
         content="Una lista di centri dove poter testarsi per le principali IST e HIV in modo anonimo e non e per fare controlli vari di salute. La seguente lista è in costante aggiornamento e se avete da aggiungere altri posti utili di qualsiasi tipo, che possano aiutare e facciano un servizio rispettoso e per i gruppi più discriminati o che danno informazioni utili, aggiungeteli pure!">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.0.2/tailwind.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.0.2/tailwind.min.css" />
 </head>
 
-<body>
-    <iframe src="https://github.com/sponsors/frappaaa/button" title="Sponsor frappaaa" height="35" width="116" style="border: 0;"></iframe>
-    <h1>Centri IST e controlli API</h1>
+<body class="p-10">
+    <iframe class="fixed right-10 top-5" src="https://github.com/sponsors/frappaaa/button" title="Sponsor frappaaa"
+        height="35" width="116" style="border: 0;"></iframe>
+
+    <h1 class="text-5xl my-5">API - Centri IST e controlli</h1>
+
     <p>Una lista di centri dove poter testarsi per le principali IST e HIV in modo anonimo e non e fare controlli vari
         di salute. La seguente lista è in costante aggiornamento e se avete da aggiungere altri posti utili di qualsiasi
         tipo, che possano aiutare e facciano un servizio rispettoso e per i gruppi più discriminati o che danno
-        informazioni utili, aprite una PULL REQUEST e proponete il cambiamento. Grazie mille per il supporto!</p>
-    <h3 id="risorse">Risorse</h3>
+        informazioni utili, aprite una PULL REQUEST e proponete il cambiamento.
+        <br>
+        <br>
+        Grazie mille per il supporto!</p>
+
+    <h3 class="text-xl my-3">Fonti</h3>
     <ul>
         <li>
             <p><a href="https://www.dati.lombardia.it/Famiglia/Elenco-SERT/ce49-g3mw">SERT Regione Lombardia</a></p>
@@ -39,19 +46,22 @@
             <p><a href="https://www.arcigay.it/sedi/">ArciGay: Associazione LGBTI+ Italiana</a></p>
         </li>
     </ul>
-    <h3>Fonti</h3>
-    <ul class="risorse-lista">
+
+    <h3 class="text-xl my-3">Lista API</h3>
+
+    <ul class="api-lista">
 
     </ul>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"
         integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg=="
         crossorigin="anonymous"></script>
+
     <script>
         const lista = document.querySelector('ul.risorse-lista')
 
         $.getJSON('https://mirai-mirandola-intersezionale.github.io/Centri-IST-e-controlli-API/db.json', function (
-        data) {
+            data) {
             let keys = Object.keys(data)
             keys.forEach(key => {
                 let li = document.createElement('li')
@@ -60,7 +70,7 @@
                 a.setAttribute('href', `https://ist-centri-controlli-api.herokuapp.com/${key}`)
                 a.setAttribute('target', '_blank')
                 li.appendChild(a)
-                a.innerText = '/' + key + ': ' + data[key].length
+                a.innerHTML = `/${key}: <span class="inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-red-100 bg-red-600 rounded-full">${data[key].length}</span>`
             })
         })
     </script>
