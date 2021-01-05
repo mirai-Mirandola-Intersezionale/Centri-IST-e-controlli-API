@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/mirai-Mirandola-Intersezionale/Centri-IST-e-controlli-API#readme",
   "dependencies": {
-    "json-server": "^0.16.3"
+    "json-server": "^0.16.3",
+    "swagger-ui": "^3.38.0"
   }
 }
