@@ -1,5 +1,4 @@
-{
-    "arcigay": [{
+[{
         "comune_ubicazione": "Ancona",
         "denom_struttura": "Arcigay Comunitas Ancona",
         "natura_giuridica": "Comitato Territoriale Arcigay",
@@ -980,4 +979,3 @@
         "num_telefono": ""
       }
     ]
-}
