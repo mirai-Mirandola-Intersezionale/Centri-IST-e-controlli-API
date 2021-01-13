@@ -15,3 +15,5 @@ Una lista di centri dove poter testarsi per le principali IST e HIV in modo anon
 - [ArciGay: Associazione LGBTI+ Italiana](https://www.arcigay.it/sedi/)
 
 - [Help Aids](http://www.helpaids.it/dove)
+
+- [LoveLife.ch](https://www.lovelife.ch/it/sesso-si-ma-sicuro-tutto-sul-safer-sex/)
