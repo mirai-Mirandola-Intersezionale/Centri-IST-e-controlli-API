@@ -9,16 +9,16 @@
   },
   "servers": [
     {
-      "url": "http://petstore.swagger.io/v1"
+      "url": "https://api.mirai.plus/api/v1/arcigay.json"
     }
   ],
   "paths": {
-    "/user": {
+    "/arcigay": {
       "get": {
-        "summary": "Details about a user",
-        "operationId": "listUser",
+        "summary": "Dettagli delle sedi ArciGay in Italia",
+        "operationId": "listArcigay",
         "tags": [
-          "user"
+          "arcigay"
         ],
         "parameters": [
           {
