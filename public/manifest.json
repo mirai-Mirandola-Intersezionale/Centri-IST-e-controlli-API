@@ -1,6 +1,6 @@
 {
-  "name": "Next.JS Progressive Web App",
-  "short_name": "Next PWA",
+  "name": "api.mirai",
+  "short_name": "api.mirai",
   "theme_color": "#ffffff",
   "background_color": "#004740",
   "display": "fullscreen",

@@ -5,18 +5,17 @@ export default function Home() {
     <div className={styles.container}>
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Benvenut* su api.mirai
         </h1>
 
         <p className={styles.description}>
-          Get started by editing{' '}
-          <code className={styles.code}>pages/index.js</code>
+          Le API per trovare i luoghi sicuri dove chiedere aiuto.
         </p>
 
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
-            <h3>Documentation &rarr;</h3>
-            <p>Find in-depth information about Next.js features and API.</p>
+            <h3>Documentazione &rarr;</h3>
+            <p>Scopri i metodi per utilizzare la nostra lista di API nella tua app.</p>
           </a>
 
           
@@ -29,8 +28,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by{' '}
-          <img src="/vercel.svg" alt="Vercel Logo" className={styles.logo} />
+          Dati raccolti da @mirai
         </a>
       </footer>
     </div>
