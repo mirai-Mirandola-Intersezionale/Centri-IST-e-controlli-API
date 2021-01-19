@@ -19,3 +19,5 @@ Una lista di centri dove poter testarsi per le principali IST e HIV in modo anon
 - [Help Aids](http://www.helpaids.it/dove)
 
 - [LoveLife.ch](https://www.lovelife.ch/it/sesso-si-ma-sicuro-tutto-sul-safer-sex/)
+
+- [Info Trans](https://www.infotrans.it/)
