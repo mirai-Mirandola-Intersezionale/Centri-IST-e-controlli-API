@@ -11,7 +11,7 @@
     "sito_web": "https://arcigayancona.it/",
     "pagina_arcigay": "https://www.arcigay.it/ancona/#.X_CAIS1aZsM",
     "social_links": {
-      "facebook": "https://www.facebook.com/comunitasaps",
+      "facebook": ["https://www.facebook.com/comunitasaps"],
       "twitter": "https://www.twitter.com/ArcigayAncona",
       "instagram": "",
       "youtube": ""
@@ -31,7 +31,7 @@
     "sito_web": "",
     "pagina_arcigay": "https://www.arcigay.it/aosta/",
     "social_links": {
-      "facebook": "https://www.facebook.com/arcigayqueervda/",
+      "facebook": ["https://www.facebook.com/arcigayqueervda/"],
       "twitter": "",
       "instagram": "",
       "youtube": ""
@@ -51,7 +51,7 @@
     "sito_web": "https://www.chimerarcobaleno.org/",
     "pagina_arcigay": "https://www.arcigay.it/arezzo/",
     "social_links": {
-      "facebook": "http://www.facebook.com/chimeraarcobaleno.arcigayarezzo/",
+      "facebook": ["http://www.facebook.com/chimeraarcobaleno.arcigayarezzo/"],
       "twitter": "",
       "instagram": "",
       "youtube": ""
@@ -71,7 +71,7 @@
     "sito_web": "https://loveisloveasti.wordpress.com/",
     "pagina_arcigay": "https://www.arcigay.it/asti/",
     "social_links": {
-      "facebook": "https://www.facebook.com/Love-is-Love-Associazione-LGBT-Asti-258771297660682/",
+      "facebook": ["https://www.facebook.com/Love-is-Love-Associazione-LGBT-Asti-258771297660682/"],
       "twitter": "",
       "instagram": "",
       "youtube": ""
@@ -91,7 +91,7 @@
     "sito_web": "https://www.arcigay.it/bari/",
     "pagina_arcigay": "https://www.arcigay.it/bari/",
     "social_links": {
-      "facebook": "http://www.facebook.com/Arcigay-Bari-342760739138287/",
+      "facebook": ["http://www.facebook.com/Arcigay-Bari-342760739138287/"],
       "twitter": "",
       "instagram": "",
       "youtube": ""
@@ -111,7 +111,7 @@
     "sito_web": "https://www.arcigaybat.it/",
     "pagina_arcigay": "https://www.arcigay.it/barletta/",
     "social_links": {
-      "facebook": "http://www.facebook.com/arcigaybat/",
+      "facebook": ["http://www.facebook.com/arcigaybat/"],
       "twitter": "",
       "instagram": "",
       "youtube": ""
@@ -131,7 +131,7 @@
     "sito_web": "http://www.arcigaybergamo.it/",
     "pagina_arcigay": "https://www.arcigay.it/bergamo/",
     "social_links": {
-      "facebook": "http://www.facebook.com/cives.bergamo, https://www.facebook.com/arcigaygiovaniBG/",
+      "facebook": ["http://www.facebook.com/cives.bergamo, https://www.facebook.com/arcigaygiovaniBG/"],
       "twitter": "https://www.twitter.com/arcigaybg_cives",
       "instagram": "",
       "youtube": ""
@@ -151,7 +151,7 @@
     "sito_web": "http://www.cassero.it/",
     "pagina_arcigay": "https://www.arcigay.it/bologna/",
     "social_links": {
-      "facebook": "https://www.facebook.com/casserolgbticenter/",
+      "facebook": ["https://www.facebook.com/casserolgbticenter/"],
       "twitter": "",
       "instagram": "",
       "youtube": ""
@@ -171,7 +171,7 @@
     "sito_web": "https://www.centaurus.org/",
     "pagina_arcigay": "https://www.arcigay.it/bolzano/",
     "social_links": {
-      "facebook": "https://www.facebook.com/centauruslgbti/",
+      "facebook": ["https://www.facebook.com/centauruslgbti/"],
       "twitter": "",
       "instagram": "http://instagram.com/centaurusbz",
       "youtube": ""
@@ -191,7 +191,7 @@
     "sito_web": "http://www.arcigaybrescia.it/",
     "pagina_arcigay": "https://www.arcigay.it/brescia/",
     "social_links": {
-      "facebook": "https://www.facebook.com/ArcigayOrlandoBrescia/, https://www.facebook.com/groups/155778387820601/",
+      "facebook": ["https://www.facebook.com/ArcigayOrlandoBrescia/, https://www.facebook.com/groups/155778387820601/"],
       "twitter": "https://www.twitter.com/ArcigayBrescia",
       "instagram": "",
       "youtube": ""
@@ -211,7 +211,7 @@
     "sito_web": "",
     "pagina_arcigay": "https://www.arcigay.it/campania/",
     "social_links": {
-      "facebook": "",
+      "facebook": [""],
       "twitter": "",
       "instagram": "",
       "youtube": ""
@@ -231,7 +231,7 @@
     "sito_web": "http://www.rainarcigaycaserta.it/",
     "pagina_arcigay": "https://www.arcigay.it/caserta/",
     "social_links": {
-      "facebook": "https://www.facebook.com/rainarcigaycaserta",
+      "facebook": ["https://www.facebook.com/rainarcigaycaserta"],
       "twitter": "https://www.twitter.com/ArcigayCaserta",
       "instagram": "https://www.instagram.com/arcigaycaserta/",
       "youtube": "https://www.youtube.com/user/raincaserta"
@@ -251,7 +251,7 @@
     "sito_web": "",
     "pagina_arcigay": "https://www.arcigay.it/castelli-romani/",
     "social_links": {
-      "facebook": "https://www.facebook.com/ArcigayCastelliRomani",
+      "facebook": ["https://www.facebook.com/ArcigayCastelliRomani"],
       "twitter": "",
       "instagram": "",
       "youtube": ""
@@ -271,7 +271,7 @@
     "sito_web": "",
     "pagina_arcigay": "https://www.arcigay.it/catania/",
     "social_links": {
-      "facebook": "https://www.facebook.com/arcigayct, https://www.facebook.com/groups/475056345848421/",
+      "facebook": ["https://www.facebook.com/arcigayct, https://www.facebook.com/groups/475056345848421/"],
       "twitter": "",
       "instagram": "",
       "youtube": ""
@@ -291,7 +291,7 @@
     "sito_web": "http://arcigaychieti.wordpress.com/",
     "pagina_arcigay": "https://www.arcigay.it/chieti/",
     "social_links": {
-      "facebook": "http://www.facebook.com/arcigay.chieti/, https://www.facebook.com/groups/gruppogiovaniarcigaychieti",
+      "facebook": ["http://www.facebook.com/arcigay.chieti/, https://www.facebook.com/groups/gruppogiovaniarcigaychieti"],
       "twitter": "https://www.twitter.com/ArcigayChieti",
       "instagram": "",
       "youtube": "http://www.youtube.com/Arcigay%20Chieti"
@@ -311,7 +311,7 @@
     "sito_web": "",
     "pagina_arcigay": "https://www.arcigay.it/como/",
     "social_links": {
-      "facebook": "https://www.facebook.com/arcigaycomo",
+      "facebook": ["https://www.facebook.com/arcigaycomo"],
       "twitter": "",
       "instagram": "",
       "youtube": ""
@@ -331,7 +331,7 @@
     "sito_web": "",
     "pagina_arcigay": "https://www.arcigay.it/cosenza/",
     "social_links": {
-      "facebook": "https://www.facebook.com/eoscosenza/",
+      "facebook": ["https://www.facebook.com/eoscosenza/"],
       "twitter": "",
       "instagram": "",
       "youtube": ""
@@ -351,7 +351,7 @@
     "sito_web": "http://www.arcigaycremona.it/",
     "pagina_arcigay": "https://www.arcigay.it/cremona/",
     "social_links": {
-      "facebook": "http://www.facebook.com/ArcigayCremona/",
+      "facebook": ["http://www.facebook.com/ArcigayCremona/"],
       "twitter": "https://www.twitter.com/ArcigayCremona",
       "instagram": "",
       "youtube": ""
@@ -371,7 +371,7 @@
     "sito_web": "http://www.grandaqueer.it/",
     "pagina_arcigay": "https://www.arcigay.it/cuneo/",
     "social_links": {
-      "facebook": "http://www.facebook.com/GrandaQueer-Cuneo-470972119724631/",
+      "facebook": ["http://www.facebook.com/GrandaQueer-Cuneo-470972119724631/"],
       "twitter": "",
       "instagram": "",
       "youtube": ""
@@ -391,7 +391,7 @@
     "sito_web": "https://arcigay.it/ferrara",
     "pagina_arcigay": "https://www.arcigay.it/ferrara/",
     "social_links": {
-      "facebook": "https://www.facebook.com/arcigayferrara/, https://www.facebook.com/groups/GiovaniFerrara",
+      "facebook": ["https://www.facebook.com/arcigayferrara/, https://www.facebook.com/groups/GiovaniFerrara"],
       "twitter": "",
       "instagram": "http://instagram.com/arcigayferrara",
       "youtube": ""
@@ -411,7 +411,7 @@
     "sito_web": "https://www.arcigayfirenze.it/",
     "pagina_arcigay": "https://www.arcigay.it/firenze/",
     "social_links": {
-      "facebook": "https://www.facebook.com/arcigayFi/",
+      "facebook": ["https://www.facebook.com/arcigayFi/"],
       "twitter": "",
       "instagram": "",
       "youtube": ""
@@ -431,7 +431,7 @@
     "sito_web": "http://arcigayfoggia.altervista.com/",
     "pagina_arcigay": "https://www.arcigay.it/foggia/",
     "social_links": {
-      "facebook": "http://www.facebook.com/ArcigayFoggiaLeBigotte/",
+      "facebook": ["http://www.facebook.com/ArcigayFoggiaLeBigotte/"],
       "twitter": "",
       "instagram": "",
       "youtube": ""
@@ -451,7 +451,7 @@
     "sito_web": "",
     "pagina_arcigay": "https://www.arcigay.it/frosinone/",
     "social_links": {
-      "facebook": "https://www.facebook.com/arcigayfrosinone",
+      "facebook": ["https://www.facebook.com/arcigayfrosinone"],
       "twitter": "",
       "instagram": "",
       "youtube": ""
@@ -471,7 +471,7 @@
     "sito_web": "http://www.arcigaygenova.it/",
     "pagina_arcigay": "https://www.arcigay.it/genova/",
     "social_links": {
-      "facebook": "http://www.facebook.com/arcigaygenova/, https://www.facebook.com/gruppogiovani.arcigaygenova/",
+      "facebook": ["http://www.facebook.com/arcigaygenova/, https://www.facebook.com/gruppogiovani.arcigaygenova/"],
       "twitter": "https://www.twitter.com/ArcigayApprodo",
       "instagram": "http://instagram.com/arcigaygenova",
       "youtube": ""
@@ -491,7 +491,7 @@
     "sito_web": "http://www.arcigayimperia.it/",
     "pagina_arcigay": "https://www.arcigay.it/imperia/",
     "social_links": {
-      "facebook": "https://www.facebook.com/arcigayimperia",
+      "facebook": ["https://www.facebook.com/arcigayimperia"],
       "twitter": "https://www.twitter.com/Arcigayimperia",
       "instagram": "",
       "youtube": ""
@@ -511,7 +511,7 @@
     "sito_web": "https://laquila.arcigay.it/",
     "pagina_arcigay": "https://www.arcigay.it/laquila/",
     "social_links": {
-      "facebook": "http://www.facebook.com/arcigay.massimoconsolilaquila",
+      "facebook": ["http://www.facebook.com/arcigay.massimoconsolilaquila"],
       "twitter": "https://www.twitter.com/ArcigayAQ",
       "instagram": "",
       "youtube": ""
@@ -531,7 +531,7 @@
     "sito_web": "",
     "pagina_arcigay": "https://www.arcigay.it/latina/",
     "social_links": {
-      "facebook": "https://www.facebook.com/Seicomesei-Associazione-ONLUS-1386903218241396/, https://www.facebook.com/lerospe/",
+      "facebook": ["https://www.facebook.com/Seicomesei-Associazione-ONLUS-1386903218241396/, https://www.facebook.com/lerospe/"],
       "twitter": "",
       "instagram": "",
       "youtube": ""
@@ -551,7 +551,7 @@
     "sito_web": "https://lefateignoranti.arcigay.it/",
     "pagina_arcigay": "https://www.arcigay.it/le-fate-ignoranti/",
     "social_links": {
-      "facebook": "https://www.facebook.com/tarasarcobaleno/",
+      "facebook": ["https://www.facebook.com/tarasarcobaleno/"],
       "twitter": "",
       "instagram": "",
       "youtube": ""
@@ -571,7 +571,7 @@
     "sito_web": "http://www.arcigaysalento.it/",
     "pagina_arcigay": "https://www.arcigay.it/lecce/",
     "social_links": {
-      "facebook": "https://www.facebook.com/arcigaysalento/",
+      "facebook": ["https://www.facebook.com/arcigaysalento/"],
       "twitter": "https://twitter.com/arcigaysalento/",
       "instagram": "https://www.instagram.com/arcigaysalento/",
       "youtube": "https://www.youtube.com/c/ArcigaySalento/"
@@ -591,7 +591,7 @@
     "sito_web": "http://www.arcigaylivorno.it/",
     "pagina_arcigay": "https://www.arcigay.it/livorno/",
     "social_links": {
-      "facebook": "https://www.facebook.com/ArcigayLi, https://www.facebook.com/gruppogiovaniArcigayLi",
+      "facebook": ["https://www.facebook.com/ArcigayLi, https://www.facebook.com/gruppogiovaniArcigayLi"],
       "twitter": "https://www.twitter.com/Arcigay_Livorno",
       "instagram": "http://instagram.com/arcigay_livorno",
       "youtube": "http://www.youtube.com/Arcigay%20Livorno"
@@ -611,7 +611,7 @@
     "sito_web": "http://www.arcigaymantova.it/",
     "pagina_arcigay": "https://www.arcigay.it/mantova/",
     "social_links": {
-      "facebook": "http://www.facebook.com/Arcigay-La-Salamandra-Mantova-260753190625299/",
+      "facebook": ["http://www.facebook.com/Arcigay-La-Salamandra-Mantova-260753190625299/"],
       "twitter": "",
       "instagram": "https://www.instagram.com/arcigay_la_salamandra/",
       "youtube": ""
@@ -631,7 +631,7 @@
     "sito_web": "",
     "pagina_arcigay": "https://www.arcigay.it/messina/",
     "social_links": {
-      "facebook": "",
+      "facebook": [""],
       "twitter": "",
       "instagram": "",
       "youtube": ""
@@ -651,7 +651,7 @@
     "sito_web": "http://www.arcigaymilano.org/",
     "pagina_arcigay": "https://www.arcigay.it/milano/",
     "social_links": {
-      "facebook": "http://www.facebook.com/arcigaymilano/",
+      "facebook": ["http://www.facebook.com/arcigaymilano/"],
       "twitter": "",
       "instagram": "",
       "youtube": ""
@@ -671,7 +671,7 @@
     "sito_web": "http://www.arcigaymodena.org/",
     "pagina_arcigay": "https://www.arcigay.it/modena/",
     "social_links": {
-      "facebook": "https://www.facebook.com/arcigaymodenamatthewshepard/, https://www.facebook.com/ArciGayGiovaniModena",
+      "facebook": ["https://www.facebook.com/arcigaymodenamatthewshepard/, https://www.facebook.com/ArciGayGiovaniModena"],
       "twitter": "",
       "instagram": "",
       "youtube": ""
@@ -691,7 +691,7 @@
     "sito_web": "http://arcigaymolise.wordpress.com/",
     "pagina_arcigay": "https://www.arcigay.it/molise/",
     "social_links": {
-      "facebook": "https://www.facebook.com/ArcigayMolise",
+      "facebook": ["https://www.facebook.com/ArcigayMolise"],
       "twitter": "",
       "instagram": "",
       "youtube": ""
@@ -711,7 +711,7 @@
     "sito_web": "http://www.arcigaynapoli.org/",
     "pagina_arcigay": "https://www.arcigay.it/napoli/",
     "social_links": {
-      "facebook": "http://www.facebook.com/arcigaynapoli, https://www.facebook.com/gruppogiovaniarcigay.napoli.3",
+      "facebook": ["http://www.facebook.com/arcigaynapoli, https://www.facebook.com/gruppogiovaniarcigay.napoli.3"],
       "twitter": "https://www.twitter.com/arcigaynapoli",
       "instagram": "",
       "youtube": ""
@@ -731,7 +731,7 @@
     "sito_web": "http://www.tralaltro.it/",
     "pagina_arcigay": "https://www.arcigay.it/padova/",
     "social_links": {
-      "facebook": "https://www.facebook.com/ArcigayTralaltroPadova/, https://www.facebook.com/groups/tralaltrogiovani/",
+      "facebook": ["https://www.facebook.com/ArcigayTralaltroPadova/, https://www.facebook.com/groups/tralaltrogiovani/"],
       "twitter": "https://www.twitter.com/TralaltroPadova",
       "instagram": "",
       "youtube": ""
@@ -751,7 +751,7 @@
     "sito_web": "http://arcigaypalermo.wordpress.com/",
     "pagina_arcigay": "https://www.arcigay.it/palermo/",
     "social_links": {
-      "facebook": "http://www.facebook.com/ArcigayPalermo/, http://www.facebook.com/giovaniarcigaypalermo/",
+      "facebook": ["http://www.facebook.com/ArcigayPalermo/, http://www.facebook.com/giovaniarcigaypalermo/"],
       "twitter": "https://www.twitter.com/arcigaypalermo",
       "instagram": "http://instagram.com/instagram.com/arcigaypalermo/",
       "youtube": ""
@@ -771,7 +771,7 @@
     "sito_web": "http://www.coming-aut.it/",
     "pagina_arcigay": "https://www.arcigay.it/pavia/",
     "social_links": {
-      "facebook": "http://www.facebook.com/Arcigay-Pavia-Coming-Aut-292389862621/",
+      "facebook": ["http://www.facebook.com/Arcigay-Pavia-Coming-Aut-292389862621/"],
       "twitter": "",
       "instagram": "http://instagram.com/arcigaypavia",
       "youtube": ""
@@ -791,7 +791,7 @@
     "sito_web": "http://www.arcigayagora.it/",
     "pagina_arcigay": "https://www.arcigay.it/pesaro-urbino/",
     "social_links": {
-      "facebook": "http://www.facebook.com/arcigayagora/",
+      "facebook": ["http://www.facebook.com/arcigayagora/"],
       "twitter": "",
       "instagram": "",
       "youtube": ""
@@ -811,7 +811,7 @@
     "sito_web": "http://mazipescara.wordpress.com/",
     "pagina_arcigay": "https://www.arcigay.it/mazi-pescara/",
     "social_links": {
-      "facebook": "https://www.facebook.com/MaziArcigayPescara/",
+      "facebook": ["https://www.facebook.com/MaziArcigayPescara/"],
       "twitter": "",
       "instagram": "http://instagram.com/mazi.pescara",
       "youtube": ""
@@ -831,7 +831,7 @@
     "sito_web": "http://piacenzagay.blogspot.com/",
     "pagina_arcigay": "https://www.arcigay.it/piacenza/",
     "social_links": {
-      "facebook": "http://www.facebook.com/arcigaypiacenza",
+      "facebook": ["http://www.facebook.com/arcigaypiacenza"],
       "twitter": "https://www.twitter.com/ArcigayPC",
       "instagram": "",
       "youtube": "https://www.youtube.com/channel/UCQ3l0vVPWNlXOe13cq_vaQw"
@@ -851,7 +851,7 @@
     "sito_web": "http://www.pinkriot.arcigaypisa.it/",
     "pagina_arcigay": "https://www.arcigay.it/pisa/",
     "social_links": {
-      "facebook": "http://www.facebook.com/arcigay.pisa",
+      "facebook": ["http://www.facebook.com/arcigay.pisa"],
       "twitter": "https://www.twitter.com/PinkriotPisa",
       "instagram": "http://instagram.com/pinkriot_arcigay_pisa",
       "youtube": ""
@@ -871,7 +871,7 @@
     "sito_web": "http://www.arcigaypistoia.it/",
     "pagina_arcigay": "https://www.arcigay.it/pistoia/",
     "social_links": {
-      "facebook": "http://www.facebook.com/lafenice.arcigay/",
+      "facebook": ["http://www.facebook.com/lafenice.arcigay/"],
       "twitter": "https://www.twitter.com/ArcigayPistoia",
       "instagram": "",
       "youtube": ""
@@ -891,7 +891,7 @@
     "sito_web": "http://arcigaybasilicata.blogspot.it/",
     "pagina_arcigay": "https://www.arcigay.it/potenza/",
     "social_links": {
-      "facebook": "http://www.facebook.com/arcigay.basilicata/",
+      "facebook": ["http://www.facebook.com/arcigay.basilicata/"],
       "twitter": "",
       "instagram": "",
       "youtube": ""
@@ -911,7 +911,7 @@
     "sito_web": "",
     "pagina_arcigay": "https://www.arcigay.it/ragusa/",
     "social_links": {
-      "facebook": "https://www.facebook.com/arcigayrg/",
+      "facebook": ["https://www.facebook.com/arcigayrg/"],
       "twitter": "https://www.twitter.com/ragusa_arcigay",
       "instagram": "",
       "youtube": ""
@@ -931,7 +931,7 @@
     "sito_web": "",
     "pagina_arcigay": "https://www.arcigay.it/ravenna/",
     "social_links": {
-      "facebook": "https://www.facebook.com/ArcigayRavenna/, https://www.facebook.com/GruppoGiovaniLgbtFaenza/",
+      "facebook": ["https://www.facebook.com/ArcigayRavenna/, https://www.facebook.com/GruppoGiovaniLgbtFaenza/"],
       "twitter": "",
       "instagram": "",
       "youtube": ""
@@ -951,7 +951,7 @@
     "sito_web": "",
     "pagina_arcigay": "https://www.arcigay.it/reggiocalabria/",
     "social_links": {
-      "facebook": "https://www.facebook.com/arcigayidm/, https://www.facebook.com/RetegiovaniRC/",
+      "facebook": ["https://www.facebook.com/arcigayidm/, https://www.facebook.com/RetegiovaniRC/"],
       "twitter": "",
       "instagram": "http://instagram.com/arcigayidm",
       "youtube": ""
@@ -971,7 +971,7 @@
     "sito_web": "https://arcigayreggioemilia.it/",
     "pagina_arcigay": "https://www.arcigay.it/reggio-emilia/",
     "social_links": {
-      "facebook": "https://www.facebook.com/arcigayreggioemilia",
+      "facebook": ["https://www.facebook.com/arcigayreggioemilia"],
       "twitter": "",
       "instagram": "https://www.instagram.com/arcigaygioconda/",
       "youtube": ""
@@ -991,7 +991,7 @@
     "sito_web": "",
     "pagina_arcigay": "https://www.arcigay.it/rieti/",
     "social_links": {
-      "facebook": "https://www.facebook.com/arcigayrieti",
+      "facebook": ["https://www.facebook.com/arcigayrieti"],
       "twitter": "",
       "instagram": "",
       "youtube": ""
@@ -1011,7 +1011,7 @@
     "sito_web": "http://www.arcigay.rimini.it/",
     "pagina_arcigay": "https://www.arcigay.it/rimini/",
     "social_links": {
-      "facebook": "http://www.facebook.com/Arcigayalanturing/",
+      "facebook": ["http://www.facebook.com/Arcigayalanturing/"],
       "twitter": "https://www.twitter.com/ArcigayRimini",
       "instagram": "",
       "youtube": ""
@@ -1031,7 +1031,7 @@
     "sito_web": "http://www.arcigayroma.it/",
     "pagina_arcigay": "https://www.arcigay.it/roma/",
     "social_links": {
-      "facebook": "http://www.facebook.com/ArcigayRM",
+      "facebook": ["http://www.facebook.com/ArcigayRM"],
       "twitter": "",
       "instagram": "",
       "youtube": ""
@@ -1051,7 +1051,7 @@
     "sito_web": "",
     "pagina_arcigay": "https://www.arcigay.it/ostia/",
     "social_links": {
-      "facebook": "",
+      "facebook": [""],
       "twitter": "",
       "instagram": "",
       "youtube": ""
@@ -1071,7 +1071,7 @@
     "sito_web": "http://www.politropia.org/",
     "pagina_arcigay": "https://www.arcigay.it/rovigo/",
     "social_links": {
-      "facebook": "http://www.facebook.com/politropia/",
+      "facebook": ["http://www.facebook.com/politropia/"],
       "twitter": "https://www.twitter.com/politropia",
       "instagram": "",
       "youtube": ""
@@ -1091,7 +1091,7 @@
     "sito_web": "http://www.arcigaysalerno.it/",
     "pagina_arcigay": "https://www.arcigay.it/salerno/",
     "social_links": {
-      "facebook": "http://www.facebook.com/Arcigay.Salerno/",
+      "facebook": ["http://www.facebook.com/Arcigay.Salerno/"],
       "twitter": "",
       "instagram": "",
       "youtube": ""
@@ -1111,7 +1111,7 @@
     "sito_web": "",
     "pagina_arcigay": "https://www.arcigay.it/savona/",
     "social_links": {
-      "facebook": "",
+      "facebook": [""],
       "twitter": "",
       "instagram": "",
       "youtube": ""
@@ -1131,7 +1131,7 @@
     "sito_web": "http://www.movimentopansessuale.it/",
     "pagina_arcigay": "https://www.arcigay.it/siena/",
     "social_links": {
-      "facebook": "https://www.facebook.com/m.pansessuale/",
+      "facebook": ["https://www.facebook.com/m.pansessuale/"],
       "twitter": "",
       "instagram": "http://instagram.com/arcigaysienaofficial",
       "youtube": ""
@@ -1151,7 +1151,7 @@
     "sito_web": "http://arcigaysiracusa.altervista.org/",
     "pagina_arcigay": "https://www.arcigay.it/siracusa/",
     "social_links": {
-      "facebook": "http://www.facebook.com/arcigay.siracusa/",
+      "facebook": ["http://www.facebook.com/arcigay.siracusa/"],
       "twitter": "",
       "instagram": "",
       "youtube": ""
@@ -1171,7 +1171,7 @@
     "sito_web": "",
     "pagina_arcigay": "https://www.arcigay.it/strambopoli/",
     "social_links": {
-      "facebook": "",
+      "facebook": [""],
       "twitter": "",
       "instagram": "",
       "youtube": ""
@@ -1191,7 +1191,7 @@
     "sito_web": "",
     "pagina_arcigay": "https://www.arcigay.it/taranto/",
     "social_links": {
-      "facebook": "",
+      "facebook": [""],
       "twitter": "",
       "instagram": "",
       "youtube": ""
@@ -1211,7 +1211,7 @@
     "sito_web": "http://arcigayteramo.wordpress.com/",
     "pagina_arcigay": "https://www.arcigay.it/teramo/",
     "social_links": {
-      "facebook": "http://www.facebook.com/arcigay.teramo",
+      "facebook": ["http://www.facebook.com/arcigay.teramo"],
       "twitter": "",
       "instagram": "",
       "youtube": ""
@@ -1231,7 +1231,7 @@
     "sito_web": "http://www.arcigaytorino.it/",
     "pagina_arcigay": "https://www.arcigay.it/torino/",
     "social_links": {
-      "facebook": "http://www.facebook.com/arcigaytorino.ottaviomai/, https://www.facebook.com/young.sterland/",
+      "facebook": ["http://www.facebook.com/arcigaytorino.ottaviomai/, https://www.facebook.com/young.sterland/"],
       "twitter": "https://www.twitter.com/ArcigayTorino",
       "instagram": "",
       "youtube": ""
@@ -1251,7 +1251,7 @@
     "sito_web": "https://www.arcigaydeltrentino.it/",
     "pagina_arcigay": "https://www.arcigay.it/trento/",
     "social_links": {
-      "facebook": "http://www.facebook.com/arcigaytrentino/, http://www.facebook.com/oltrelemuratrento/",
+      "facebook": ["http://www.facebook.com/arcigaytrentino/, http://www.facebook.com/oltrelemuratrento/"],
       "twitter": "",
       "instagram": "",
       "youtube": ""
@@ -1271,7 +1271,7 @@
     "sito_web": "http://www.arcigaytrieste.it/",
     "pagina_arcigay": "https://www.arcigay.it/trieste/",
     "social_links": {
-      "facebook": "http://www.facebook.com/arcigay.triestegorizia",
+      "facebook": ["http://www.facebook.com/arcigay.triestegorizia"],
       "twitter": "",
       "instagram": "",
       "youtube": ""
@@ -1291,7 +1291,7 @@
     "sito_web": "http://www.arcigayfriuli.it/",
     "pagina_arcigay": "https://www.arcigay.it/udine/",
     "social_links": {
-      "facebook": "https://www.facebook.com/arcigay.friuli/",
+      "facebook": ["https://www.facebook.com/arcigay.friuli/"],
       "twitter": "",
       "instagram": "",
       "youtube": ""
@@ -1311,7 +1311,7 @@
     "sito_web": "http://www.arcigayvarese.it/",
     "pagina_arcigay": "https://www.arcigay.it/varese/",
     "social_links": {
-      "facebook": "https://www.facebook.com/arcigayvarese/",
+      "facebook": ["https://www.facebook.com/arcigayvarese/"],
       "twitter": "https://www.twitter.com/arcigayvarese",
       "instagram": "http://instagram.com/arcigayvarese",
       "youtube": "https://www.youtube.com/channel/UCZ8C6jojT01joNpMU0yqb7w"
@@ -1331,7 +1331,7 @@
     "sito_web": "https://www.arcigaynuovicolori.it/",
     "pagina_arcigay": "https://www.arcigay.it/verbania/",
     "social_links": {
-      "facebook": "https://www.facebook.com/arcigaynuovicolori/",
+      "facebook": ["https://www.facebook.com/arcigaynuovicolori/"],
       "twitter": "",
       "instagram": "",
       "youtube": ""
@@ -1351,7 +1351,7 @@
     "sito_web": "http://www.rainbowvalsesia.wordpress.com/",
     "pagina_arcigay": "https://www.arcigay.it/vercelli/",
     "social_links": {
-      "facebook": "https://www.facebook.com/Arcigay-Rainbow-Valsesia-Vercelli-e-Biella-191113797585626/",
+      "facebook": ["https://www.facebook.com/Arcigay-Rainbow-Valsesia-Vercelli-e-Biella-191113797585626/"],
       "twitter": "",
       "instagram": "",
       "youtube": ""
@@ -1371,7 +1371,7 @@
     "sito_web": "http://www.arcigayverona.org/",
     "pagina_arcigay": "https://www.arcigay.it/verona/",
     "social_links": {
-      "facebook": "https://www.facebook.com/PianetaMilkVerona, https://www.arcigay.it/verona/www.facebook.com/giovanimilkverona/",
+      "facebook": ["https://www.facebook.com/PianetaMilkVerona, https://www.arcigay.it/verona/www.facebook.com/giovanimilkverona/"],
       "twitter": "https://www.twitter.com/pianetaurano",
       "instagram": "",
       "youtube": ""
@@ -1391,7 +1391,7 @@
     "sito_web": "http://www.arcigayvicenza.com/",
     "pagina_arcigay": "https://www.arcigay.it/vicenza/",
     "social_links": {
-      "facebook": "http://www.facebook.com/arcigayvicenza, https://www.facebook.com/ArcigayVicenzaGiovani/",
+      "facebook": ["http://www.facebook.com/arcigayvicenza, https://www.facebook.com/ArcigayVicenzaGiovani/"],
       "twitter": "",
       "instagram": "",
       "youtube": ""
