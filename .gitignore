@@ -108,3 +108,6 @@ dist
 
 #Numbers Files
 *.numbers
+
+#Test directory to store files not ready for being deployed
+test/
