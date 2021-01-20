@@ -1,5 +1,4 @@
-const title =
-  '/api.mirai - API libere per tutti'
+const title ='/api.mirai - API libere per tutti'
 const description = 'API di luoghi dove chiedere aiuto e consulti'
 const SEO = {
   title,
