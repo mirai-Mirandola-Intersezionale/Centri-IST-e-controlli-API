@@ -1,179 +1,253 @@
 [{
-    "regione": "Calabria",
+    "regione": "Calabria"
+}, {
     "nome": "Arcigay EOS Cosenza ",
     "indirizzo": "Cosenza(CS) - Corso Telesio,98"
 }, {
-    "regione": "Campania ",
+    "regione": "Campania"
+}, {
     "nome": "Antinoo Arcigay Napoli ",
-    "indirizzo": "Napoli(NA) - Vico San Geronimo, 17 ",
+    "indirizzo": "Napoli(NA) - Vico San Geronimo, 17 "
+}, {
     "nome": "Associazione Transessuale Napoli - ATN",
-    "indirizzo": "Napoli (NA) - Piazza E. De Nicola, 46 ",
+    "indirizzo": "Napoli (NA) - Piazza E. De Nicola, 46 "
+}, {
     "nome": "Centro di Andrologia e Medicina della Riproduzione e delle Sessualità Maschile e Femminile, Dipartimento di Medicina Clinica e Chirurgia, AOU Federico II",
-    "indirizzo": "Napoli (NA) - Via Sergio Pansini, 5 ",
+    "indirizzo": "Napoli (NA) - Via Sergio Pansini, 5 "
+}, {
     "nome": "Consultorio Familiare - ASL Napoli 1 Centro ",
-    "indirizzo": "Napoli(NA) - Via Egiziaca a Forcella, 16 ",
+    "indirizzo": "Napoli(NA) - Via Egiziaca a Forcella, 16 "
+}, {
     "nome": "i Ken APS ONLUS PJ Rainbow Center Napoli - Questa casa non è un Albergo",
-    "indirizzo": "Napoli (NA) - Via Antonio Genovesi, 36 ",
+    "indirizzo": "Napoli (NA) - Via Antonio Genovesi, 36 "
+}, {
     "nome": "i Ken APS ONLUS PJ Rainbow Center Napoli - Sportello i Ken - CGIL Na Nuovi diritti",
-    "indirizzo": "Napoli (NA) - Via Toledo, 353 (stanza 218) ",
+    "indirizzo": "Napoli (NA) - Via Toledo, 353 (stanza 218) "
+}, {
     "nome": "Unità Operativa Complessa di Psichiatria e Psicologia, Area Clinica Disforia di Genere, DAI Testa - Collo, AOU Federico II ",
-    "indirizzo": "Napoli(NA) - Via Sergio Pansini, 5 ",
+    "indirizzo": "Napoli(NA) - Via Sergio Pansini, 5 "
+}, {
     "nome": "Consultorio InConTra",
-    "indirizzo": "Portici (NA) - Corso Garibaldi, 45/B ",
+    "indirizzo": "Portici (NA) - Corso Garibaldi, 45/B "
+}, {
     "nome": "Pride Vesuvio Rainbow",
-    "indirizzo": "Torre Annunziata (NA) - Via Fusco, 1 ",
+    "indirizzo": "Torre Annunziata (NA) - Via Fusco, 1 "
+}, {
     "nome": "Consultorio DIG - Disforia di Genere ",
     "indirizzo": "Salerno(SA) - Corso Garibaldi, 3 "
 }, {
-    "regione": "Emilia Romagna ",
+    "regione": "Emilia Romagna "
+}, {
     "nome": "Arcigay - APS ",
-    "indirizzo": "Bologna(BO) - Via Don Minzoni,18",
+    "indirizzo": "Bologna(BO) - Via Don Minzoni,18"
+}, {
     "nome": "Associazione Gruppo Trans ",
-    "indirizzo": "Bologna(BO) - Via Marconi, 18 ",
+    "indirizzo": "Bologna(BO) - Via Marconi, 18 "
+}, {
     "nome": "MIT Movimento Identità Trans ",
-    "indirizzo": "Bologna(BO) - Via Polese,22 ",
+    "indirizzo": "Bologna(BO) - Via Polese,22 "
+}, {
     "nome": "Policlinico S.Orsola Malpighi ",
-    "indirizzo": "Bologna(BO) - Via Giuseppe Massarenti,13",
+    "indirizzo": "Bologna(BO) - Via Giuseppe Massarenti,13"
+}, {
     "nome": "Voice Center, Unità Operativa ORL,Ospedale Maurizio Bufalini,Cesena ",
-    "indirizzo": "Cesena(FC) - Viale Giovanni Ghirotti, 286 ",
+    "indirizzo": "Cesena(FC) - Viale Giovanni Ghirotti, 286 "
+}, {
     "nome": "Arcigay Modena Matthew Shepard ",
     "indirizzo": "Modena(MO) - Via IV Novembre, 40 / A "
 }, {
-    "regione": "Friuli Venezia Giulia",
+    "regione": "Friuli Venezia Giulia"
+}, {
     "nome": "Ambulatorio Pediatrico per la Varianza di Genere (APeVaGe), Istituto per l' Infanzia IRCCS Burlo Garofalo ",
-    "indirizzo": "Trieste(TS) - Via dell 'Istria, 65/1 ",
+    "indirizzo": "Trieste(TS) - Via dell 'Istria, 65/1 "
+}, {
     "nome": "Centro Disforia di Genere, Azienda Sanitaria Universitaria Giuliano Isontina(ASU GI)",
-    "indirizzo": "Trieste(TS) - Strada di Fiume, 447",
+    "indirizzo": "Trieste(TS) - Strada di Fiume, 447"
+}, {
     "nome": "Centro interdipartimentale disforia di genere(CeDiG), Clinica Psichiatrica, Azienda Sanitaria Universitaria Giuliano Isontina(ASU GI) ",
-    "indirizzo": "Trieste(TS) - Via De Pastrovich, 3 ",
+    "indirizzo": "Trieste(TS) - Via De Pastrovich, 3 "
+}, {
     "nome": "SOC Endocrinologia, Malattie del Metabolismo e Nutrizione Clinica, Azienda Sanitaria Universitaria Integrata Friuli Centrale ",
     "indirizzo": "Udine(UD) - Piazzale S.M.Misericordia, 15 "
 }, {
-    "regione": "Lazio",
+    "regione": "Lazio"
+}, {
     "nome": "Collettivo Ugualmente",
-    "indirizzo": "Frosinone (FR) - Corso della Repubblica, 48/52",
+    "indirizzo": "Frosinone (FR) - Corso della Repubblica, 48/52"
+}, {
     "nome": "Ambulatorio di Endocrinologia e Andrologia - SMIC 08 - AOU Policlinico Umberto I ",
-    "indirizzo": "Roma(RM) - Viale del Policlinico, 155",
+    "indirizzo": "Roma(RM) - Viale del Policlinico, 155"
+}, {
     "nome": "Associazione di Volontariato Libellula",
-    "indirizzo": "Roma (RM) - Viale Giustiniano Imperatore, 280/A",
+    "indirizzo": "Roma (RM) - Viale Giustiniano Imperatore, 280/A"
+}, {
     "nome": "Azione Trans ",
-    "indirizzo": "Roma(RM) - Via Nicola Zabaglia, 14 66 '",
+    "indirizzo": "Roma(RM) - Via Nicola Zabaglia, 14 66 '"
+}, {
     "nome": "CEST - Centro Salute Trans e Gender Variant ",
-    "indirizzo": "Roma(RM) - Via Monte Santo, 7 31 '",
+    "indirizzo": "Roma(RM) - Via Monte Santo, 7 31 '"
+}, {
     "nome": "Circolo di Cultura Omosessuale\"Mario Mieli\"",
-    "indirizzo": "Roma(RM) - Via Efeso, 2 A ",
+    "indirizzo": "Roma(RM) - Via Efeso, 2 A "
+}, {
     "nome": "Gay Center",
-    "indirizzo": "Roma (RM) - Via Nicola Zabaglia, 14 ",
+    "indirizzo": "Roma (RM) - Via Nicola Zabaglia, 14 "
+}, {
     "nome": "Gender X ",
-    "indirizzo": "Roma(RM) - Via Tiberina, 82",
+    "indirizzo": "Roma(RM) - Via Tiberina, 82"
+}, {
     "nome": "Servizio per l' Adeguamento tra l 'Identità Fisica e l' Identità Psichica(SAIFIP), Azienda Ospedaliera San Camillo - Forlanini ",
-    "indirizzo": "Roma(RM) - Circonvallazione Gianicolense, 87",
+    "indirizzo": "Roma(RM) - Circonvallazione Gianicolense, 87"
+}, {
     "nome": "L' Altro circolo– Centro culturale di iniziativa Omosessuale– Sportello Trans ",
     "indirizzo": "Viterbo(VT) - Via Igino Garbini, 51 / A "
 }, {
-    "regione": "Liguria 77 '",
+    "regione": "Liguria 77 '"
+}, {
     "nome": "AIED Genova ",
-    "indirizzo": "Genova(GE) - Via Cesarea 37 / E / R 87 ' ",
+    "indirizzo": "Genova(GE) - Via Cesarea 37 / E / R 87 ' "
+}, {
     "nome": "Arcigay Genova– Approdo Lilia Mulas A.P.S. ",
-    "indirizzo": "Genova(GE) - Via del Lagaccio, 92 R 26 ' ",
+    "indirizzo": "Genova(GE) - Via del Lagaccio, 92 R 26 ' "
+}, {
     "nome": "Centro Psichiatria Forense dedicato alla disforia di genere, Dipartimento di Salute Mentale e Dipendenze, ASL 3, Genova",
-    "indirizzo": "Genova (GE) - Via Giovanni Maggio, 3 82' ",
+    "indirizzo": "Genova (GE) - Via Giovanni Maggio, 3 82' "
+}, {
     "nome": "Genova Gaya ",
     "indirizzo": "Genova(GE) - Salita Superiore della Noce, 27 "
 }, {
-    "regione": "Lombardia 75 '",
+    "regione": "Lombardia 75 '"
+}, {
     "nome": "Arcigay Orlando Brescia, Gruppo persone T \"La fenice\"",
-    "indirizzo": "Brescia(BS) - Via Valerio Paitone, 42",
+    "indirizzo": "Brescia(BS) - Via Valerio Paitone, 42"
+}, {
     "nome": "Ala Milano Sportello Trans ",
-    "indirizzo": "Milano(MI) - Via Boifava, 60 / A",
+    "indirizzo": "Milano(MI) - Via Boifava, 60 / A"
+}, {
     "nome": "Associazione per la cultura e l' etica transgenere ",
-    "indirizzo": "Milano(MI) - Via Soperga 36 c / o Associazione\"ll Guado\"",
+    "indirizzo": "Milano(MI) - Via Soperga 36 c / o Associazione\"ll Guado\""
+}, {
     "nome": "ASST Grande Ospedale Metropolitano Niguarda - Centro per l ' adeguamento di genere ",
-    "indirizzo": "Milano(MI) - Piazza Ospedale Maggiore, 3",
+    "indirizzo": "Milano(MI) - Piazza Ospedale Maggiore, 3"
+}, {
     "nome": "Centro di iniziativa Gay - Arcigay Milano",
-    "indirizzo": "Milano (MI) - Via Bezzecca, 3 ",
+    "indirizzo": "Milano (MI) - Via Bezzecca, 3 "
+}, {
     "nome": "Circolo Culturale TBIGL + “Alessandro Rizzo Lari” ",
-    "indirizzo": "Milano(MI) - Via Soperga, 36",
+    "indirizzo": "Milano(MI) - Via Soperga, 36"
+}, {
     "nome": "Istituto Auxologico Italiano",
-    "indirizzo": "Milano (MI) - Via Ariosto, 9",
+    "indirizzo": "Milano (MI) - Via Ariosto, 9"
+}, {
     "nome": "Sportello trans \"Hande Kader\"presso Arcigay Mantova ",
-    "indirizzo": "Mantova(MN) - Via Fratelli Bandiera, 10",
+    "indirizzo": "Mantova(MN) - Via Fratelli Bandiera, 10"
+}, {
     "nome": "Coming - Aut LGBTI + Community Center APS ",
-    "indirizzo": "Pavia(PV) - Corso Garibaldi, 20 N ",
+    "indirizzo": "Pavia(PV) - Corso Garibaldi, 20 N "
+}, {
     "nome": "Arcigay Varese ",
     "indirizzo": "Varese(VA) - Via Bernardino Luini, 15 "
 }, {
-    "regione": "Piemonte 80 ' ",
+    "regione": "Piemonte 80 ' "
+}, {
     "nome": "Ospedale Santa Croce",
-    "indirizzo": "Moncalieri (TO) - Piazza Amedeo Ferdinando, 3",
+    "indirizzo": "Moncalieri (TO) - Piazza Amedeo Ferdinando, 3"
+}, {
     "nome": "ASL città di Torino ",
-    "indirizzo": "Torino(TO) - Via Gorizia, 114",
+    "indirizzo": "Torino(TO) - Via Gorizia, 114"
+}, {
     "nome": "Associazione Maurice GLBT - Spo.T Sportello Trans",
-    "indirizzo": "Torino (TO) - Via Stampatori, 10 ",
+    "indirizzo": "Torino (TO) - Via Stampatori, 10 "
+}, {
     "nome": "Centro Interdipartimentale Disforia di Genere Molinette(CIDIGEM) - AOU Città della Salute e della Scienza di Torino ",
-    "indirizzo": "Torino(TO) - Via Cavour, 31",
+    "indirizzo": "Torino(TO) - Via Cavour, 31"
+}, {
     "nome": "Sunderam Identità Transgender Torino ",
     "indirizzo": "Torino(TO) - Via Como, 18 / 1 "
 }, {
-    "regione": "Puglia 33' ",
+    "regione": "Puglia 33' "
+}, {
     "nome": "Day Hospital per i Disturbi dell 'identità di genere, AOU Policlinico Bari",
-    "indirizzo": "Bari (BA) - Piazza Giulio Cesare, 11 ",
+    "indirizzo": "Bari (BA) - Piazza Giulio Cesare, 11 "
+}, {
     "nome": "CEST - Centro Salute Trans e Gender Variant ",
-    "indirizzo": "Massafra(TA) - Via P.Maroncelli, 102 51 '",
+    "indirizzo": "Massafra(TA) - Via P.Maroncelli, 102 51 '"
+}, {
     "nome": "Tgenus Magna Grecia ",
     "indirizzo": "Taranto(TA) - Via Fiume, 3 "
 }, {
-    "regione": "Sardegna 52' ",
+    "regione": "Sardegna 52' "
+}, {
     "nome": "UOC Clinica Psichiatrica, AOU Cagliari ",
-    "indirizzo": "Cagliari(CA) - Via Liguria, 13",
+    "indirizzo": "Cagliari(CA) - Via Liguria, 13"
+}, {
     "nome": "UOC Endocrinologia, Presidio Ospedaliero Duilio Casula Monserrato, AOU Cagliari",
     "indirizzo": "Cagliari (CA) - S.S. 554 bivio per Sestu "
 }, {
-    "regione": "Sicilia 54' ",
+    "regione": "Sicilia 54' "
+}, {
     "nome": "UOC Endocrinologia ARNAS \"Garibaldi\"- PO Nesima ",
-    "indirizzo": "Catania(CT) - Via Palermo, 626 ",
+    "indirizzo": "Catania(CT) - Via Palermo, 626 "
+}, {
     "nome": "AOU Policlinico \"Paolo Giaccone\"",
-    "indirizzo": "Palermo(PA) - Via del Vespro, 129 ",
+    "indirizzo": "Palermo(PA) - Via del Vespro, 129 "
+}, {
     "nome": "Arcigay Palermo ",
-    "indirizzo": "Palermo(PA) - Via Carmelo Trasselli, 33 ",
+    "indirizzo": "Palermo(PA) - Via Carmelo Trasselli, 33 "
+}, {
     "nome": "Clinica del Mediterraneo",
     "indirizzo": "Ragusa (RG) - Via E. Fieramosca, 100 "
 }, {
-    "regione": "Toscana ",
+    "regione": "Toscana "
+}, {
     "nome": "Intersexioni ",
-    "indirizzo": "Firenze(FI) - Via Leto Casini, 11 c / o Ex Fila ",
+    "indirizzo": "Firenze(FI) - Via Leto Casini, 11 c / o Ex Fila "
+}, {
     "nome": "Rete Genitori Rainbow ",
-    "indirizzo": "Firenze(FI) - Via Palazzuolo, 8 c / o Anelli Mancanti 20 '",
+    "indirizzo": "Firenze(FI) - Via Palazzuolo, 8 c / o Anelli Mancanti 20 '"
+}, {
     "nome": "SOD Andrologia, Endocrinologia Femminile, Incongruenza di Genere, AOU Careggi, Firenze ",
-    "indirizzo": "Firenze(FI) - Viale Pieraccini, 6",
+    "indirizzo": "Firenze(FI) - Viale Pieraccini, 6"
+}, {
     "nome": "Associazione Consultorio Transgenere",
-    "indirizzo": "Torre del Lago (LU) - Via dell' Aquila, 27 / 2",
+    "indirizzo": "Torre del Lago (LU) - Via dell' Aquila, 27 / 2"
+}, {
     "nome": "Azienda Ospedaliero Universitaria Pisana (AOUP)",
-    "indirizzo": "Pisa (PI) - Via Paradisa, 2 ",
+    "indirizzo": "Pisa (PI) - Via Paradisa, 2 "
+}, {
     "nome": "Movimento Pansessuale Arcigay Siena ",
     "indirizzo": "Siena(SI) - Via di Città, 101 "
 }, {
-    "regione": "Trentino Alto Adige ",
+    "regione": "Trentino Alto Adige "
+}, {
     "nome": "Azienda Provinciale Servizi Sanitari Trento - Distretto Centro Nord ",
     "indirizzo": "Trento(TN) - Via De Gasperi, 79 "
 }, {
-    "regione": "Umbria",
+    "regione": "Umbria"
+}, {
     "nome": "OMPHALOS LGBTI ",
     "indirizzo": "Perugia(PG) - Via della Pallotta, 42 "
 }, {
-    "regione": "Veneto 19'",
+    "regione": "Veneto 19'"
+}, {
     "nome": "Boramosa ",
-    "indirizzo": "Padova(PD) - Corso Garibaldi, 41 ",
+    "indirizzo": "Padova(PD) - Corso Garibaldi, 41 "
+}, {
     "nome": "SAT PINK",
-    "indirizzo": "Padova (PD) - Corso Garibaldi, 41 ",
+    "indirizzo": "Padova (PD) - Corso Garibaldi, 41 "
+}, {
     "nome": "Arcigay Vicenza",
-    "indirizzo": "Vicenza (VI) - Contrà Barche, 55 ",
+    "indirizzo": "Vicenza (VI) - Contrà Barche, 55 "
+}, {
     "nome": "Consultori familiari - Distretto Est - ULSS8 Berica - Regione Veneto ",
-    "indirizzo": "Vicenza(VI) - Contrà SS Apostoli, 21 ",
+    "indirizzo": "Vicenza(VI) - Contrà SS Apostoli, 21 "
+}, {
     "nome": "G.a.G.a Vicenza",
-    "indirizzo": "Vicenza (VI) - Contrà Barche, 55 ",
+    "indirizzo": "Vicenza (VI) - Contrà Barche, 55 "
+}, {
     "nome": "Azienda Ospedaliera Universitaria Integrata - Verona",
-    "indirizzo": "Verona (VR) - Piazzale A. Stefani, 1 ",
+    "indirizzo": "Verona (VR) - Piazzale A. Stefani, 1 "
+}, {
     "nome": "SAT PINK ",
     "indirizzo": "Verona(VR) - Piazza Pozza, 3"
 }]
