@@ -291,6 +291,10 @@
     "struttura": " Ambulatorio ",
     "indirizzo": "Viale dei Romagnoli, 781 Roma - RM ",
     "telefono": " 0656483014 ",
+    "verificato": {
+        "nome": "Uniti contro l'AIDS",
+        "link": "https://www.uniticontrolaids.it/aids-ist/test/dove.aspx"
+    },
     "last_updated": "Dati aggiornati al 28/11/2014 "
 }, {
     "nome": "UOSD DERMATOLOGIA, MST, TROPICALE E IMMIGRAZIONE ISTITUTO DERMATOLOGICO S.GALLICANO (IRCCS)",
