@@ -651,5 +651,9 @@
      "counseling ": "Pre - Test Post - Test ",
      "referto ": "Dopo 7 giorni ",
      "note ": "Accesso libero in anonimato ",
-     "responsabile_update ": "Alessandra Govoni - Coordinatore Gruppo AIDS Imola"
+     "responsabile_update ": "Alessandra Govoni - Coordinatore Gruppo AIDS Imola",
+     "verificato": {
+        "nome": "HelpAIDS",
+        "link": "http://www.helpaids.it/dove"
+    }
  }]
