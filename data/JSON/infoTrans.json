@@ -8,22 +8,20 @@
     "cellulare": "342 7774054",
     "email": "cosenza@arcigay.it",
     "orario_servizi": "su appuntamento",
-
-
     "referente": "Silvio Cilento",
-
-    "servizi_garantiti": {
-        "Supporto psicologico/di psicoterapia": {
+    "servizi": [{
+            "nome": "Supporto psicologico/di psicoterapia",
             "figure_presenti": "Psicologo",
             "costo": "Primo incontro gratuito, successivi a 45,00 €",
             "tempistiche": "3/5 giorni"
         },
-        "Altro supporto medico specialistico": {
+        {
+            "nome": "Altro supporto medico specialistico",
             "figure_presenti": "Logopedista",
             "costo": "30€",
             "tempistiche": "1 settimana"
         }
-    },
+    ],
     "linee_guida": "ONIG"
 }, {
     "regione": "Campania"
