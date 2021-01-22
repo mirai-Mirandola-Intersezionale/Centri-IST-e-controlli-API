@@ -13,6 +13,10 @@
         "giovedì": ["09:00", "13:00"],
         "venerdì": ["09:00", "13:00"]
     },
+    "verificato": {
+        "nome": "Uniti contro l'AIDS",
+        "link": "https://www.uniticontrolaids.it/aids-ist/test/dove.aspx"
+    },
     "last_updated": " Dati aggiornati al 08/01/2020 "
 }, {
     "nome": "ASP CATANZARO UO DERMATOLOGIA e MST - OSPEDALE GIOVANNI PAOLO II",
@@ -27,6 +31,10 @@
         "mercoledì": ["10:00", "12:00", "16:00", "17:00"],
         "giovedì": ["10:00", "12:00"],
         "venerdì": ["10:00", "12:00"]
+    },
+    "verificato": {
+        "nome": "Uniti contro l'AIDS",
+        "link": "https://www.uniticontrolaids.it/aids-ist/test/dove.aspx"
     },
     "last_updated": " Dati aggiornati al 14/09/2017 "
 }, {
@@ -43,6 +51,10 @@
         "giovedì": ["09:30", "19:00", "16:30", "19:00"],
         "venerdì": ["09:30", "13:00", "16:30", "19:00"]
     },
+    "verificato": {
+        "nome": "Uniti contro l'AIDS",
+        "link": "https://www.uniticontrolaids.it/aids-ist/test/dove.aspx"
+    },
     "last_updated": " Dati aggiornati al 09/12/2019 "
 }, {
     "nome": "AZIENDA OSPEDALIERA UNIVERSITARIA FEDERICO II",
@@ -52,9 +64,13 @@
     "referente": " Martellotta Donata ",
     "accesso": " ",
     "orario": {
-        "martedì": [ "15:00", "18:00"],
+        "martedì": ["15:00", "18:00"],
         "mercoledì": ["", ""],
         "giovedì": ["09:00", "13:00"]
+    },
+    "verificato": {
+        "nome": "Uniti contro l'AIDS",
+        "link": "https://www.uniticontrolaids.it/aids-ist/test/dove.aspx"
     },
     "last_updated": " Dati aggiornati al 16/11/2020 "
 }, {
@@ -67,6 +83,10 @@
     "accesso": " ",
     "orario": {
         "giovedì": ["09:00", "11:00", "previa prenotazione CUP"]
+    },
+    "verificato": {
+        "nome": "Uniti contro l'AIDS",
+        "link": "https://www.uniticontrolaids.it/aids-ist/test/dove.aspx"
     },
     "last_updated": " Dati aggiornati al 17/11/2020 "
 }, {
@@ -82,6 +102,10 @@
         "giovedì": ["07:45", "11:00", "dalle 7.45 - idem"],
         "venerdì": ["07:45", "11:00", "dalle 7.45 - idem"]
     },
+    "verificato": {
+        "nome": "Uniti contro l'AIDS",
+        "link": "https://www.uniticontrolaids.it/aids-ist/test/dove.aspx"
+    },
     "last_updated": " Dati aggiornati al 11/02/2020 "
 }, {
     "nome": "UO di Ostetricia e Medicina dell'Età Prenatale, Policlinico Sant'Orsola Malpighi",
@@ -92,6 +116,10 @@
     "orario": {
         "martedì": ["09:00", "14:00", "prelievi, consulenze , ecografie"],
         "giovedì": ["09:00", "14:00", "prelievi"]
+    },
+    "verificato": {
+        "nome": "Uniti contro l'AIDS",
+        "link": "https://www.uniticontrolaids.it/aids-ist/test/dove.aspx"
     },
     "last_updated": " Dati aggiornati al 09/12/2020 "
 }, {
@@ -106,6 +134,10 @@
         "mercoledì": ["08:30", "12:00", "Su prenotazione e accesso diretto"],
         "giovedì": ["08:30", "12:00", "Su prenotazione e accesso diretto"],
         "venerdì": ["08:30", "12:00", "Su prenotazione e accesso diretto"]
+    },
+    "verificato": {
+        "nome": "Uniti contro l'AIDS",
+        "link": "https://www.uniticontrolaids.it/aids-ist/test/dove.aspx"
     },
     "last_updated": " Dati aggiornati al 21/11/2017 "
 }, {
@@ -122,6 +154,10 @@
         "giovedì": ["07:30", "13:00"],
         "venerdì": ["07:30", "13:00"]
     },
+    "verificato": {
+        "nome": "Uniti contro l'AIDS",
+        "link": "https://www.uniticontrolaids.it/aids-ist/test/dove.aspx"
+    },
     "last_updated": " Dati aggiornati al 09/12/2019 "
 }, {
     "nome": "OSPEDALE G.B. MORGAGNI - AUSL ROMAGNA",
@@ -137,6 +173,10 @@
         "giovedì": ["07:30", "08:00", "18:00", "19:00"],
         "venerdì": ["07:30", "08:00", "18:00", "19:00"]
     },
+    "verificato": {
+        "nome": "Uniti contro l'AIDS",
+        "link": "https://www.uniticontrolaids.it/aids-ist/test/dove.aspx"
+    },
     "last_updated": " Dati aggiornati al 30/01/2020 "
 }, {
     "nome": "Università di Modena e Reggio Emilia- Clinica Dermatologica",
@@ -151,6 +191,10 @@
         "giovedì": ["08:00", "10:00"],
         "venerdì": ["08:00", "10:00"]
     },
+    "verificato": {
+        "nome": "Uniti contro l'AIDS",
+        "link": "https://www.uniticontrolaids.it/aids-ist/test/dove.aspx"
+    },
     "last_updated": " Dati aggiornati al 06/03/2020 "
 }, {
     "nome": "UO Aziendale di Dermatologia Faenza Ravenna e Lugo",
@@ -164,6 +208,10 @@
         "lunedì": ["12:00", "13:00", "Su prenotazione"],
         "giovedì": ["12:00", "13:00", "Su prenotazione"]
     },
+    "verificato": {
+        "nome": "Uniti contro l'AIDS",
+        "link": "https://www.uniticontrolaids.it/aids-ist/test/dove.aspx"
+    },
     "last_updated": " Dati aggiornati al 24/10/2017 "
 }, {
     "nome": "OSPEDALE SANTA MARIA DELLE CROCI",
@@ -175,6 +223,10 @@
     "orario": {
         "martedì": ["08:00", "09:30"],
         "giovedì": ["08:30", "09:30"]
+    },
+    "verificato": {
+        "nome": "Uniti contro l'AIDS",
+        "link": "https://www.uniticontrolaids.it/aids-ist/test/dove.aspx"
     },
     "last_updated": " Dati aggiornati al 08/08/2017 "
 }, {
@@ -189,6 +241,10 @@
         "mercoledì": ["08:00", "14:00"],
         "giovedì": ["08:00", "14:00"],
         "venerdì": ["08:00", "14:00"]
+    },
+    "verificato": {
+        "nome": "Uniti contro l'AIDS",
+        "link": "https://www.uniticontrolaids.it/aids-ist/test/dove.aspx"
     },
     "last_updated": " Dati aggiornati al 04/03/2014 "
 }, {
@@ -206,6 +262,10 @@
         "giovedì": ["08:30", "12:30", "14:00", "17:00", "st di screening solo su appuntamento counselling con accesso libero"],
         "venerdì": ["08:30", "12:30", "st di screening solo su appuntamento counselling con accesso libero"]
     },
+    "verificato": {
+        "nome": "Uniti contro l'AIDS",
+        "link": "https://www.uniticontrolaids.it/aids-ist/test/dove.aspx"
+    },
     "last_updated": " Dati aggiornati al 20/07/2017 "
 }, {
     "nome": "OSPEDALE DERMOPATICO DELL'IMMACOLATA",
@@ -221,13 +281,17 @@
         "venerdì": ["07:30", "11:30"],
         "sabato": ["07:30", "11:30"]
     },
+    "verificato": {
+        "nome": "Uniti contro l'AIDS",
+        "link": "https://www.uniticontrolaids.it/aids-ist/test/dove.aspx"
+    },
     "last_updated": " Dati aggiornati al 21/11/2013 "
 }, {
     "nome": "U.O.S. II° LIVELLO MALATTIE INFETTIVE",
     "struttura": " Ambulatorio ",
     "indirizzo": "Viale dei Romagnoli, 781 Roma - RM ",
     "telefono": " 0656483014 ",
-    "last_updated" :"Dati aggiornati al 28/11/2014 "
+    "last_updated": "Dati aggiornati al 28/11/2014 "
 }, {
     "nome": "UOSD DERMATOLOGIA, MST, TROPICALE E IMMIGRAZIONE ISTITUTO DERMATOLOGICO S.GALLICANO (IRCCS)",
     "struttura": " CENTRO MST/HIV ",
@@ -243,6 +307,10 @@
         "giovedì": ["08:00", "10:30"],
         "venerdì": ["08:00", "10:30"]
     },
+    "verificato": {
+        "nome": "Uniti contro l'AIDS",
+        "link": "https://www.uniticontrolaids.it/aids-ist/test/dove.aspx"
+    },
     "last_updated": " Dati aggiornati al 03/12/2019 "
 }, {
     "nome": "Poliambulatorio RM 4",
@@ -253,6 +321,10 @@
     "orario": {
         "martedì": ["07:30", "09:30"],
         "giovedì": ["07:30", "09:30"]
+    },
+    "verificato": {
+        "nome": "Uniti contro l'AIDS",
+        "link": "https://www.uniticontrolaids.it/aids-ist/test/dove.aspx"
     },
     "last_updated": " Dati aggiornati al 14/10/2020 "
 }, {
@@ -269,6 +341,10 @@
         "giovedì": ["08:30", "12:30"],
         "venerdì": ["08:30", "12:30"]
     },
+    "verificato": {
+        "nome": "Uniti contro l'AIDS",
+        "link": "https://www.uniticontrolaids.it/aids-ist/test/dove.aspx"
+    },
     "last_updated": " Dati aggiornati al 30/11/2020 "
 }, {
     "nome": "ENTE OSPEDALIERO OSPEDALE GALLIERA",
@@ -283,6 +359,10 @@
         "mercoledì": ["08:00", "13:15", "su appuntamento CUP"],
         "giovedì": ["08:00", "13:15", "su appuntamento CUP"],
         "venerdì": ["08:00", "13:15", "su appuntamento CUP"]
+    },
+    "verificato": {
+        "nome": "Uniti contro l'AIDS",
+        "link": "https://www.uniticontrolaids.it/aids-ist/test/dove.aspx"
     },
     "last_updated": " Dati aggiornati al 04/11/2020 "
 }, {
@@ -299,6 +379,10 @@
         "giovedì": ["09:00", "12:00"],
         "venerdì": ["09:00", "12:00"]
     },
+    "verificato": {
+        "nome": "Uniti contro l'AIDS",
+        "link": "https://www.uniticontrolaids.it/aids-ist/test/dove.aspx"
+    },
     "last_updated": " Dati aggiornati al 14/10/2020 "
 }, {
     "nome": "AZIENDA SPEDALI CIVILI DI BRESCIA -DIVISIONE DI DERMATOLOGIA",
@@ -313,6 +397,10 @@
         "giovedì": ["09:00", "12:00"],
         "venerdì": ["12:00", "14:00"]
     },
+    "verificato": {
+        "nome": "Uniti contro l'AIDS",
+        "link": "https://www.uniticontrolaids.it/aids-ist/test/dove.aspx"
+    },
     "last_updated": " Dati aggiornati al 17/11/2020 "
 }, {
     "nome": "Struttura Semplice MEDICINA TRASCULTURALE E MTS",
@@ -325,8 +413,12 @@
         "lunedì": ["08:30", "12:00"],
         "martedì": ["13:30", "16:00", "16:30", "19:00"],
         "mercoledì": ["08:30", "12:00"],
-        "giovedì": [ "13:30", "16:00"],
+        "giovedì": ["13:30", "16:00"],
         "venerdì": ["08:30", "10:30"]
+    },
+    "verificato": {
+        "nome": "Uniti contro l'AIDS",
+        "link": "https://www.uniticontrolaids.it/aids-ist/test/dove.aspx"
     },
     "last_updated": " Dati aggiornati al 22/01/2020 "
 }, {
@@ -344,6 +436,10 @@
         "giovedì": ["08:00", "13:00", "urgenze+visite"],
         "venerdì": ["08:00", "09:00", "urgenze"]
     },
+    "verificato": {
+        "nome": "Uniti contro l'AIDS",
+        "link": "https://www.uniticontrolaids.it/aids-ist/test/dove.aspx"
+    },
     "last_updated": " Dati aggiornati al 04/11/2020 "
 }, {
     "nome": "POLO DISTRETTUALE",
@@ -357,6 +453,10 @@
         "mercoledì": ["08:30", "13:00", "14:00", "16:00", "Su prenotazione"],
         "giovedì": ["08:30", "13:00", "14:00", "16:00", "Su prenotazione"],
         "venerdì": ["08:30", "13:00", "14:00", "16:00", "Su prenotazione"]
+    },
+    "verificato": {
+        "nome": "Uniti contro l'AIDS",
+        "link": "https://www.uniticontrolaids.it/aids-ist/test/dove.aspx"
     },
     "last_updated": " Dati aggiornati al 11/03/2014 "
 }, {
@@ -372,6 +472,10 @@
         "giovedì": ["09:00", "09:30", "Su prenotazione"],
         "venerdì": ["09:00", "09:30", "Su prenotazione"]
     },
+    "verificato": {
+        "nome": "Uniti contro l'AIDS",
+        "link": "https://www.uniticontrolaids.it/aids-ist/test/dove.aspx"
+    },
     "last_updated": " Dati aggiornati al 11/03/2014 "
 }, {
     "nome": "Ambulatorio MTS - ATS della Città Metropolitana di Milano",
@@ -380,11 +484,15 @@
     "telefono": " 0297973409 ",
     "accesso": " ",
     "orario": {
-        "lunedì": [ "Su prenotazione"],
-        "martedì": [ "Su prenotazione"],
-        "mercoledì": [ "Su prenotazione"],
-        "giovedì": [ "Su prenotazione"],
-        "venerdì": [ "Su prenotazione"]
+        "lunedì": ["Su prenotazione"],
+        "martedì": ["Su prenotazione"],
+        "mercoledì": ["Su prenotazione"],
+        "giovedì": ["Su prenotazione"],
+        "venerdì": ["Su prenotazione"]
+    },
+    "verificato": {
+        "nome": "Uniti contro l'AIDS",
+        "link": "https://www.uniticontrolaids.it/aids-ist/test/dove.aspx"
     },
     "last_updated": " Dati aggiornati al 23/11/2016 "
 }, {
@@ -401,6 +509,10 @@
         "giovedì": ["08:15", "15:30"],
         "venerdì": ["08:15", "15:30"]
     },
+    "verificato": {
+        "nome": "Uniti contro l'AIDS",
+        "link": "https://www.uniticontrolaids.it/aids-ist/test/dove.aspx"
+    },
     "last_updated": " Dati aggiornati al 14/10/2020 "
 }, {
     "nome": "FONDAZIONE IRCCS CA' GRANDA OSPEDALE MAGGIORE",
@@ -416,6 +528,10 @@
         "giovedì": ["08:00", "12:30"],
         "venerdì": ["08:00", "12:30"]
     },
+    "verificato": {
+        "nome": "Uniti contro l'AIDS",
+        "link": "https://www.uniticontrolaids.it/aids-ist/test/dove.aspx"
+    },
     "last_updated": " Dati aggiornati al 29/06/2017 "
 }, {
     "nome": "Ambulatorio MTS - ATS della Città Metropolitana di Milano",
@@ -430,6 +546,10 @@
         "giovedì": ["09:00", "12:30", "Su Prenotazione"],
         "venerdì": ["09:00", "12:30", "Su Prenotazione"]
     },
+    "verificato": {
+        "nome": "Uniti contro l'AIDS",
+        "link": "https://www.uniticontrolaids.it/aids-ist/test/dove.aspx"
+    },
     "last_updated": " Dati aggiornati al 23/11/2016 "
 }, {
     "nome": "Ambulatorio MTS - ATS della Città Metropolitana di Milano",
@@ -441,6 +561,10 @@
     "accesso": " ",
     "orario": {
         "giovedì": ["09:00", "11:30", "su appuntamento telefonando al n. 800822168"]
+    },
+    "verificato": {
+        "nome": "Uniti contro l'AIDS",
+        "link": "https://www.uniticontrolaids.it/aids-ist/test/dove.aspx"
     },
     "last_updated": " Dati aggiornati al 18/03/2019 "
 }, {
@@ -455,6 +579,10 @@
         "mercoledì": ["07:30", "12:00"],
         "giovedì": ["07:30", "12:00"],
         "venerdì": ["07:30", "12:00"]
+    },
+    "verificato": {
+        "nome": "Uniti contro l'AIDS",
+        "link": "https://www.uniticontrolaids.it/aids-ist/test/dove.aspx"
     },
     "last_updated": " Dati aggiornati al 07/02/2018 "
 }, {
@@ -471,6 +599,10 @@
         "giovedì": ["08:20", "11:40"],
         "venerdì": ["09:40", "11:00"]
     },
+    "verificato": {
+        "nome": "Uniti contro l'AIDS",
+        "link": "https://www.uniticontrolaids.it/aids-ist/test/dove.aspx"
+    },
     "last_updated": " Dati aggiornati al 18/02/2019 "
 }, {
     "nome": "ASL BI REGIONE PIEMONTE - OSPEDALE DEGLI INFERMI - SSD DERMATOLOGIA",
@@ -485,6 +617,10 @@
         "mercoledì": ["08:00", "09:00"],
         "giovedì": ["08:00", "09:00"],
         "venerdì": ["08:00", "09:00", "14:00", "16:00"]
+    },
+    "verificato": {
+        "nome": "Uniti contro l'AIDS",
+        "link": "https://www.uniticontrolaids.it/aids-ist/test/dove.aspx"
     },
     "last_updated": " Dati aggiornati al 23/11/2020 "
 }, {
@@ -501,6 +637,10 @@
         "giovedì": ["08:30", "10:30"],
         "venerdì": ["08:30", "10:30"]
     },
+    "verificato": {
+        "nome": "Uniti contro l'AIDS",
+        "link": "https://www.uniticontrolaids.it/aids-ist/test/dove.aspx"
+    },
     "last_updated": " Dati aggiornati al 14/10/2020 "
 }, {
     "nome": "AZIENDA OSPEDALIERO-UNIVERSITARIA MAGGIORE DELLA CARITA'",
@@ -510,6 +650,10 @@
         "martedì": ["10:30", "11:00"],
         "giovedì": ["10:30", "11:00"],
         "venerdì": ["13:00", "13:30"]
+    },
+    "verificato": {
+        "nome": "Uniti contro l'AIDS",
+        "link": "https://www.uniticontrolaids.it/aids-ist/test/dove.aspx"
     },
     "last_updated": " Dati aggiornati al 27/03/2014 "
 }, {
@@ -523,6 +667,10 @@
         "mercoledì": ["09:00", "11:00"],
         "giovedì": ["09:00", "11:00"],
         "venerdì": ["09:00", "11:00"]
+    },
+    "verificato": {
+        "nome": "Uniti contro l'AIDS",
+        "link": "https://www.uniticontrolaids.it/aids-ist/test/dove.aspx"
     },
     "last_updated": " Dati aggiornati al 07/07/2017 "
 }, {
@@ -540,6 +688,10 @@
         "giovedì": ["07:30", "09:00"],
         "venerdì": ["07:30", "09:00"]
     },
+    "verificato": {
+        "nome": "Uniti contro l'AIDS",
+        "link": "https://www.uniticontrolaids.it/aids-ist/test/dove.aspx"
+    },
     "last_updated": " Dati aggiornati al 26/10/2020 "
 }, {
     "nome": "AZIENDA OSPEDALIERA CITTA' DELLA SALUTE E DELLA SCIENZA - OSPEDALE DERMATOLOGICO S.LAZZARO",
@@ -555,6 +707,10 @@
         "giovedì": ["08:00", "13:00", "accesso diretto per 15 pazienti"],
         "venerdì": ["08:00", "13:00", "accesso diretto per 15 pazienti"]
     },
+    "verificato": {
+        "nome": "Uniti contro l'AIDS",
+        "link": "https://www.uniticontrolaids.it/aids-ist/test/dove.aspx"
+    },
     "last_updated": " Dati aggiornati al 26/02/2019 "
 }, {
     "nome": "OSPEDALE S. ANNA - Malattie infettive in ostetricia e ginecologia.",
@@ -565,6 +721,10 @@
     "orario": {
         "martedì": ["13:30", "15:00", "Donne prenotate + Accesso diretto"],
         "giovedì": ["13:30", "15:00", "Donne prenotate + Accesso diretto"]
+    },
+    "verificato": {
+        "nome": "Uniti contro l'AIDS",
+        "link": "https://www.uniticontrolaids.it/aids-ist/test/dove.aspx"
     },
     "last_updated": " Dati aggiornati al 16/12/2020 "
 }, {
@@ -580,6 +740,10 @@
         "giovedì": ["09:00", "15:00"],
         "venerdì": ["09:00", "15:00"]
     },
+    "verificato": {
+        "nome": "Uniti contro l'AIDS",
+        "link": "https://www.uniticontrolaids.it/aids-ist/test/dove.aspx"
+    },
     "last_updated": " Dati aggiornati al 29/05/2019 "
 }, {
     "nome": "Poliambulatorio Cittadella della salute ASL",
@@ -591,6 +755,10 @@
         "lunedì": ["08:30", "10:30"],
         "mercoledì": ["08:30", "10:30"],
         "venerdì": ["08:30", "10:30"]
+    },
+    "verificato": {
+        "nome": "Uniti contro l'AIDS",
+        "link": "https://www.uniticontrolaids.it/aids-ist/test/dove.aspx"
     },
     "last_updated": " Dati aggiornati al 15/10/2020 "
 }, {
@@ -606,6 +774,10 @@
         "mercoledì": ["08:00", "13:00"],
         "venerdì": ["08:00", "13:00"]
     },
+    "verificato": {
+        "nome": "Uniti contro l'AIDS",
+        "link": "https://www.uniticontrolaids.it/aids-ist/test/dove.aspx"
+    },
     "last_updated": " Dati aggiornati al 14/10/2020 "
 }, {
     "nome": "Policlinico P. Giaccone- UOC di Dermatologia e MTS",
@@ -615,7 +787,11 @@
     "referente": " PISTONE GIUSEPPE ",
     "accesso": " ",
     "orario": {
-        "mercoledì": [ "15:00", "16:00", "Su Prenotazione"]
+        "mercoledì": ["15:00", "16:00", "Su Prenotazione"]
+    },
+    "verificato": {
+        "nome": "Uniti contro l'AIDS",
+        "link": "https://www.uniticontrolaids.it/aids-ist/test/dove.aspx"
     },
     "last_updated": " Dati aggiornati al 15/10/2020 "
 }, {
@@ -632,6 +808,10 @@
         "giovedì": ["08:00", "11:00"],
         "venerdì": ["08:00", "12:00"]
     },
+    "verificato": {
+        "nome": "Uniti contro l'AIDS",
+        "link": "https://www.uniticontrolaids.it/aids-ist/test/dove.aspx"
+    },
     "last_updated": " Dati aggiornati al 18/10/2017 "
 }, {
     "nome": "USL 9 GROSSETO - OSPEDALE DELLA MISERICORDIA - U.O.C. MALATTIE INFETTIVE",
@@ -640,11 +820,15 @@
     "telefono": " 0564485022 ",
     "accesso": " ",
     "orario": {
-        "lunedì": [ "14:30", "16:30"],
+        "lunedì": ["14:30", "16:30"],
         "martedì": ["10:00", "12:00"],
         "mercoledì": ["10:00", "12:00"],
         "giovedì": ["10:00", "12:00"],
         "venerdì": ["10:00", "12:00"]
+    },
+    "verificato": {
+        "nome": "Uniti contro l'AIDS",
+        "link": "https://www.uniticontrolaids.it/aids-ist/test/dove.aspx"
     },
     "last_updated": " Dati aggiornati al 19/07/2017 "
 }, {
@@ -663,6 +847,10 @@
         "venerdì": ["08:00", "14:00"],
         "sabato": ["08:00", "14:00"]
     },
+    "verificato": {
+        "nome": "Uniti contro l'AIDS",
+        "link": "https://www.uniticontrolaids.it/aids-ist/test/dove.aspx"
+    },
     "last_updated": " Dati aggiornati al 01/08/2017 "
 }, {
     "nome": "SSD Dermatologia - Azienda USL Toscana Nord Ovest area di Lucca",
@@ -674,6 +862,10 @@
     "orario": {
         "giovedì": ["08:00", "13:00"]
     },
+    "verificato": {
+        "nome": "Uniti contro l'AIDS",
+        "link": "https://www.uniticontrolaids.it/aids-ist/test/dove.aspx"
+    },
     "last_updated": " Dati aggiornati al 30/11/2020 "
 }, {
     "nome": "POLICLINICO LE SCOTTE - DIPARTIMENTO SCIENZE MEDICHE CHIRURGICHE E NEUROSCIENZE",
@@ -684,6 +876,10 @@
     "orario": {
         "martedì": ["14:30", "18:30", "Su Prenotazione"],
         "venerdì": ["08:30", "13:30", "Su Prenotazione"]
+    },
+    "verificato": {
+        "nome": "Uniti contro l'AIDS",
+        "link": "https://www.uniticontrolaids.it/aids-ist/test/dove.aspx"
     },
     "last_updated": " Dati aggiornati al 14/10/2020 "
 }, {
@@ -698,6 +894,10 @@
         "mercoledì": ["08:00", "10:30", "Occorre prenotazione telefonica"],
         "giovedì": ["08:00", "10:30", "Occorre prenotazione telefonica"],
         "venerdì": ["08:00", "10:30", "Occorre prenotazione telefonica"]
+    },
+    "verificato": {
+        "nome": "Uniti contro l'AIDS",
+        "link": "https://www.uniticontrolaids.it/aids-ist/test/dove.aspx"
     },
     "last_updated": " Dati aggiornati al 22/02/2019 "
 }, {
@@ -714,6 +914,10 @@
         "giovedì": ["08:00", "09:00"],
         "venerdì": ["08:00", "09:30"]
     },
+    "verificato": {
+        "nome": "Uniti contro l'AIDS",
+        "link": "https://www.uniticontrolaids.it/aids-ist/test/dove.aspx"
+    },
     "last_updated": " Dati aggiornati al 04/11/2020 "
 }, {
     "nome": "PRESIDIO OSPEDALIERO VILLA IGEA",
@@ -728,6 +932,10 @@
         "giovedì": ["08:00", "12:30", "13:30", "15:30"],
         "venerdì": ["08:00", "12:30", "13:30", "15:30"]
     },
+    "verificato": {
+        "nome": "Uniti contro l'AIDS",
+        "link": "https://www.uniticontrolaids.it/aids-ist/test/dove.aspx"
+    },
     "last_updated": " Dati aggiornati al 15/10/2020 "
 }, {
     "nome": "AZIENDA OSPEDALIERA - OSPEDALE S.M. DELLA MISERICORDIA",
@@ -737,6 +945,10 @@
     "accesso": " ",
     "orario": {
         "mercoledì": ["12:00", "13:20"]
+    },
+    "verificato": {
+        "nome": "Uniti contro l'AIDS",
+        "link": "https://www.uniticontrolaids.it/aids-ist/test/dove.aspx"
     },
     "last_updated": " Dati aggiornati al 02/03/2020 "
 }, {
@@ -751,6 +963,10 @@
         "mercoledì": ["", ""],
         "giovedì": ["", ""],
         "venerdì": ["", ""]
+    },
+    "verificato": {
+        "nome": "Uniti contro l'AIDS",
+        "link": "https://www.uniticontrolaids.it/aids-ist/test/dove.aspx"
     },
     "last_updated": " Dati aggiornati al 23/06/2017 "
 }, {
@@ -768,6 +984,10 @@
         "venerdì": ["08:30", "14:00", "15:00", "18:00", "Previo appuntamento"],
         "sabato": ["09:00", "11:00", "Previo appuntamento"]
     },
+    "verificato": {
+        "nome": "Uniti contro l'AIDS",
+        "link": "https://www.uniticontrolaids.it/aids-ist/test/dove.aspx"
+    },
     "last_updated": " Dati aggiornati al 16/11/2020 "
 }, {
     "nome": "AMBULATORIO MTS",
@@ -777,6 +997,10 @@
     "orario": {
         "lunedì": ["08:30", "12:30"],
         "giovedì": ["08:30", "12:30"]
+    },
+    "verificato": {
+        "nome": "Uniti contro l'AIDS",
+        "link": "https://www.uniticontrolaids.it/aids-ist/test/dove.aspx"
     },
     "last_updated": " Dati aggiornati al 19/02/2019 "
 }, {
@@ -792,6 +1016,10 @@
         "mercoledì": ["08:00", "09:00"],
         "giovedì": ["08:00", "09:00"],
         "venerdì": ["08:00", "09:00"]
+    },
+    "verificato": {
+        "nome": "Uniti contro l'AIDS",
+        "link": "https://www.uniticontrolaids.it/aids-ist/test/dove.aspx"
     },
     "last_updated": " Dati aggiornati al 15/10/2020 "
 }]
