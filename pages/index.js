@@ -10,9 +10,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <XyzTransition xyz="fade up big">
-        {true && <h1>/api.<b>mirai</b></h1>}
-      </XyzTransition>
+      <h1>/api.<b>mirai</b></h1>
       
     </div>
   )
