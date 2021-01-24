@@ -1,5 +1,5 @@
 import Cors from 'cors'
-import initMiddleware from '../../lib/init-middleware'
+import initMiddleware from '../../../lib/init-middleware'
 
 //JSON File Path
 import arcigay from '../../data/JSON/arcigay.json'
