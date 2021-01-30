@@ -1,5 +1,4 @@
 # Table of contents
-
 * [Centri della salute](README.md)
 * [.github](.github/README.md)
   * [ISSUE\_TEMPLATE](.github/issue_template/README.md)
