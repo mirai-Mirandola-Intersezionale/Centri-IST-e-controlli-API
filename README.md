@@ -1,8 +1,8 @@
 # Come usare le nostre API
 
-{% api-method method="get" host="https://api.cakes.com" path="/v1/cakes/:id" %}
+{% api-method method="get" host="https://api.mirai.plus" path="/api/v1/arcigay" %}
 {% api-method-summary %}
-Get Cakes
+Trova centri Arcigay
 {% endapi-method-summary %}
 
 {% api-method-description %}
