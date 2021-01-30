@@ -7,5 +7,4 @@
     * [centro-hiv](.github/issue_template/centro-hiv.md)
     * [centro-ist](.github/issue_template/centro-ist.md)
 * [Security Policy](security.md)
-* [Come usare le nostre API](come-usare-le-nostre-api.md)
 
