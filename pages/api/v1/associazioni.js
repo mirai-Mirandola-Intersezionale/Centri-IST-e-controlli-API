@@ -18,5 +18,11 @@ export default async function handler(req, res) {
   await cors(req, res)
 
   // Rest of the API logic
-  res.json(arcigay)
+  res.json(
+    { 
+      'associazioni': {
+        'arcigay': arcigay
+      }
+    }
+  )
 }
