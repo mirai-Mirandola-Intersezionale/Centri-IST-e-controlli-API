@@ -7,22 +7,18 @@ assignees: frappaaa
 
 ---
 
-```json
 ,{
     "id": "",
-    "nome": "",  //esempio: OSPEDALE CLINICIZZATO COLLE DELL'ARA - CHIETI V LIVELLO - CORPO L  
-    "struttura": "", // esempio: Clinica di Malattie infettive   
-    "indirizzo": "", // esempio: Via dei Vestini Chieti - CH  
-    "tags":[""],
-    "telefono": "", // esempio: 0871/357490 
-    "fax": "", // esempio: 0871/357490 
-    "referente": "",  // esempio: Dott.ssa Francesca Vignale -->
-    "accesso": "",  // esempio: Diretto, su appuntamento, con ricetta, ... 
+    "nome": "",  
+    "struttura": "", 
+    "indirizzo": "",   
+    "tags":["",],
+    "telefono": "",  
+    "fax": "", 
+    "referente": "",  
+    "accesso": "",  
     "orario": {
-        "lunedì": [
-            "", // da -->
-            "", // a, aggiungere altri due campi se si deve distinguere tra mattina e pomeriggio -->
-                ],
+        "lunedì": ["", "", ],
         "martedì": ["","",],
         "mercoledì": ["","",],
         "giovedì": ["","",],
@@ -30,9 +26,8 @@ assignees: frappaaa
         "sabato": ["","",],
         },
     "verificato": {
-        "nome": "", // Qui puoi inserire il vostro nome, l'associazione o il recapito di chi ha verificato il centro -->
-        "link": "",//  Qui puoi inserire il link social o al sito di chi ha verificato il centro -->
+        "nome": "", 
+        "link": "",
     },
-   "last_updated": "", // Inserire la data dell'aggiornamento o del giorno in cui lo inserisci nella forma GG/MM/AAAA -->
-}
-```
+   "last_updated": "",
+  }
