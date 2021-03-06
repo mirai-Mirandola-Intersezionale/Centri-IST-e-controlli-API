@@ -1,4 +1,5 @@
 [{
+    "id": "nLMaea8",
     "nome": " Farmacia Beato Angelico",
     "indirizzo": " Piazza Francesco Guardi 15, 20133 Milano (MI)",
     "orario": " lun-sab 08:30-13:00 15:00-19:30 dom Chiuso",
@@ -19,6 +20,7 @@
     }
   },
   {
+    "id": "T1Eghq5",
     "nome": " Farmacia Cidonio Dr. Adelaide",
     "indirizzo": " Via Tuscolana, 285, 00181 Roma",
     "orario": " lun-sab 08:30-13:00, 16:00-\n                                       19:30",
@@ -39,6 +41,7 @@
     }
   },
   {
+    "id": "IocRgHY",
     "nome": " Farmacia di Corticella,",
     "indirizzo": " Via Genuzio Bentini, 37, 40128 Bologna BO",
     "orario": "  da lunedì a venerdì 8.30-19.30\nsabato: 8.30-12-30\ndomenica: 9.30- 12.30",
@@ -59,6 +62,7 @@
     }
   },
   {
+    "id": "xvA1Ucq",
     "nome": " Farmacia Nobile",
     "indirizzo": " Via Rossi Pellegrino 3, 54100 Marina di Massa, Massa (MS)",
     "orario": " lun-mar ven-sab 8:30-13:00\t15:30-19:30 mer 8:30-22:00 gio-dom Chiuso",
@@ -79,6 +83,7 @@
     }
   },
   {
+    "id": "VU8pr6n",
     "nome": " Farmacia Nobile",
     "indirizzo": " Via Rossi Pellegrino 3, 54100 Marina di Massa, Massa (MS)",
     "orario": " lun-mar ven-sab 8:30-13:00\t15:30-19:30 mer 8:30-22:00 gio-dom Chiuso",
@@ -99,6 +104,7 @@
     }
   },
   {
+    "id": "zGgTSOa",
     "nome": " Farmacia Pez",
     "indirizzo": " Via Belluno 57, 32032 Feltre (BL)",
     "orario": " lun-ven 08:45-12:30 15:30-19:0 sab 08:45-12:30 dom Chiuso ",
@@ -119,6 +125,7 @@
     }
   },
   {
+    "id": "afazUa8",
     "nome": " Farmacia Ponte Dattaro",
     "indirizzo": " Strada Montanara 23, 43124 Parma (PR)",
     "orario": " lun-ven 8:30-19:30 sab 8:30-13:00 15:30-19:30 dom Chiuso",
@@ -139,6 +146,7 @@
     }
   },
   {
+    "id": "tIARppc",
     "nome": " Farmacia Serafini",
     "indirizzo": " Via Vincenzo Malenchini 1, 57014 Collesalvetti (LI)",
     "orario": " lun-sab 9:00-13:00 16:00-20:00 mar-dom Chiuso",
@@ -159,6 +167,7 @@
     }
   },
   {
+    "id": "NDAuTqt",
     "nome": "Antica Farmacia dei Servi",
     "indirizzo": " Strada Maggiore 39, 40125 Bologna (BO)",
     "orario": " lun-ven 08:30-12:30 15:30-19:30 sab-dom Chiuso",
@@ -179,6 +188,7 @@
     }
   },
   {
+    "id": "v5qO759",
     "nome": "Antica Farmacia Giusti",
     "indirizzo": " Via Gabriele D'Annunzio 1, 90144 Palermo (PA)",
     "orario": " lun-sab  8:30-13:30 16:00-20:30 dom 8:30-13:30 20:30-8:30",
@@ -199,6 +209,7 @@
     }
   },
   {
+    "id": "OfIjJlB",
     "nome": "Antica Farmacia Salucci",
     "indirizzo": " Via Libertà 50, 00018 Palombara Sabina (RM)",
     "orario": " mar-ven 9:00-20:00",
@@ -219,6 +230,7 @@
     }
   },
   {
+    "id": "gkHTbWg",
     "nome": "Antica Farmacia San Francesco",
     "indirizzo": " Via di S. Francesco a Ripa 131, 00153 Roma (RM)",
     "orario": " lun-ven 08:30-13:00 16:00-19:30 sab 08:30-13:00 dom Chiuso",
@@ -238,7 +250,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"7WQlmQI",
     "indirizzo": " Piazza Giuseppe Mazzini, 54, Pescia PT",
     "orario": " da lunedì a venerdì 24h\nsabato 08–13 /15–21\ndomenica chiuso",
     "telefono": " 0572 490092",
@@ -259,6 +271,7 @@
     }
   },
   {
+    "id": "c7fwdQC",
     "nome": "Farcom Farmacia Comunale",
     "indirizzo": " Viale A. de Gasperi, 39, 20060 Gessate MI",
     "orario": " da lunedì a venerdì: 9.00- 19.30\nsabato: 8.30-12.30 / 15.00-19.30\ndomenica: chiuso",
@@ -279,6 +292,7 @@
     }
   },
   {
+    "id": "JgIaZmz",
     "nome": "Farmacia Achille",
     "indirizzo": " Via Papa Giovanni XXIII 96, 24054 Calcio (BG)",
     "orario": " lun-ven 08:00-19:30 sab 08:00-12:30 15:00-19:00 dom Chiuso",
@@ -299,6 +313,7 @@
     }
   },
   {
+    "id": "B9pqQWN",
     "nome": "Farmacia Ai Carmini",
     "indirizzo": " Via Francesco Petrarca, Vicolo Ponte Molino 12, 35137 Padova (PD)",
     "orario": " lun-ven 08:00-19:30 sab 8:00-13:00 15:00-19:30 dom Chiuso",
@@ -319,6 +334,7 @@
     }
   },
   {
+    "id": "QaKogkf",
     "nome": "Farmacia Ai Colli",
     "indirizzo": " Piazza di Porta Castiglione 15, 40136 Bologna (BO)",
     "orario": " lun-ven 8:30-20:30 sab 9:00-19:00 dom 09:00-13:00",
@@ -339,6 +355,7 @@
     }
   },
   {
+    "id": "Vz6xZNJ",
     "nome": "Farmacia Ai Due Lucci",
     "indirizzo": "  Via Guido Brunner 14, 34125 Trieste (TS)",
     "orario": " lun-sab 8:00-22:00 dom 09:00-22:00",
@@ -359,6 +376,7 @@
     }
   },
   {
+    "id": "7XTaSly",
     "nome": "Farmacia Ai Due Mori",
     "indirizzo": " Via Capo Di Piazza Monsignor Santin 2, 34121 Trieste (TS)",
     "orario": " lun-ven 8:30-19:30 sab 9:30-13:00",
@@ -379,6 +397,7 @@
     }
   },
   {
+    "id": "06IYwbA",
     "nome": "Farmacia Al Redentore",
     "indirizzo": " Via Generale A. Dalla Chiesa 2, 36030 Sarcedo (VI)",
     "orario": " 24h",
@@ -399,6 +418,7 @@
     }
   },
   {
+    "id": "npIIPgg",
     "nome": "Farmacia Al Redentore",
     "indirizzo": " Via di Cavana 1, 34121 Trieste (TS)",
     "orario": " lun-sab 8:30-14:00 16:00-20:00 dom Chiuso",
@@ -419,6 +439,7 @@
     }
   },
   {
+    "id": "nJWWtqZ",
     "nome": "Farmacia Alberani",
     "indirizzo": " Via Farini, 19, 40124 Bologna, Italia",
     "orario": " lun-ven 08:30–13:00, 15:30–19:30\n                                     sab 08:30–13:00",
@@ -439,6 +460,7 @@
     }
   },
   {
+    "id": "SYHiPxu",
     "nome": "Farmacia Alfidi",
     "indirizzo": " Via Cavalieri di Vittorio Veneto 8, 67051 Avezzano (AQ)",
     "orario": " lun-sab 09:00-13:00 16:00-20:00 dom Chiuso",
@@ -459,6 +481,7 @@
     }
   },
   {
+    "id": "Qh85svq",
     "nome": "Farmacia Alfieri",
     "indirizzo": " Piazza Vittorio Alfieri 3, 14100 Asti (AT)",
     "orario": " lun-sab 8:30-13:00 15:00-19:30 mer 8:00-19:30 dom Chiuso",
@@ -479,6 +502,7 @@
     }
   },
   {
+    "id": "8XkinwS",
     "nome": "Farmacia Algostino e Demichelis",
     "indirizzo": " Piazza Vittorio Veneto, 10, 10123 Torino",
     "orario": " lun-sab 09:00-12:30, 15:00-19:30",
@@ -499,6 +523,7 @@
     }
   },
   {
+    "id": "4ITrCfo",
     "nome": "Farmacia All'Alabarda",
     "indirizzo": " Via dell'Istria 18, 34137 Trieste (TS)",
     "orario": " lun-sab 08:30-13:00 16:00-19:30 dom Chiuso",
@@ -519,6 +544,7 @@
     }
   },
   {
+    "id": "DY85c6D",
     "nome": "Farmacia All'Amazzone Trionfante",
     "indirizzo": " Via Giulia 14, 34126 Trieste (TS)",
     "orario": " lun-ven 8:30-19:30 sab 8:30-13:00 dom Chiuso",
@@ -539,6 +565,7 @@
     }
   },
   {
+    "id": "HpEFmrD",
     "nome": "Farmacia All'Angelo d'Oro",
     "indirizzo": " Via Silvio Pellico 1, 34122 Trieste (TS)",
     "orario": " lun-ven 08:30-13:30 15:30-19:30 sab 09:30-13:00 dom Chiuso",
@@ -559,6 +586,7 @@
     }
   },
   {
+    "id": "S4oCtHp",
     "nome": "Farmacia All'Annunziata - Dr. Giordani Giorgio",
     "indirizzo": "  Piazza Giuseppe Verdi, 6, 33019 Tricesimo UD",
     "orario": "\nLunedì: 08:30 -12:30 \t15:00-19:30\nMartedì: 08:30-12:30 15:00-19:30\nMercoledì: 08:30-12:30 15:00-19:30\nGiovedì: 08:30-12:30 \t15:00\t-19:30\nVenerdì: 08:30-12:30 15:00-19:30\nSabato: 08:30-12:30 15:00-19:30\nDomenica: Chiuso\t",
@@ -579,6 +607,7 @@
     }
   },
   {
+    "id": "nSOdX7e",
     "nome": "Farmacia All'Aquila Imperiale",
     "indirizzo": " Via Tor San Piero 2, 34135 Trieste (TS)",
     "orario": " lun-ven 8:30-12:30 15:00-19:00 sab-dom Chiuso",
@@ -599,6 +628,7 @@
     }
   },
   {
+    "id": "14izQXv",
     "nome": "Farmacia All'Igea",
     "indirizzo": " Piazza Matteotti, Latisana (UD)",
     "orario": "\nlunedì 08:30–12:30 15:30–19:30\nmartedì 08:30–12:30 15:30–19:30\nmercoledì 08:30–12:30 15:30–19:30\ngiovedì 08:30–12:30 15:30–19:30\nvenerdì 08:30–12:30 15:30–19:30\nsabato Chiuso\ndomenica Chiuso",
@@ -619,6 +649,7 @@
     }
   },
   {
+    "id": "hMJhIQq",
     "nome": "Farmacia All'Igea",
     "indirizzo": " Via della Ginnastica 6, 34125 Trieste (TS)",
     "orario": " lun-sab 08:30-19:30 dom Chiuso ",
@@ -639,6 +670,7 @@
     }
   },
   {
+    "id": "yXjPM4q",
     "nome": "Farmacia all'Università",
     "indirizzo": " Viale G. Marconi, 9, 24044 Dalmine BG",
     "orario": " lunedì a venerdì: 08:30–13 14–19:30\nsabato 15–19\ndomenica Chiuso",
@@ -659,6 +691,7 @@
     }
   },
   {
+    "id": "gJFHVoO",
     "nome": "Farmacia Alla Cerva D'Oro",
     "indirizzo": " Fondamenta Briati 2384, 30123 Venezia (VE)",
     "orario": " lun-ven 9:00-12:30 15:45-19:30 sab 9:00-12:45 dom Chiuso",
@@ -679,6 +712,7 @@
     }
   },
   {
+    "id": "VOvDMN3",
     "nome": "Farmacia alla Croce Azzurra",
     "indirizzo": " Via Commerciale 21, 34134 Trieste (TS)",
     "orario": " lun-ven 8:30-13:00 16:00-19:30 sab 8:30-13:00 dom Chiuso ",
@@ -699,6 +733,7 @@
     }
   },
   {
+    "id": "MeJAJGt",
     "nome": "Farmacia alla Fontana Imperiale",
     "indirizzo": " Via dei Piccardi 16, 34141 Trieste (TS)",
     "orario": " lun-sab 08:30-13:00 16:00-19:30",
@@ -719,6 +754,7 @@
     }
   },
   {
+    "id": "1ct98F5",
     "nome": "Farmacia alla Maddalena",
     "indirizzo": " Via dell'Istria 33, 34137 Trieste (TS)",
     "orario": " lun-sab 9:00-13:00 16:00-19:30 dom Chiuso",
@@ -739,6 +775,7 @@
     }
   },
   {
+    "id": "XnhMm2M",
     "nome": "Farmacia alla Madonna",
     "indirizzo": " Via Schio 75, San Vito Di Leguzzano (VI) 36030",
     "orario": " lun-ven 09:00-12:30 15:30-19:30 sab 09:00-12:30",
@@ -759,6 +796,7 @@
     }
   },
   {
+    "id": "ciQQ3m5",
     "nome": "Farmacia Alla Madonna",
     "indirizzo": " Via Giannantonio Manci, 42, 38122 Trento (TN)",
     "orario": " lun-sab 8:30-12:30; 15-19",
@@ -777,6 +815,7 @@
     }
   },
   {
+    "id": "xFOvcFn",
     "nome": "Farmacia Alla Madonna del Mare",
     "indirizzo": " Largo Piave 2, 34133 Trieste (TS)",
     "orario": " lun-ven 08:30-19:30 sab 08:30-13:00 dom Chiuso",
@@ -797,6 +836,7 @@
     }
   },
   {
+    "id": "xSCaCtd",
     "nome": "Farmacia Alla Marina",
     "indirizzo": " Corso Giacomo Matteotti 15, 16011 Arenzano (GE)",
     "orario": " lun-sab  08:30-12:30 15:30-19:30 dom Chiuso",
@@ -817,6 +857,7 @@
     }
   },
   {
+    "id": "swfSlEk",
     "nome": "Farmacia Alla Minerva",
     "indirizzo": " Piazza Virgilio Giotti 1, 34133 Trieste (TS)",
     "orario": " lun-ven 08:30-13:00 16:00-20:30 sab 08:30-13:00",
@@ -837,6 +878,7 @@
     }
   },
   {
+    "id": "9iYBvqf",
     "nome": "Farmacia Alla Pace",
     "indirizzo": " Viale della Pace 117, 36100 Vicenza (VI)",
     "orario": " lun-ven 08:15-19:30 sab 08:15-13:00 15:30-19:00 dom Chiuso ",
@@ -857,6 +899,7 @@
     }
   },
   {
+    "id": "iUwVT9c",
     "nome": "Farmacia alla Redenzione",
     "indirizzo": " Piazza Giuseppe Garibaldi 6, 34131 Trieste (TS)",
     "orario": " lun-sab 8:30-20:30 dom 9:00-19:30",
@@ -877,6 +920,7 @@
     }
   },
   {
+    "id": "b4uycZn",
     "nome": "Farmacia Alla Salute",
     "indirizzo": " Via Giulia 1, 34126 Trieste (TS)",
     "orario": " lun-sab 8:30-19:30 dom Chiuso",
@@ -897,6 +941,7 @@
     }
   },
   {
+    "id": "B93AwTq",
     "nome": "Farmacia Alla Stazione Nord - Dr. Fabio Canali",
     "indirizzo": " Viale G. Garibaldi, 3, 34077 Ronchi dei Legionari GO",
     "orario": "  da lunedì a sabato :08:30–12:30 15:30–19:30\ndomenica chiuso",
@@ -917,6 +962,7 @@
     }
   },
   {
+    "id": "hFqQphg",
     "nome": "Farmacia Altura",
     "indirizzo": " Via delle Alpi Giulie 2, 34149 Trieste (TS)",
     "orario": " lun-sab 8:30-13:00 16:00-19:30 dom Chiuso",
@@ -937,6 +983,7 @@
     }
   },
   {
+    "id": "1yCJXjY",
     "nome": "Farmacia Ambrosiana",
     "indirizzo": " Viale Regina Giovanna 42, 20129 Milano (MI)",
     "orario": " lun-ven 08:30-19:45 sab 09:00-13:00 dom Chiuso",
@@ -957,6 +1004,7 @@
     }
   },
   {
+    "id": "odsGBbR",
     "nome": "Farmacia Amendola",
     "indirizzo": " Piazza Giovanni Amendola 14, 90141 Palermo (PA)",
     "orario": " lun-sab 08:00-20:00 dom Chiuso ",
@@ -977,6 +1025,7 @@
     }
   },
   {
+    "id": "c9iClGk",
     "nome": "Farmacia Andreoli",
     "indirizzo": " Piazza Carlo Leoni 13, 35030, Selvazzano Dentro (PD)",
     "orario": " lun-ven  09:00-12:30 15:45-19:00 sab 09:00-12:45 dom Chiuso",
@@ -997,6 +1046,7 @@
     }
   },
   {
+    "id": "yeGDJNw",
     "nome": "Farmacia Antonone",
     "indirizzo": " Via Milano 54, 81020 San Nicola La Strada (CE)",
     "orario": " lun-ven 08:30-13:30 15:30-20:30 sab 08:30-13:30 16:00-20:00 dom Chiuso",
@@ -1017,6 +1067,7 @@
     }
   },
   {
+    "id": "PoaxlXc",
     "nome": "Farmacia Arbatax",
     "indirizzo": " Via Lungomare 20, 08048 Arbatax (OG)",
     "orario": " lun-sab 08:30-13:30 16:00-20:00 dom 09:00-12:30 16:00-19:30",
@@ -1037,6 +1088,7 @@
     }
   },
   {
+    "id": "LHb1h5F",
     "nome": "Farmacia Ateneo",
     "indirizzo": " Piazza Ateneo Salesiano 48/49, 00139 Roma (RM) ",
     "orario": " lun-sab 08:00-22:00 dom 9:00-14:00 16:30-20:30",
@@ -1057,6 +1109,7 @@
     }
   },
   {
+    "id": "TNiHbri",
     "nome": "Farmacia Baiamonti",
     "indirizzo": " Via Antonio Baiamonti 52, 34145 Trieste (TS)",
     "orario": " lun-ven 08:30-13:00 16:00-19:30 sab 08:30-13:00 dom Chiuso",
@@ -1077,6 +1130,7 @@
     }
   },
   {
+    "id": "za33LGS",
     "nome": "Farmacia Baldacci Giovanni Nico",
     "orario": " Lun-ven 9-13 15:30-19:30 ",
     "telefono": " 050-24497",
@@ -1096,6 +1150,7 @@
     }
   },
   {
+    "id": "LmTjVD1",
     "nome": "Farmacia Balderi dott. Matteo ",
     "indirizzo": " \nVia Napoleone Colajanni, 8, 43126 Parma PR",
     "orario": "\nlunedì 08:15–21\nmartedì 08:15–21\nmercoledì 08:15–21\ngiovedì 08:15–21\nvenerdì 08:15–21\nsabato 08:15–21\ndomenica 08:15–21",
@@ -1116,6 +1171,7 @@
     }
   },
   {
+    "id": "utv7gbt",
     "nome": "Farmacia Baldi Anna",
     "indirizzo": " Piazza Felice Baldi, 84010 Cava de' Tirreni (SA)",
     "orario": " lun-sab 09:00-13:00 17:00–20:30 dom Chiuso",
@@ -1136,6 +1192,7 @@
     }
   },
   {
+    "id": "k38SDNg",
     "nome": "Farmacia Baldisserotto \"Al Basilisco\"",
     "indirizzo": "  Via Giuseppe Garibaldi, Venezia VE",
     "orario": " da lunedì a sabato:  8.30-20\ndomenica: chiuso",
@@ -1156,6 +1213,7 @@
     }
   },
   {
+    "id": "ECHrTfm",
     "nome": "Farmacia Balocco",
     "indirizzo": " Corso Peschiera 142, 10141 Torino (TO)",
     "orario": " lun-ver 09:00-12:30 15:30–19:00 sab-dom Chiuso ",
@@ -1176,6 +1234,7 @@
     }
   },
   {
+    "id": "CMMSLoD",
     "nome": "Farmacia Bani",
     "indirizzo": " Via Cesare Cantù, 35,  Como CO",
     "orario": " lunedì e martedì 08:30–13 15–19\nda mercoledì a sabato 08:30–19\ndomenica chiuso",
@@ -1196,6 +1255,7 @@
     }
   },
   {
+    "id": "pyw9ZnD",
     "nome": "Farmacia Barberini",
     "indirizzo": " Via Andrea Millevoi, 37",
     "orario": " lun-sab 08:30–19:30",
@@ -1216,6 +1276,7 @@
     }
   },
   {
+    "id": "NJCzKch",
     "nome": "Farmacia Beata Getto",
     "indirizzo": " Via Statale, 13, 10012 Bollengo TO",
     "orario": " lun-ven 08:00–20:00\nsab 8:00-13:00, 14:30-19:30\ndom 8:00-12:30, 15:00-19:30",
@@ -1236,6 +1297,7 @@
     }
   },
   {
+    "id": "NQsDOEU",
     "nome": "Farmacia Belvedere",
     "indirizzo": " Via Leonardo Walter Manzone 16, 13100 Vercelli (VC)",
     "orario": " lun-ven 09:00-12:30 15:00-19:30 sab 09:00-12:30 dom Chiuso",
@@ -1256,6 +1318,7 @@
     }
   },
   {
+    "id": "C5qJMoi",
     "nome": "Farmacia Bertazzoni",
     "indirizzo": " Via del Carmine 27, 27029 Vigevano (PV)",
     "orario": " lun-dom 07:00-01:00",
@@ -1276,6 +1339,7 @@
     }
   },
   {
+    "id": "uNtyouk",
     "nome": "Farmacia Bertin",
     "indirizzo": " Via Nazario Sauro 9, 31036 Istrana (TV)",
     "orario": " lun-ven 8:00-19:30 sab 8:00-12:30",
@@ -1296,6 +1360,7 @@
     }
   },
   {
+    "id": "jBdEWc6",
     "nome": "Farmacia Bertuzzi",
     "indirizzo": " Piazza Degli Etruschi 6, 40033 Casalecchio Di Reno (BO)",
     "orario": " lun-sab 08:30-19:30 dom 10:00-12:30 15:30-19:00",
@@ -1316,6 +1381,7 @@
     }
   },
   {
+    "id": "pZ6JN2I",
     "nome": "Farmacia Bixio",
     "indirizzo": " Via Bixio 5/c, 43125 Parma (PR) ",
     "orario": " lun-ven 8:30-19:30 sab 08:30-12:30 dom Chiuso",
@@ -1336,6 +1402,7 @@
     }
   },
   {
+    "id": "749LmOJ",
     "nome": "Farmacia Bonanni",
     "indirizzo": " Via Corsica, 23R, 16128 Genova (GE)",
     "orario": " lun-ven 08.30-13.00, 15.00-19.30 sab e dom Chiuso ",
@@ -1356,6 +1423,7 @@
     }
   },
   {
+    "id": "snL24HV",
     "nome": "Farmacia Borghesi",
     "indirizzo": " Largo Preneste 22, 00176 Roma(RM)",
     "orario": " lun-ven 08:30-20:00 sab 08:30-13:00 dom Chiuso",
@@ -1376,6 +1444,7 @@
     }
   },
   {
+    "id": "hkR2xV8",
     "nome": "Farmacia Bottari Del Dott. Antonio Bottari e C. Snc",
     "orario": " \nDal Lunedì al Venerdì: 9.00 - 13.00, 16.00 - 20.00\nSabato: 9.00 - 13.00",
     "telefono": "",
@@ -1394,6 +1463,7 @@
     }
   },
   {
+    "id": "RiHjoLe",
     "nome": "Farmacia Braccio",
     "indirizzo": " via Casati, 32",
     "orario": "\nlunedì\t08:30–19:30\nmartedì\t08:30–19:30\nmercoledì 08:30–19:30\ngiovedì 08:30–13:30, 15–19:30\nvenerdì 08:30–13:30, 15–19:30\nsabato  09–13\ndomenica chiuso",
@@ -1414,6 +1484,7 @@
     }
   },
   {
+    "id": "ClORDMC",
     "nome": "Farmacia Brianza",
     "indirizzo": " Strada Statale 36 del Lago di Como e dello Spluga 10, 23846 Garbagnate Monastero (LC)",
     "orario": " lun-sab 09:00–13:00 15:30–19:30 dom 09:00–12:00",
@@ -1434,6 +1505,7 @@
     }
   },
   {
+    "id": "WI4a839",
     "nome": "Farmacia Brizzi",
     "indirizzo": " Via Casilina, 130, 00038 Valmontone RM",
     "orario": "\nlunedì\t08:30–13, 16–19:30\nmartedì\t08:30–13, 16–19:30\nmercoledì 08:30–13, 16–19:30\ngiovedì\t08:30–13, 16–19:30\nvenerdì\t08:30–13, 16–19:30\nsabato\t08:30–13, 16–19:30\ndomenica\tChiuso",
@@ -1454,6 +1526,7 @@
     }
   },
   {
+    "id": "qq26hAO",
     "nome": "Farmacia Brunetti",
     "indirizzo": " Corso Italia 7, 36078 Valdagno (VI)",
     "orario": " lun-gio 8:45-12:30 15:30 19:30 mar e ven 8:15-12:30 15:30 19:30 sab 8:45-12:30",
@@ -1474,6 +1547,7 @@
     }
   },
   {
+    "id": "bKB0Bi4",
     "nome": "Farmacia Ca' Bianca",
     "description": "Omeopatia, Dermocosmesi, Intolleranze alimentari.",
     "indirizzo": " Via Sandro Gallo, 211, 30126 Venezia",
@@ -1495,6 +1569,7 @@
     }
   },
   {
+    "id": "LBuqmFd",
     "nome": "Farmacia Cadorna",
     "indirizzo": " Piazzale Luigi Cadorna 11, 20123 Milano (MI)",
     "orario": " lun-ven 8:30-13:30 15:30-19:30 sab-dom Chiuso",
@@ -1515,6 +1590,7 @@
     }
   },
   {
+    "id": "9tNfCCU",
     "nome": "Farmacia Calcatelli",
     "indirizzo": " Via Giacomo Puccini 5, 60035 Jesi (AN)",
     "orario": " lun-ven 08:30-20:00 sab 08:30-13:00 dom Chiuso ",
@@ -1535,6 +1611,7 @@
     }
   },
   {
+    "id": "5IXU1Qv",
     "nome": "Farmacia Calcaterra",
     "indirizzo": " Via Paolina Secco Suardo 1, 24050 Cortenova (BG)",
     "orario": " lun-sab 09:00-13:00 15:00-19:00 dom Chiuso",
@@ -1555,6 +1632,7 @@
     }
   },
   {
+    "id": "CEwjm22",
     "nome": "Farmacia Calvenzano",
     "indirizzo": " Via Treviglio 21, 24043 Calvenzano (BG)",
     "orario": " lun-sab 8:30-20:00 dom Chiuso",
@@ -1575,6 +1653,7 @@
     }
   },
   {
+    "id": "ATo3LvN",
     "nome": "Farmacia Campanella Alessandro",
     "indirizzo": " Piazza Della Vittoria 6, 86021 Bojano (CB)",
     "orario": " lun 9:00-24:00 mar-sab 24h dom Chiuso",
@@ -1595,6 +1674,7 @@
     }
   },
   {
+    "id": "3oIt2du",
     "nome": "Farmacia Campo Del Mercato",
     "indirizzo": " Via Augusto Righi 6/A, 40126 Bologna (BO)",
     "orario": " lun-ven 08:30-19:30 sab 08:30-12:30 15:30-19:30 dom Chiuso",
@@ -1615,6 +1695,7 @@
     }
   },
   {
+    "id": "LVOQr8M",
     "nome": "Farmacia Capitani",
     "indirizzo": " Via Provinciale Pisana 3, 57121 Livorno (LI)",
     "orario": " lun-ven 08:30-12:30 \t15:30-20:00 sab 08:30-12:30 dom Chiuso",
@@ -1635,6 +1716,7 @@
     }
   },
   {
+    "id": "ZvFWTZe",
     "nome": "Farmacia Carnevale",
     "indirizzo": " Via Raffaello Sanzio 2, 20149 Milano (MI)",
     "orario": " lun-ven 08:30-13:00 15:00-19:30 sab 09:00-12:30",
@@ -1655,6 +1737,7 @@
     }
   },
   {
+    "id": "LBywp5Z",
     "nome": "Farmacia Carnevali Andrea",
     "indirizzo": " Piazza Vittime del Fascismo 15, 00046 Grottaferrata (RM)",
     "orario": " lun-ven 08:30-13:00 16:30-20:00 sab 08:30-13:00 dom Chiuso",
@@ -1675,6 +1758,7 @@
     }
   },
   {
+    "id": "XFEPDYH",
     "nome": "Farmacia Caselli",
     "indirizzo": " Via Donatori di Sangue 1, 44034 Tamara (FE)",
     "orario": " lun-ven 08:30-12:30 15:30-19:30 sab 08:30-12:30",
@@ -1695,6 +1779,7 @@
     }
   },
   {
+    "id": "mWJ60wn",
     "nome": "Farmacia Castelgabbiano",
     "indirizzo": " Via Roma 16, 26010 Castel Gabbiano (CR)",
     "orario": " lun-ven 08:30-12:30 15:30–19:30 sab 08:30-12:30 dom Chiuso",
@@ -1715,6 +1800,7 @@
     }
   },
   {
+    "id": "ooTHDQP",
     "nome": "Farmacia Castoro",
     "indirizzo": " Via di Cavana 11, 34123 Trieste (TS)",
     "orario": " lun-ven 08:30-13:00\n16:00-19:30 sab 08:30-13:00 dom chiuso",
@@ -1735,6 +1821,7 @@
     }
   },
   {
+    "id": "DpAiz75",
     "nome": "Farmacia Cavalieri",
     "indirizzo": " Via Pietro Rosa 44, 00122 Lido di Ostia (RM)",
     "orario": " lun-ven 24h sab 00:00-13:00 dom 19:30-24:00 ",
@@ -1755,6 +1842,7 @@
     }
   },
   {
+    "id": "nct5mVX",
     "nome": "Farmacia Cecere",
     "indirizzo": " Viale Belgio 22/A, 72100 Brindisi (BR)",
     "orario": " lun-mar-ven 8:30-13:00 16:30-20:00 mer 8:30-23:59 gio 00:00-13:00 16:30-20:00 sab-dom Chiuso",
@@ -1775,6 +1863,7 @@
     }
   },
   {
+    "id": "ZPujNCl",
     "nome": "Farmacia Cenisia",
     "indirizzo": " Via Fréjus 41, 10139 Torino (TO)",
     "orario": " lun-sab 08:30-19:30 dom Chiuso ",
@@ -1795,6 +1884,7 @@
     }
   },
   {
+    "id": "gSA5fkv",
     "nome": "Farmacia Centrale",
     "indirizzo": " Via Armari, 39, 44121 Ferrara",
     "orario": " 09–13, 15:30–19:30",
@@ -1815,6 +1905,7 @@
     }
   },
   {
+    "id": "Nya2vCu",
     "nome": "Farmacia Centrale",
     "indirizzo": " Corso Garibaldi 455, Portici Piazza Duomo 8, 89127 Reggio Calabria (RC)",
     "orario": " 24h",
@@ -1835,6 +1926,7 @@
     }
   },
   {
+    "id": "E4Tju95",
     "nome": "Farmacia Centrale",
     "indirizzo": " Via Don Lupo Stanghellini 6/I, 26010 Offanengo (CR)",
     "orario": " lun-sab 08:30-12:30 15:30-19:30 dom Chiuso",
@@ -1855,6 +1947,7 @@
     }
   },
   {
+    "id": "ygqhraU",
     "nome": "Farmacia Centrale",
     "indirizzo": " Via Felice Cavallotti 31, 20093 Cologno Monzese (MI)",
     "orario": " 24h",
@@ -1875,6 +1968,7 @@
     }
   },
   {
+    "id": "0pdei6I",
     "nome": "Farmacia Centrale Dott. Fabio Zecca",
     "indirizzo": " Via Dati 80, Viserba, 47922 Rimini",
     "orario": " lun-ven 08:30-12:30 15:30-19:30 mer Chiuso",
@@ -1895,6 +1989,7 @@
     }
   },
   {
+    "id": "XvEjApb",
     "nome": "Farmacia Centrale Preganziol",
     "indirizzo": " Str. Terraglio, 210, 31022 Preganziol TV",
     "orario": " da lunedì a sabato 08:30–12:45 / 15:15–19:15\ndomenica: chiuso",
@@ -1915,6 +2010,7 @@
     }
   },
   {
+    "id": "4wcPIkC",
     "nome": "Farmacia Centrale s.a.s.",
     "indirizzo": " Corso Mazzini, 114, Montebelluna TV",
     "orario": " da lunedì a sabato: 08:30–19:30\ndomenica: chiuso",
@@ -1935,6 +2031,7 @@
     }
   },
   {
+    "id": "wqzpWmE",
     "nome": "Farmacia Cerilli",
     "indirizzo": " Largo Andrea Berardi, 1,  Roma RM",
     "orario": " da lunedì a sabato: 08:30–19:30\ndomenica: 08:30-13",
@@ -1955,6 +2052,7 @@
     }
   },
   {
+    "id": "E8jN4pl",
     "nome": "Farmacia Chetry",
     "indirizzo": " Piazza Kennedy 7, 87100 Cosenza (CS)",
     "orario": " lun-ven  00:00-13:00 16:30-24:00 sab  00:00-13:00 20:00-24:00 dom 00:00-08:30 20:00-24:00",
@@ -1975,6 +2073,7 @@
     }
   },
   {
+    "id": "KFbS9JW",
     "nome": "Farmacia Chiantigiana",
     "indirizzo": " Via Giovanni XXIII 5, 53035 Belverde (SI)",
     "orario": " lun-sab 9:00 - 20:00 dom Chiuso ",
@@ -1995,6 +2094,7 @@
     }
   },
   {
+    "id": "ptPHYbL",
     "nome": "Farmacia Chioda Di Riatti Dr. Amedeo",
     "indirizzo": " Corso Giuseppe Mazzini, 7, 26900 Lodi LO",
     "orario": " da lunedì a sabato:  8.30-19.00\ndomenica: chiuso",
@@ -2015,6 +2115,7 @@
     }
   },
   {
+    "id": "kmmCrSQ",
     "nome": "Farmacia Cinecittà",
     "indirizzo": " Via Tuscolana, 925B, 00174 Roma RM",
     "orario": "\n da lunedì a venerdì  08:30–21\nsabato e domenica 08:30-20",
@@ -2035,6 +2136,7 @@
     }
   },
   {
+    "id": "NKa9jEb",
     "nome": "Farmacia Coghi ",
     "indirizzo": " Via IV Novembre, 9/11, Verona (VR)",
     "orario": "  lun-ven 09-12:45 15:30-19:30\nsab 09-12:45 dom Chiuso",
@@ -2055,6 +2157,7 @@
     }
   },
   {
+    "id": "aYmCA2z",
     "nome": "Farmacia Colantonio",
     "indirizzo": " Via Paolo Marconi 51/D, 47922 Viserba Monte",
     "orario": " lun-ven 08:00-12:30 15:00-19:30",
@@ -2075,6 +2178,7 @@
     }
   },
   {
+    "id": "LMsRE4L",
     "nome": "Farmacia Colli Lanzi",
     "indirizzo": " Via G. Mazzini 2, 28076 Pogno (NO)",
     "orario": " lun-ven 9:00-12:30 15:00-19:30 sab 9:00-12:30",
@@ -2095,6 +2199,7 @@
     }
   },
   {
+    "id": "QJGzfFe",
     "nome": "Farmacia Colombo",
     "indirizzo": " Viale Papa Giovanni XXIII 14, 24050 Cividate Al Piano (BG)",
     "orario": " lun-dom 8:30-12:30 15:00-19:30 sab 8:30-12:30",
@@ -2115,6 +2220,7 @@
     }
   },
   {
+    "id": "wFuHOQZ",
     "nome": "Farmacia Comastri Mariolina",
     "orario": "\nlun-ven 9-13  16-20\nsab 9-13",
     "telefono": " 050-980587",
@@ -2133,6 +2239,7 @@
     }
   },
   {
+    "id": "s4ncPhe",
     "nome": "Farmacia Comunale",
     "indirizzo": " Via Duca D'Aosta 75, 24058 Romano di Lombardia (BG)",
     "orario": " lun-ven 08:30-12:30 15:00-19:00 sab Chiuso dom 09:00-12:30 ",
@@ -2153,6 +2260,7 @@
     }
   },
   {
+    "id": "D6A977h",
     "nome": "Farmacia Comunale 1",
     "indirizzo": " Via Alcide de Gasperi, 6, 20061 Carugate MI",
     "orario": "\n lun-ven 08:30–12:30, 15:30–19:30\nsab 08:30–12:30, 15–19",
@@ -2173,6 +2281,7 @@
     }
   },
   {
+    "id": "jzAhSva",
     "nome": "Farmacia Comunale 1",
     "indirizzo": " Via Aquileia 53, 34074 Monfalcone (GO)",
     "orario": " lun-ven 08:30-12:30 15:00-19:00 sab-dom Chiuso",
@@ -2193,6 +2302,7 @@
     }
   },
   {
+    "id": "Dlm8XXu",
     "nome": "Farmacia Comunale 1 Pistoia",
     "indirizzo": " Viale Adua, 40, 51100 Pistoia PT",
     "orario": " 24 h",
@@ -2213,6 +2323,7 @@
     }
   },
   {
+    "id": "4oPi1ZJ",
     "nome": "Farmacia Comunale 2",
     "indirizzo": " Via Marconi Guglielmo 34, 24058 Romano di Lombardia (BG)",
     "orario": " lun-ven 8:30-12:30 15:00-20:00 sab-dom Chiuso ",
@@ -2233,6 +2344,7 @@
     }
   },
   {
+    "id": "zJZA9kX",
     "nome": "Farmacia Comunale 2 Azienda Speciale Multiservizi 'Ala Servizi' ",
     "indirizzo": " Viale Europa, Ladispoli RM",
     "orario": " da lunedì a domenica: 08:30–19:30",
@@ -2253,6 +2365,7 @@
     }
   },
   {
+    "id": "nAgY47N",
     "nome": "Farmacia Comunale 3",
     "indirizzo": " Viale Trento, 33/2, 38068 Rovereto TN",
     "orario": " lun-ven 08:30–12:15, 15:00–19:00\n                                     sab 08:30–12:15",
@@ -2273,6 +2386,7 @@
     }
   },
   {
+    "id": "t9L0TXn",
     "nome": "Farmacia Comunale 3",
     "indirizzo": " Via dei Mille 49/A, 58100 Grosseto (GR)",
     "orario": " 24h",
@@ -2293,6 +2407,7 @@
     }
   },
   {
+    "id": "m1tGyes",
     "nome": "Farmacia Comunale 4",
     "indirizzo": " Piazza Domenicani, 25, 39100 Bolzano BZ",
     "orario": " lun-ven 08:30–12:30, 15–19\nsab \t08:30–12:30",
@@ -2313,6 +2428,7 @@
     }
   },
   {
+    "id": "4yIjTnT",
     "nome": "Farmacia Comunale 4 ",
     "indirizzo": " Via Oropa, 69, 10153 Torino TO",
     "orario": " da lunedì a sabato  08:30–12:30 15:30–19:30\nmercoledì: chiuso \ndomenica: chiuso",
@@ -2333,6 +2449,7 @@
     }
   },
   {
+    "id": "zizpVVl",
     "nome": "Farmacia Comunale 42",
     "indirizzo": " Via XX Settembre 5, 10121 Torino (TO)",
     "orario": " lun-ven 24h sab-dom 00:00-09:00 19:30-23:59",
@@ -2353,6 +2470,7 @@
     }
   },
   {
+    "id": "IOzLEbT",
     "nome": "Farmacia Comunale 43 - Torino",
     "indirizzo": " Piazza Statuto 4, 10122 Torino (TO)",
     "orario": " lun-sab 09:00-19:30 dom Chiuso",
@@ -2373,6 +2491,7 @@
     }
   },
   {
+    "id": "r7691n1",
     "nome": "Farmacia Comunale 8 in Centro Sesto",
     "indirizzo": " Nel centro commerciale Centro*Sesto / Coop.fi (Via Petrosa, 19)",
     "orario": " Dal lunedì al giovedì: 8-20\nVenerdì e sabato: 8-20",
@@ -2393,6 +2512,7 @@
     }
   },
   {
+    "id": "bZCCt7t",
     "nome": "Farmacia Comunale Afas  n.6 Monteluce",
     "indirizzo": " Via Eugubina, 1, Perugia PG",
     "orario": " da lunedì a venerdì: 08–20\n sabato: 08–14/ 16–20\ndomenica: chiuso",
@@ -2413,6 +2533,7 @@
     }
   },
   {
+    "id": "F3XwUEE",
     "nome": "Farmacia Comunale Afas N.5",
     "indirizzo": " Via Fabio Filzi 7, 06128 Perugia (PG)",
     "orario": " lun-sab 09:00-00:00 dom 13:00-16:00 20:00-00:00 ",
@@ -2433,6 +2554,7 @@
     }
   },
   {
+    "id": "Y0LdfNK",
     "nome": "Farmacia Comunale Colli Aniene",
     "indirizzo": " Via Edoardo d'Onofrio 70 - 00155 Roma",
     "orario": " lun-dom  08:30 - 19:30",
@@ -2453,6 +2575,7 @@
     }
   },
   {
+    "id": "FvPnt58",
     "nome": "Farmacia Comunale di Corbetta",
     "indirizzo": " Via Eugenio Villoresi 45/3, 20011 Corbetta (MI)",
     "orario": " 24h",
@@ -2472,7 +2595,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"wan80Zg",
     "indirizzo": " Via Andreani 2, 42020 Puianello (RE)",
     "orario": " lun-ven 08:30-12:30 \t15:30-19:30 sab 08:30-12:30 dom Chiuso",
     "telefono": " 0522889550",
@@ -2493,6 +2616,7 @@
     }
   },
   {
+    "id": "JKPvSLK",
     "nome": "Farmacia Comunale Giardino",
     "indirizzo": " Corso Ubaldo Comandini, 8, 47521 Cesena",
     "orario": " lun-ven 08:30-20:00 sab 08:30-13:00, 15:30-19:30 dom Chiuso",
@@ -2513,6 +2637,7 @@
     }
   },
   {
+    "id": "u1Nn4U4",
     "nome": "Farmacia Comunale Gussago",
     "indirizzo": "  Via Don Carlo Gnocchi 5, 25064 Ronco di Gussago (BS)",
     "orario": " lun 08:30-23:59 mar 00:00-23:59 mer 00:00-12:30 15:00-19:30 gio-ven 08:30-12:30 15:00-19:30 sab 08:30-12:30 dom Chiuso",
@@ -2533,6 +2658,7 @@
     }
   },
   {
+    "id": "w3roDaJ",
     "nome": "Farmacia Comunale Lucca 24 ore",
     "indirizzo": " Piazza Curtatone 7, 55100 Lucca (LU)",
     "orario": " lun-dom 24h",
@@ -2553,6 +2679,7 @@
     }
   },
   {
+    "id": "s7tl7bU",
     "nome": "Farmacia Comunale Mercato Novoli",
     "indirizzo": " Viale Alessandro Guidoni 89 B/C/D, 50127 Firenze (FI)",
     "orario": " 24h",
@@ -2573,6 +2700,7 @@
     }
   },
   {
+    "id": "YEwRa3T",
     "nome": "Farmacia Comunale Mille",
     "indirizzo": " Viale dei Mille 52/B, 43100 Parma (PR)",
     "orario": " 24h",
@@ -2593,6 +2721,7 @@
     }
   },
   {
+    "id": "CRnZ69w",
     "nome": "Farmacia Comunale N. 4",
     "orario": " lun-ven 9-13 15.30-19.30",
     "telefono": " 050 532316",
@@ -2612,6 +2741,7 @@
     }
   },
   {
+    "id": "BtkzeAk",
     "nome": "Farmacia Comunale N.2",
     "indirizzo": " Piazza J. F. Kennedy 17, 00043 Ciampino (RM)",
     "orario": " lun-sab 7:30-21:00 dom 08:30-13:00",
@@ -2632,6 +2762,7 @@
     }
   },
   {
+    "id": "q3OeNBX",
     "nome": "Farmacia Comunale N.2",
     "indirizzo": " Via Adelina Zini 28, 54100 Massa (MS)",
     "orario": " lun 08:30-22:00 mar-ven  08:30-13:00 15:30-19:30 sab 08:30-13:00 dom Chiuso",
@@ -2652,6 +2783,7 @@
     }
   },
   {
+    "id": "ozG4xWk",
     "nome": "Farmacia Comunale N.2 I Passi",
     "indirizzo": " Via XXIV Maggio 63, 56123 Pisa (PI)",
     "orario": " lun-ven 8-20\nsab 8-13",
@@ -2672,6 +2804,7 @@
     }
   },
   {
+    "id": "lJ6SfTA",
     "nome": "Farmacia Comunale N.3 Don Bosco",
     "orario": " lun-ven 9-13 15.30-19.30\no lun-ven 8-20, sab 8-13",
     "telefono": " 050 542902",
@@ -2691,6 +2824,7 @@
     }
   },
   {
+    "id": "U2hlLpn",
     "nome": "Farmacia Comunale N.4",
     "indirizzo": " Via delle Pinete, 54100 Partaccia, Massa (MS)",
     "orario": " lun-sab 8:30-12:30 15:30-19:30 dom Chiuso",
@@ -2711,6 +2845,7 @@
     }
   },
   {
+    "id": "XYFsgLe",
     "nome": "Farmacia Comunale N.5",
     "indirizzo": " Via Niccolini 6/A, 56033 Pisa (PI)",
     "orario": " 24h/24 tutti i giorni",
@@ -2731,6 +2866,7 @@
     }
   },
   {
+    "id": "1AjQpCL",
     "nome": "Farmacia Comunale N.6 Dell'Aeroporto",
     "orario": " lun-dom 8-20",
     "telefono": " 050 500363",
@@ -2750,6 +2886,7 @@
     }
   },
   {
+    "id": "LlCe6NK",
     "nome": "Farmacia comunale n.8",
     "indirizzo": " Via Fiume Abbandonato 124, 48121 Ravenna (RA)",
     "orario": " 24h",
@@ -2770,6 +2907,7 @@
     }
   },
   {
+    "id": "SlxxuZ1",
     "nome": "Farmacia Comunale n1",
     "indirizzo": " Viale Vittorio Veneto, 21, 53100 Siena SI",
     "orario": " da lunedì a venerdì 9.00-13.00 / 15.30-19.30 \nsabato e domenica: chiuso.",
@@ -2790,6 +2928,7 @@
     }
   },
   {
+    "id": "RGRAcpG",
     "nome": "Farmacia Comunale n4 ",
     "indirizzo": " Via S Martin Corleans, 65, 11100 Aosta",
     "orario": "\nlunedì   09–12:30 15–19:30\nmartedì 09–12:30 15–19:30\nmercoledì  09–12:30 15–19:30\ngiovedì 09–12:30 15–19:30\nvenerdì 09–12:30 15–19:30\nsabato Chiuso\ndomenica Chiuso",
@@ -2810,6 +2949,7 @@
     }
   },
   {
+    "id": "dVnoikh",
     "nome": "Farmacia Comunale Nr. 12",
     "indirizzo": " Via Cavour, 91, 59100 Prato PO",
     "orario": " 24 h",
@@ -2830,6 +2970,7 @@
     }
   },
   {
+    "id": "y12l7sM",
     "nome": "Farmacia Comunale Urbino Servizi Spa",
     "indirizzo": " Viale Federico Comandino, 39, 61029 Urbino (PU)",
     "orario": "lun-sab 08:00-20:00\ndom Chiuso",
@@ -2850,6 +2991,7 @@
     }
   },
   {
+    "id": "NHF5ZaY",
     "nome": "Farmacia Comunale Ygea Spa",
     "indirizzo": " Viale Monte Grappa 31, 24047 Treviglio (BG) [All'interno del Centro Commerciale di Treviglio]",
     "orario": " lun-gio 09:00-13:00 15:00-19:30 ven-sab 09:00-19:30 dom Chiuso",
@@ -2870,6 +3012,7 @@
     }
   },
   {
+    "id": "DwrOUwJ",
     "nome": "Farmacia Conte",
     "indirizzo": " Via dei Goti, 10, 84012 Angri (SA)",
     "orario": " 24h",
@@ -2890,6 +3033,7 @@
     }
   },
   {
+    "id": "T4GSJ8X",
     "nome": "Farmacia Conti",
     "indirizzo": " Corso Vittorio Emanuele 74, 93100 Caltanissetta (CL)",
     "orario": " lun-sab 08:00-12:00 15:00-18:00 dom Chiuso",
@@ -2910,6 +3054,7 @@
     }
   },
   {
+    "id": "Tl8qSki",
     "nome": "Farmacia Contini",
     "indirizzo": " 10/B, Via Mazzini - 43121 Parma (PR)",
     "orario": " lun-ven 08:30 - 19:30",
@@ -2930,6 +3075,7 @@
     }
   },
   {
+    "id": "cR3sJ9E",
     "nome": "Farmacia Cormons",
     "indirizzo": " Via Armando Diaz 55, 80055 Portici (NA)",
     "orario": " lun-mar 09:00-13:00 16:00-20:00 mer-gio 09:00-13:00 16:30-20:30 ven 09:00-20:30 sab 09:00-13:00",
@@ -2950,6 +3096,7 @@
     }
   },
   {
+    "id": "DoFZ5tA",
     "nome": "Farmacia Corso Regina",
     "indirizzo": " Corso Regina Margherita 72, 10153 Torino (TO)",
     "orario": " lun-ven 08:00-19:30",
@@ -2970,6 +3117,7 @@
     }
   },
   {
+    "id": "fFRKbuC",
     "nome": "Farmacia Costabile",
     "indirizzo": " Via Popilia 67, 87100 Cosenza (CS)",
     "orario": " lun  08:30-20:00 mar  08:30-13:00 16:30-20:00 sab 08:30-13:00 dom Chiuso",
@@ -2990,6 +3138,7 @@
     }
   },
   {
+    "id": "LtWEOpT",
     "nome": "Farmacia Costabile",
     "indirizzo": " Via Silvio Baratta 18/20, 84134 Salerno (SA)",
     "orario": " lun-sab 08:30 - 13:00 16:00 - 20:00 dom Chiuso",
@@ -3010,6 +3159,7 @@
     }
   },
   {
+    "id": "nPttYoE",
     "nome": "Farmacia Costabile Pastena",
     "indirizzo": " Via Posidonia 269/271, 84128 Salerno (SA)",
     "orario": " 24h",
@@ -3030,6 +3180,7 @@
     }
   },
   {
+    "id": "370s4uy",
     "nome": "Farmacia Costamagna",
     "indirizzo": " Piazza Montecastrilli 13, 00181 Roma (RM)",
     "orario": " lun-ven 08:30-20:00 sab  08:30-13:00",
@@ -3050,6 +3201,7 @@
     }
   },
   {
+    "id": "1blrGVJ",
     "nome": "Farmacia Croce Bianca",
     "indirizzo": " Via Cesare Beccaria 79, 95125 Catania (CT)",
     "orario": " lun-ven 08:30-13:00 16:30-20:00 sab-dom Chiuso",
@@ -3070,6 +3222,7 @@
     }
   },
   {
+    "id": "DkY6TEL",
     "nome": "Farmacia D'Alessio",
     "indirizzo": "  Corso Umberto I 6, 01037 Ronciglione (VT)",
     "orario": " 8:30-13 16:30-20",
@@ -3090,6 +3243,7 @@
     }
   },
   {
+    "id": "GqqaFSr",
     "nome": "Farmacia D'Auria",
     "indirizzo": " Via Circonvallazione 47, 10080 Busano (TO)",
     "orario": " lun-sab 09:00-12:30 15:00-19:00 sab 8:30-12:30 dom Chiuso ",
@@ -3110,6 +3264,7 @@
     }
   },
   {
+    "id": "EvLCzne",
     "nome": "Farmacia D'Igea del Dr. Mannerucci Giovanni",
     "orario": " lun ven 8-20",
     "telefono": " 050 571342",
@@ -3129,6 +3284,7 @@
     }
   },
   {
+    "id": "GGPKoCk",
     "nome": "Farmacia Dall'Armi",
     "indirizzo": " Piazza del Duomo 10, 38122 Trento (TN)",
     "orario": " mar-ven 08:30-12:30 15:00-19:00 sab 08:30-12:30 dom-lun Chiuso",
@@ -3149,6 +3305,7 @@
     }
   },
   {
+    "id": "WyEg09g",
     "nome": "Farmacia De Laurenzi",
     "indirizzo": " Via Mura dei Francesi 23, 00043 Ciampino (RM)",
     "orario": " lun-mer 08:30-13:00 16:00-19:30 sab 08:30-13:00 gio-ven-dom Chiuso",
@@ -3169,6 +3326,7 @@
     }
   },
   {
+    "id": "fVoFCSK",
     "nome": "Farmacia De Leidi",
     "indirizzo": " Via Del Municipio 9/A, Reana Del Rojale (UD) - 33010",
     "orario": " Tutti i giorni, domenica esclusa, 8.30-12.30, 15.00-19.00",
@@ -3189,6 +3347,7 @@
     }
   },
   {
+    "id": "o2M5u0e",
     "nome": "Farmacia De Remigis",
     "indirizzo": " Via Tiburtina 608, 00159 Roma (RM)",
     "orario": " lun-ven 08:30-13:00 16:30-20:00 sab-dom 08:30-19:30",
@@ -3209,6 +3368,7 @@
     }
   },
   {
+    "id": "SKr5kn1",
     "nome": "Farmacia Debouchè",
     "indirizzo": " Largo delle Alpi, 16, 10042 Nichelino TO",
     "orario": " lun-ven 08:30–20:00\n                                     sab 08:30–12:30",
@@ -3229,6 +3389,7 @@
     }
   },
   {
+    "id": "6Z26oGX",
     "nome": "Farmacia Dedola",
     "indirizzo": " Via Pietro e Maria Curie 35, Cagliari (CA) 09126",
     "orario": " lun-ven 09:00-13:30 16:30-20:00 sab  09:00-13:30 dom Chiuso",
@@ -3249,6 +3410,7 @@
     }
   },
   {
+    "id": "gGLYTW7",
     "nome": "Farmacia dei Colli Veronesi",
     "indirizzo": " Viale Europa 3, 37024 Negrar di Valpolicella (VR)",
     "orario": " lun-sab 08:00-20:00 dom 09:00-13:00",
@@ -3269,6 +3431,7 @@
     }
   },
   {
+    "id": "begxSMo",
     "nome": "Farmacia dei Leoni",
     "indirizzo": " Piazza Leoni 83, 90143 Palermo (PA)",
     "orario": " lun-ven 08:30-13:00 16:00-19:30 sab-dom Chiuso",
@@ -3289,6 +3452,7 @@
     }
   },
   {
+    "id": "XvV6nYu",
     "nome": "Farmacia dei Marmi",
     "indirizzo": " Via Massa Avenza 38, 54100 Massa (MS)",
     "orario": " lun-ven 08:30–19:30 sab-dom Chiuso",
@@ -3309,6 +3473,7 @@
     }
   },
   {
+    "id": "DOHAzoA",
     "nome": "Farmacia dei Ronchi",
     "indirizzo": " Via Ronchi 48, 54100 Massa (MS)",
     "orario": " lun gio-sab  08:30-12:30 15:30-19:30 mar 08:30-22:00 mer Chiuso dom 08:30-12:30",
@@ -3329,6 +3494,7 @@
     }
   },
   {
+    "id": "gMXTbAG",
     "nome": "Farmacia Del Bo",
     "indirizzo": " Piazza Emanuele Filiberto, 7, 27100 Pavia PV",
     "orario": " lun-ven 08:30–12:30, 15:30–19:30",
@@ -3349,6 +3515,7 @@
     }
   },
   {
+    "id": "o9UyRaw",
     "nome": "Farmacia del Carmine",
     "orario": " lun- sab 8-13, 16-20",
     "telefono": " 050-40801",
@@ -3367,6 +3534,7 @@
     }
   },
   {
+    "id": "qPB5Boq",
     "nome": "Farmacia Del Corso",
     "indirizzo": " Via Santo Stefano, 38H, 40125 Bologna",
     "orario": " lun-ven 08:30–13 15:30–19:30 sab 08:30–13 dom Chiuso",
@@ -3387,6 +3555,7 @@
     }
   },
   {
+    "id": "g6SVfxG",
     "nome": "Farmacia del Lago",
     "indirizzo": " Via Litta 14, 21026 Gavirate (VA)",
     "orario": " lun-ven 08:30-12:30 15:00-19:30 sab 08:30-12:30 dom Chiuso ",
@@ -3407,6 +3576,7 @@
     }
   },
   {
+    "id": "fOgg5er",
     "nome": "Farmacia del Monaco",
     "indirizzo": " Piazza la Corte, 15, 76123 Andria BT",
     "orario": " lun-ven 08:30–13:30, 16:30–20:30 \n                                      sab 08:30–13:30",
@@ -3426,6 +3596,7 @@
     }
   },
   {
+    "id": "zGjg0sS",
     "nome": "Farmacia del Salento",
     "indirizzo": " Via Merine 28, 73100 Lecce (LE)",
     "orario": " lun-dom 8:30-13:00 16:30-20:00",
@@ -3446,6 +3617,7 @@
     }
   },
   {
+    "id": "LfjbCv4",
     "nome": "Farmacia Del Savio",
     "indirizzo": " Via Romea Sud 589, 48125 Savio, Ravenna (RA)",
     "orario": " lun-sab 08:30-12:30 15:30-19:30 dom Chiuso",
@@ -3466,6 +3638,7 @@
     }
   },
   {
+    "id": "aXfTX1a",
     "nome": "Farmacia del Sole",
     "indirizzo": " Viale del Sole 1, 36100 Vicenza (VI)",
     "orario": " lun-sab 08:00 - 20:00 dom Chiuso",
@@ -3486,6 +3659,7 @@
     }
   },
   {
+    "id": "PqQYhDX",
     "nome": "Farmacia dell'Abbazia",
     "indirizzo": " Via della Repubblica, 14, 47833 Morciano di Romagna RN",
     "orario": "  da lunedì a sabato 08:30–13 15–19:30\ndomenica: chiuso",
@@ -3506,6 +3680,7 @@
     }
   },
   {
+    "id": "Hzf4wo1",
     "nome": "Farmacia dell'Erica",
     "indirizzo": " Via Dante Di Nanni, 79/E, 10138 Torino TO",
     "orario": " da lunedì a venerdì:  8.30-19.30\nsabato: 8.30-13.00\ndomenica: chiuso",
@@ -3526,6 +3701,7 @@
     }
   },
   {
+    "id": "8vVBzq9",
     "nome": "Farmacia Dell'Orologio",
     "indirizzo": " Piazza Roma, 8, 60121 Ancona",
     "orario": " mart-ven 08:30 - 12:30 16:00 - 19:30\nsab 08:30 - 12:30",
@@ -3546,6 +3722,7 @@
     }
   },
   {
+    "id": "rjjtv3e",
     "nome": "Farmacia Dell'Ospedale",
     "indirizzo": " Corso Antonio Fogazzaro 48, 36100 Vicenza (VI)",
     "orario": " lun-gio 09:00-12:30 16:00-19:30 ven-dom Chiuso sab 09:00-12:30",
@@ -3566,6 +3743,7 @@
     }
   },
   {
+    "id": "znyZkvg",
     "nome": "Farmacia della Cittadella",
     "indirizzo": " Corso di Porta Ticinese 50, 20123 Milano (MI)",
     "orario": " lun-sab 08:00-20:00 dom 17:00-22:00",
@@ -3586,6 +3764,7 @@
     }
   },
   {
+    "id": "KBilXHb",
     "nome": "Farmacia della Ferrovia",
     "indirizzo": " Via Guglielmo Marconi 213, 60127 Ancona (AN)",
     "orario": " lun-ven 8:30-12:30 16:00-19:30 sab 8:30-12:30 dom Chiuso",
@@ -3606,6 +3785,7 @@
     }
   },
   {
+    "id": "qFtB6jE",
     "nome": "Farmacia della Fontana",
     "indirizzo": " Piazza del Popolo 25, 20010 Arluno (MI)",
     "orario": " lun-sab 8:30-12:30 15:30-19:30 dom Chiuso",
@@ -3626,6 +3806,7 @@
     }
   },
   {
+    "id": "QNRStoC",
     "nome": "Farmacia della Serenissima",
     "indirizzo": " Via Prenestina 365/E, 00177 Roma (RM)",
     "orario": " 24h",
@@ -3646,6 +3827,7 @@
     }
   },
   {
+    "id": "0xbEe8z",
     "nome": "Farmacia della Stazione",
     "indirizzo": " Via della Liberazione, 2, 20025 Legnano MI",
     "orario": " 24h",
@@ -3666,6 +3848,7 @@
     }
   },
   {
+    "id": "hg0Aaei",
     "nome": "Farmacia della Stazione Centrale",
     "indirizzo": " Via Roma, 1, 90100 Palermo",
     "orario": " Aperto 24 ore su 24",
@@ -3686,6 +3869,7 @@
     }
   },
   {
+    "id": "lccEEwm",
     "nome": "Farmacia Della Tommasina",
     "indirizzo": " Via Foce 40, 54100 Massa (MS)",
     "orario": " lun-mer 8:00-19:30 gio 8:00-23:59 ven 00:00-19:30 sab 8:30 - 12:30 dom Chiuso ",
@@ -3706,6 +3890,7 @@
     }
   },
   {
+    "id": "MDZ8YUA",
     "nome": "Farmacia Devoto",
     "indirizzo": " Via Vittorio Veneto 9, 09047 Selargius (CA)",
     "orario": " lun-sab 08:30-13:00 16:30-20:10 dom Chiuso ",
@@ -3726,6 +3911,7 @@
     }
   },
   {
+    "id": "v1a438g",
     "nome": "Farmacia di Canepina",
     "indirizzo": " Piazzale Dei Caduti 18, 01030 Canepina (VT)",
     "orario": " lun-sab 09:00-13:00 16:30–20:00 Dom e Gio pom Chiuso",
@@ -3746,6 +3932,7 @@
     }
   },
   {
+    "id": "7Uri5wV",
     "nome": "Farmacia di Condove",
     "indirizzo": " Via Cesare Battisti, 3Bis, 10055 Condove TO",
     "orario": " da lunedì a venerdì  08:30–12:30 15:15–19:15\nsabato  08:30–12:30\ndomenica chiuso",
@@ -3766,6 +3953,7 @@
     }
   },
   {
+    "id": "RnJRmgM",
     "nome": "Farmacia di Peretola",
     "indirizzo": " Via Pistoiese, 11, 50145 Firenze",
     "orario": " lun-ven 08:30–20:00\n                                     sab 09:00–13:00, 16:00–20:00",
@@ -3786,6 +3974,7 @@
     }
   },
   {
+    "id": "saOAkKb",
     "nome": "Farmacia Di Ri",
     "indirizzo": " Via Piacenza 442, 16043 Chiavari (GE)",
     "orario": " lun 08:00-24:00 mar-gio-sab 08:00-12:30 15:00-20:00 ven Chiuso dom 08:00-12:30 ",
@@ -3806,6 +3995,7 @@
     }
   },
   {
+    "id": "lUu5ACt",
     "nome": "Farmacia di Termeno",
     "indirizzo": " Via Hans Feur 3, Termeno sulla Strada del Vino (BZ)",
     "orario": " lun-ven: 08:30–12:30 15:30–18:30 sab 08:00–12:00 Dom Chiuso",
@@ -3826,6 +4016,7 @@
     }
   },
   {
+    "id": "v8FTkBd",
     "nome": "Farmacia di Verdello S.R.L.",
     "indirizzo": " Via Guido Rossa 12, 24049 Verdello (BG)",
     "orario": " lun-sab 08:00-12:30 15:00-19:30 dom Chiuso",
@@ -3846,6 +4037,7 @@
     }
   },
   {
+    "id": "8kS3XIG",
     "nome": "Farmacia Dinucci Pallone",
     "orario": "",
     "telefono": " 05024219",
@@ -3865,6 +4057,7 @@
     }
   },
   {
+    "id": "2Oo7dLE",
     "nome": "Farmacia Divincenzo Dott. Filomena",
     "indirizzo": " Via F.Lattanzio, 10, 70126 Bari BA",
     "orario": " da lunedì a venerdì 8:30-13:30 e 16:30-20:30",
@@ -3885,6 +4078,7 @@
     }
   },
   {
+    "id": "2OPrAFD",
     "nome": "Farmacia Dott. Giovanni Berlincioni",
     "indirizzo": " Via Adriano Zarini, 114/A, 59100 Prato PO",
     "orario": " da lunedì a  sabato 09–13 15:30–19:30\ndomenica chiuso",
@@ -3905,6 +4099,7 @@
     }
   },
   {
+    "id": "9NtFAk0",
     "nome": "Farmacia Dott. Perina Giuseppe",
     "indirizzo": " Via Dante Alighieri, 2, 21052 Busto Arsizio VA",
     "orario": " lun-sab 8:30-12:30, 15:00-19:30",
@@ -3925,6 +4120,7 @@
     }
   },
   {
+    "id": "nCZBHFv",
     "nome": "Farmacia dott.sa Dessole Lucia Giuliana",
     "indirizzo": " Via Fratelli Borio, 22, 07037 Sorso SS",
     "orario": " da lunedì a venerdì:  9.00-13.00 / 17.00-20.30",
@@ -3945,6 +4141,7 @@
     }
   },
   {
+    "id": "EBhJpNx",
     "nome": "Farmacia Dott.ssa Borghese ",
     "indirizzo": " Via Sulcitana 184, 09030 Elmas (CA)",
     "orario": " lun-sab 08:30-13:30 16:15-20:30 dom Chiuso",
@@ -3965,6 +4162,7 @@
     }
   },
   {
+    "id": "Bv6iDtm",
     "nome": "Farmacia Dottor Leone Roberto",
     "indirizzo": " Piazza Giuseppe Garibaldi, 80142 Napoli (NA)",
     "orario": " lun-sab 07:00-21:00 dom 08:00-21:00",
@@ -3985,6 +4183,7 @@
     }
   },
   {
+    "id": "7fxQ8zh",
     "nome": "Farmacia Dr Senni & Vinciguerra",
     "indirizzo": " Via Agostino Ghirlanda 8, 54100 Massa (MS)",
     "orario": " lun 8:30-23:59 mar 0:00-13:00 15:30-19:30 mer-sab 8:30-13:00 15:30-19:30 dom Chiuso",
@@ -4005,6 +4204,7 @@
     }
   },
   {
+    "id": "DFPrfOJ",
     "nome": "Farmacia Dr. Luigi D'Ambrosio Lettieri",
     "indirizzo": " Via Monfalcone 19, 70125 Bari (BA)",
     "orario": " lun-mer-ven 08:30-13:30\n16:30-20:30 mar-gio 08:30-20:30 sab-dom Chiuso ",
@@ -4025,6 +4225,7 @@
     }
   },
   {
+    "id": "VA8XLZz",
     "nome": "Farmacia Dr. Paroni",
     "indirizzo": " Via Lonate Pozzolo, 33, Busto Arsizio ",
     "orario": " da lunedì a sabato:  8:30AM–12:30PM 3–7:30PM\ndomenica: chiuso",
@@ -4045,6 +4246,7 @@
     }
   },
   {
+    "id": "1wQOb4m",
     "nome": "Farmacia Dr. Paroni",
     "indirizzo": " Via Lonate Pozzolo, 33, Busto Arsizio ",
     "orario": " da lunedì a sabato:  8:30AM–12:30PM 3–7:30PM\ndomenica: chiuso",
@@ -4065,6 +4267,7 @@
     }
   },
   {
+    "id": "auXDTg9",
     "nome": "Farmacia due Gigli",
     "indirizzo": " Via Provanone, Palata Pepoli (BO)",
     "Orari di apertura": "dal lunedì al venerdì : 08:30–13 15:30–19\nsabato e domenica: chiuso",
@@ -4085,6 +4288,7 @@
     }
   },
   {
+    "id": "ho4GGTL",
     "nome": "Farmacia Due Madonne",
     "indirizzo": " Via Giovanni Lucchese 2, 41049 Sassuolo (MO)",
     "orario": " lun-ven 08:00-20:00 sab 08:00-19:00 dom Chiuso",
@@ -4105,6 +4309,7 @@
     }
   },
   {
+    "id": "zcAcanG",
     "nome": "Farmacia Eredi Orrù",
     "indirizzo": " Via Liguria 80/A, 09127 Cagliari (CA)",
     "orario": " lun-ven 08:30-20:15 sab 08:30-13:00 dom Chiuso",
@@ -4125,6 +4330,7 @@
     }
   },
   {
+    "id": "v4KdnCx",
     "nome": "Farmacia Esterna A.O. Papa Giovanni XXIII",
     "indirizzo": " Via dello Statuto 18/F, 24128 Bergamo (BG)",
     "orario": " lun-ven 9:00-13:30 14:30-19:00 sab-dom Chiuso",
@@ -4145,6 +4351,7 @@
     }
   },
   {
+    "id": "dlotACX",
     "nome": "Farmacia Europa",
     "indirizzo": " Via Giuseppe Verdi 305, 87036 Rende (CS)",
     "orario": " lun-ven 08:00-13:30 15:30-20:00 sab 08:00-13:30 16:00-19:30",
@@ -4165,6 +4372,7 @@
     }
   },
   {
+    "id": "4IH3QHW",
     "nome": "Farmacia Europa",
     "indirizzo": " Corso Italia 111, 95129 Catania (CT)",
     "orario": " lun-ven 08:30-13:00 16:30-20:00 sab-dom Chiuso",
@@ -4185,6 +4393,7 @@
     }
   },
   {
+    "id": "aPI8Yke",
     "nome": "Farmacia Falini",
     "indirizzo": " Via Los Angeles 64, 06081 Santa Maria degli Angeli (PG)",
     "orario": "  lun-sab 09:00-13:00 16:30-20:00 dom Chiuso",
@@ -4205,6 +4414,7 @@
     }
   },
   {
+    "id": "4NECEfV",
     "nome": "Farmacia Farma 4",
     "indirizzo": " Via Galileo Galilei, 72,  Arcore MB",
     "orario": " \ndal lunedì alla domenica:  08–00",
@@ -4225,6 +4435,7 @@
     }
   },
   {
+    "id": "tNMsNkp",
     "nome": "Farmacia Farmacrimi",
     "indirizzo": " Stazione Termini, Terrazza Termini Stazione Con Vista, Via Marsala, 29, 00185 Roma",
     "orario": "\nlunedì\t07–22\nmartedì\t07–22\nmercoledì 07–22\ngiovedì\t07–22\nvenerdì\t07–22\nsabato\t07–22\ndomenica\t07–22",
@@ -4245,6 +4456,7 @@
     }
   },
   {
+    "id": "ik3J5rw",
     "nome": "Farmacia Farmacrimi",
     "indirizzo": " Piazzale Enrico Dunant, 11, 00152 Roma RM",
     "orario": " tutti i giorni:  8.00-20.00",
@@ -4265,6 +4477,7 @@
     }
   },
   {
+    "id": "0ZgRQbw",
     "nome": "Farmacia Farmacrimi Axa",
     "indirizzo": " Via di Macchia Saponara 92, 00124 Roma (RM)",
     "orario": " 24h",
@@ -4285,6 +4498,7 @@
     }
   },
   {
+    "id": "kfoFCLD",
     "nome": "Farmacia Fata Morgana",
     "indirizzo": " Via Osanna 15, 89125 Reggio Calabria (RC)",
     "orario": " 24h",
@@ -4305,6 +4519,7 @@
     }
   },
   {
+    "id": "YueLwmV",
     "nome": "Farmacia Fattor",
     "indirizzo": " Via Grazzano 50, 33100 Udine (UD)",
     "orario": "  lun-mer 08:30-13:00 15:00-19:30 sab 08:30-13:00 gio-ven-dom Chiuso",
@@ -4325,6 +4540,7 @@
     }
   },
   {
+    "id": "MuwpnOf",
     "nome": "Farmacia Favero",
     "indirizzo": " Viale Giuseppe Tullio 11, 33100 Udine (UD)",
     "orario": " lun-ven 08:30-13:00 15:00-19:30 sab 09:00-13:00 dom Chiuso",
@@ -4345,6 +4561,7 @@
     }
   },
   {
+    "id": "Jiyl6g7",
     "nome": "Farmacia Fedeli Filippo",
     "orario": " \nlun-ven  9-13 15:30-19:30\nsab 9-13",
     "telefono": " 050 23110",
@@ -4364,6 +4581,7 @@
     }
   },
   {
+    "id": "XOJrvur",
     "nome": "Farmacia Felice",
     "indirizzo": "  Via Giuseppe Garibaldi 82, 95029 Viagrande (CT)",
     "orario": " lun-gio dom 00:00-24:00 ven 08:30-13:00 16:30-20:00 sab  08:30-13:00 16:30-24:00",
@@ -4384,6 +4602,7 @@
     }
   },
   {
+    "id": "gASn1jZ",
     "nome": "Farmacia Ferrari Anna",
     "indirizzo": " Corso della Libertà, 26, 39100 Bolzano BZ",
     "orario": " lun-ven 8:30-12:30, 15:00-19:00\n                                     sab 8:30-12:30",
@@ -4402,6 +4621,7 @@
     }
   },
   {
+    "id": "qeMhGCe",
     "nome": "Farmacia Ferrarini",
     "indirizzo": " Via Aurelia Ovest 25, 54100 Massa (MS)",
     "orario": " lun-ven 8:30-12:30 15:30-19:30 sab-dom Chiuso",
@@ -4422,6 +4642,7 @@
     }
   },
   {
+    "id": "BpyaELA",
     "nome": "Farmacia Fides",
     "indirizzo": " Corso della Giovecca 127, 44121 Ferrara (FE)",
     "orario": " 24h",
@@ -4442,6 +4663,7 @@
     }
   },
   {
+    "id": "Zt8lDPg",
     "nome": "Farmacia Fiore",
     "indirizzo": " Largo Andrea Sinno 1/E, 84126 Salerno (SA)",
     "orario": " lun-ven 09:00-13:00 16:30-20:00 sab 09:00-13:00 dom 09:00-22:00   ",
@@ -4462,6 +4684,7 @@
     }
   },
   {
+    "id": "LJCrH0m",
     "nome": "Farmacia Fois",
     "indirizzo": " Via Salvatore Diez 5, 07041 Alghero (SS)",
     "orario": " lun-ven 08:30-13:00 16:30-20:00 sab 08:30-13:00 dom Chiuso",
@@ -4482,6 +4705,7 @@
     }
   },
   {
+    "id": "kzloHX4",
     "nome": "Farmacia Formigine",
     "indirizzo": " Via Sant'Antonio 12/O, 41043 Formigine MO",
     "orario": " lun-sab 08:00–20:00 dom Chiuso",
@@ -4502,6 +4726,7 @@
     }
   },
   {
+    "id": "En97915",
     "nome": "Farmacia Fortichiari Orsola E C. Snc",
     "indirizzo": " Piazza Principale 29, 39040 Ora (BZ)",
     "orario": " lun-ven  08:00–12:00 15:00–19:00 sab 08:00–12:00 dom Chiuso",
@@ -4522,6 +4747,7 @@
     }
   },
   {
+    "id": "0UrjKPR",
     "nome": "Farmacia Fraccalanza",
     "indirizzo": " Via Antonio Pertile, 46, 30039 Stra VE",
     "orario": " lun-merc 08:30–12:30, 14:30-19:30\n                                     giov-sab 08:30–12:30, 15:30–19:30",
@@ -4542,6 +4768,7 @@
     }
   },
   {
+    "id": "sTtPruW",
     "nome": "Farmacia Franceschini",
     "indirizzo": " Piazza Guglielmo Marconi 6, 53019 Castelnuovo Berardenga (SI)",
     "orario": " lun-ven 09:00-13:00 \t15:30-19:30 dom Chiuso",
@@ -4562,6 +4789,7 @@
     }
   },
   {
+    "id": "f2Yv5su",
     "nome": "Farmacia Galeno",
     "indirizzo": " Via del Carmine 61, 84125 Salerno (SA)",
     "orario": " lun-sab 8:45-13:00 16:30-20:00 dom Chiuso",
@@ -4582,6 +4810,7 @@
     }
   },
   {
+    "id": "l97pasn",
     "nome": "Farmacia Galeno",
     "indirizzo": " Via Grande 62, 57123 Livorno (LI)",
     "orario": " lun-ven 08:30-13:00 15:00-19:30 sab 09:00-13:00 16:00-19:30 dom Prima domenica del mese ",
@@ -4602,6 +4831,7 @@
     }
   },
   {
+    "id": "BvJxkHj",
     "nome": "Farmacia Galeppi dr. Vito",
     "indirizzo": " Via Acaia, 43-49, 00183 Roma",
     "orario": " lun-sab 08:30–13, 16–20",
@@ -4621,6 +4851,7 @@
     }
   },
   {
+    "id": "tHT4E1O",
     "nome": "Farmacia Gandola",
     "indirizzo": " Via Ottaviano Custodi 13, 21013 Gallarate (VA)",
     "orario": " lun-sab 8:00-20:00 dom 9:00-13:00",
@@ -4641,6 +4872,7 @@
     }
   },
   {
+    "id": "iBP8RnL",
     "nome": "Farmacia Gavinana",
     "indirizzo": " Viale Donato Giannotti, 20R, Firenze (FI)",
     "orario": " lun-sab 09:00-13:00 15:30-20:00 dom Chiuso",
@@ -4661,6 +4893,7 @@
     }
   },
   {
+    "id": "DVFm29I",
     "nome": "Farmacia Gazzini ",
     "indirizzo": " Via Luigi Bianchi 55, 56123 Pisa (PI)",
     "orario": " lun-ven 09:00-13:00 15:30-19:30 sab 9:00-13:00",
@@ -4681,6 +4914,7 @@
     }
   },
   {
+    "id": "fJGPGFy",
     "nome": "Farmacia Gibellini",
     "indirizzo": " Viale Roma 228, 54100 Massa (MS)",
     "orario": " lun-gio 8:30-13:00\t15:30-19:30 ven 08:30-22:00 sab-dom Chiuso",
@@ -4701,6 +4935,7 @@
     }
   },
   {
+    "id": "SAhBHvF",
     "nome": "Farmacia Gibertini",
     "indirizzo": " Str. della Repubblica, 10, Parma PR",
     "orario": " da lunedì a venerdì 8:30 –20.00\nsabato 8.30-13.00 / 15.30-19.30\ndomenica chiuso ",
@@ -4721,6 +4956,7 @@
     }
   },
   {
+    "id": "yNUY4Nb",
     "nome": "Farmacia Gigli Di Landini Pia",
     "orario": " lun-sab 08:30–19:30",
     "telefono": " 050 530008",
@@ -4740,6 +4976,7 @@
     }
   },
   {
+    "id": "j4PzvLJ",
     "nome": "Farmacia Giglio",
     "indirizzo": " Piazza Iglesias 7, 09013 Carbonia (SU)",
     "orario": " lun-sab 9:00-13:00 17:00-20:20 dom Chiuso",
@@ -4760,6 +4997,7 @@
     }
   },
   {
+    "id": "gMtX1Zo",
     "nome": "Farmacia Grattacielo",
     "indirizzo": " Piazza Santo Spirito 2/B, 37122 Verona (VR)",
     "orario": "  lun-ven 08:30-13:00 15:00-19:30 sab 08:30-13:00",
@@ -4780,6 +5018,7 @@
     }
   },
   {
+    "id": "EWP7sfy",
     "nome": "Farmacia Gregotti",
     "indirizzo": " Piazza Duomo, 16, 27058 Voghera PV",
     "orario": " da lunedì a domenica: Aperto 24 ore su 24",
@@ -4800,6 +5039,7 @@
     }
   },
   {
+    "id": "EifUET3",
     "nome": "Farmacia Grimaldi",
     "indirizzo": " Via Lucio Orofino 2/1, 84127 Salerno (SA)",
     "orario": " lun-ven 8:45-13:00 16:30-20:00 sab 8:45-13:00 dom Chiuso",
@@ -4820,6 +5060,7 @@
     }
   },
   {
+    "id": "OBmXO4t",
     "nome": "Farmacia Guccione",
     "indirizzo": " Via Regina Elena 81, 97015 Modica",
     "orario": " lun-ven 09:00-13:00 16:00-20:00 sab 09:00-13:00 dom Chiuso",
@@ -4840,6 +5081,7 @@
     }
   },
   {
+    "id": "Rc7PyHK",
     "nome": "Farmacia Guglielmino",
     "indirizzo": " Corso Italia 168, 56125 Pisa (PI)",
     "orario": " lun-ven 9:00-20:00\nsab 9:00-13:00",
@@ -4860,6 +5102,7 @@
     }
   },
   {
+    "id": "NzYHDgP",
     "nome": "Farmacia Gullé del Dr Nasca Antonino",
     "indirizzo": " Via Vittorio Emanuele 2 - 97010 Monterosso Almo (RG)",
     "orario": "\nlunedì\t08:30–13, 15:30–19:30\nmartedì\t08:30–13, 15:30–19:30\nmercoledì\t08:30–13, 15:30–19:30\ngiovedì\t08:30–13, 15:30–19:30\nvenerdì\t08:30–13, 15:30–19:30\nsabato\t08:30–13\ndomenica\t Chiuso",
@@ -4880,6 +5123,7 @@
     }
   },
   {
+    "id": "iOPXwKt",
     "nome": "Farmacia Ialacci",
     "indirizzo": " Via Etruria, 38, 00183 Roma",
     "orario": " lun-sab 08:30–21",
@@ -4900,6 +5144,7 @@
     }
   },
   {
+    "id": "zyv5cBG",
     "nome": "Farmacia Igea",
     "indirizzo": " Largo Cervinia 23, 00135 Roma (RM)",
     "orario": " 24h",
@@ -4920,6 +5165,7 @@
     }
   },
   {
+    "id": "BMo3sl8",
     "nome": "Farmacia Igea Milano",
     "indirizzo": " Via Gustavo Modena 25, 20129 Milano (MI)",
     "orario": " lun-sab 8:30-20:00",
@@ -4940,6 +5186,7 @@
     }
   },
   {
+    "id": "NsvK1ZS",
     "nome": "Farmacia Infanti",
     "indirizzo": " Via Giambattista Belzoni 17, 35131 Padova (PD)",
     "orario": " lun-ven 09:00-12:30 16:00-19:30 sab 09:00-12:30 mar e dom Chiuso",
@@ -4960,6 +5207,7 @@
     }
   },
   {
+    "id": "SkUnNdM",
     "nome": "Farmacia Internazionale",
     "indirizzo": " Viale della Libertà 242, 81031 Aversa (CE)",
     "orario": " lun-sab 24h dom Chiuso",
@@ -4980,6 +5228,7 @@
     }
   },
   {
+    "id": "kMeZAfX",
     "nome": "Farmacia Internazionale Marangoni",
     "indirizzo": " Granviale Santa Maria Elisabetta, 55/A, 30126 Venezia",
     "orario": " lun-ven 09–20\nsab \t09–19",
@@ -5000,6 +5249,7 @@
     }
   },
   {
+    "id": "LSE4Nsz",
     "nome": "Farmacia Italo Inglese",
     "indirizzo": " 3717 S. Marco, Venezia, 30124",
     "orario": " lun-sab 9:00-19:30 ",
@@ -5020,6 +5270,7 @@
     }
   },
   {
+    "id": "haaWVrv",
     "nome": "Farmacia La Martire",
     "indirizzo": " Via Nocera Umbra 184, 00181 Roma (RM)",
     "orario": " lun -ven  08:30-20:00 sab  08:30-13:00 dom Chiuso",
@@ -5040,6 +5291,7 @@
     }
   },
   {
+    "id": "Sdh5cej",
     "nome": "Farmacia La Rinascente",
     "indirizzo": " Via Braccianese Claudia 52, 00062 Loc. La Rinascente, Bracciano (RM)",
     "orario": " lun-dom 07:30-20:00",
@@ -5060,6 +5312,7 @@
     }
   },
   {
+    "id": "GGtlT8E",
     "nome": "Farmacia Lapucci Dr. Renzo",
     "indirizzo": " Corso G. Matteotti, 115,Pontedera PI",
     "orario": " da lunedì a venerdì: 09–20\nsabato 9.00-13.00\ndomenica chiuso",
@@ -5080,6 +5333,7 @@
     }
   },
   {
+    "id": "WCjzsle",
     "nome": "Farmacia Laura Leali E Carmen Mirabile S.N.C.",
     "indirizzo": " Viale Roma 41, 21020 Barasso (VA)",
     "orario": " lun-gio-sab 08:30-12:30 15:00-20:00 ven 15:00-20:00 dom Chiuso",
@@ -5100,6 +5354,7 @@
     }
   },
   {
+    "id": "2CzJHm5",
     "nome": "Farmacia Le Grezze",
     "indirizzo": " Centro commerciale \"Le Vele\", Via Adua snc Presso c/c Le Vele, 25015 Desenzano del Garda BS",
     "orario": "\nlunedì\tChiuso\nmartedì\t09–13, 15:30–19:30\nmercoledì 09–13, 15:30–19:30\ngiovedì\t09–13, 15:30–19:30\nvenerdì\t09–13, 15:30–19:30\nsabato\t09–13, 15–19\ndomenica\t09–13, 15–19",
@@ -5120,6 +5375,7 @@
     }
   },
   {
+    "id": "o30oBLJ",
     "nome": "Farmacia Leva",
     "indirizzo": " Corso Stati Uniti, 5, 10128 Torino TO",
     "orario": " lun-ven 08:30–19:30\n                                     sab 08:30–12:30",
@@ -5140,6 +5396,7 @@
     }
   },
   {
+    "id": "MZP3MUU",
     "nome": "Farmacia Lovato Adolfo E Figli",
     "indirizzo": " Via Leonardo da Vinci 3, 36075 Montecchio Maggiore (VI)",
     "orario": " lun-ven  09:00-12:30 16:00-19:30 sab  09:00-12:30 dom Chiuso",
@@ -5160,6 +5417,7 @@
     }
   },
   {
+    "id": "h4zigSX",
     "nome": "Farmacia Macaluso Indelicato Di D.Ri Ivano E Maria Teresa Indelicato Snc",
     "indirizzo": " Via Vittorio Emanuele Orlando, 92100                         Agrigento AG, Italia",
     "orario": "  lun-sab 09:00 - 20:00",
@@ -5180,6 +5438,7 @@
     }
   },
   {
+    "id": "KWzFNe1",
     "nome": "Farmacia Madonna della Pace",
     "indirizzo": " Corso Palermo, 119, 10154 Torino",
     "orario": " lun-ven 08:30–12:30, 15:00–19:00\nsab 08:30–12:30",
@@ -5200,6 +5459,7 @@
     }
   },
   {
+    "id": "kUM0aDR",
     "nome": "Farmacia Magrè",
     "indirizzo": " Via Pio X, 29/B, 36015 Schio VI",
     "orario": " \nlunedì\t08:45–12:30, 15:30–19:30\nmartedì\t08:45–12:30, 15:30–19:30\nmercoledì\t08:45–12:30, 15:30–19:30\ngiovedì\t08:45–12:30, 15:30–19:30\nvenerdì\t08:45–12:30, 15:30–19:30\nsabato\t08:45–12:30\ndomenica\t Chiuso",
@@ -5220,6 +5480,7 @@
     }
   },
   {
+    "id": "y2gcLIY",
     "nome": "Farmacia Mariani",
     "indirizzo": "  Via Livorno, 27, 00162 Roma",
     "orario": " lun-ven 8:30-20\nsab \t08:30–13, 16–19:30",
@@ -5240,6 +5501,7 @@
     }
   },
   {
+    "id": "pCFseF7",
     "nome": "Farmacia Marini Luca",
     "indirizzo": " Via Tor de Schiavi 281, Roma",
     "orario": "\nlunedì\t08–20\nmartedì\t08–20\nmercoledì 08–20\ngiovedì\t08–20\nvenerdì\t08–20\nsabato\t08–13\ndomenica Chiuso",
@@ -5260,6 +5522,7 @@
     }
   },
   {
+    "id": "ehBc1Ai",
     "nome": "Farmacia Maroccini",
     "indirizzo": " Via Luciano Laurana, 18/22, 61029 Urbino PU",
     "orario": "\nlunedì 08–20\nmartedì 08–20\nmercoledì  08–20\ngiovedì 08–20\nvenerdì 08–20\nsabato 08–20\ndomenica Chiuso",
@@ -5280,6 +5543,7 @@
     }
   },
   {
+    "id": "zjT7Uam",
     "nome": "Farmacia Mascheroni",
     "indirizzo": " Via Roma 41, 21059 Viggiù (VA)",
     "orario": " lun 00:00-08:30 mar-sab 08:30-12:30 15:30-19:30 dom 08:30-00:00",
@@ -5299,6 +5563,7 @@
     }
   },
   {
+    "id": "gRKkJQ9",
     "nome": "Farmacia Meazza",
     "indirizzo": " Via delle Forze Armate 4, 20147 Milano (MI)",
     "orario": " lun-sab 08:30-19:30 dom Chiuso",
@@ -5319,6 +5584,7 @@
     }
   },
   {
+    "id": "Mi7zVC9",
     "nome": "Farmacia Meazza",
     "indirizzo": " Via Giacomo Matteotti, 10, Rho MI",
     "orario": " da lunedì a domenica  08:30–13 15–19:30",
@@ -5339,6 +5605,7 @@
     }
   },
   {
+    "id": "LKbHrb0",
     "nome": "Farmacia Menichetti",
     "indirizzo": " Via Dante Alighieri 31, 54100 Massa (MS)",
     "orario": " lun-sab 08:30-13:00 15:30-19:30 dom Chiuso",
@@ -5359,6 +5626,7 @@
     }
   },
   {
+    "id": "ybqNBNI",
     "nome": "Farmacia Messana",
     "indirizzo": " Viale Conte Testasecca 51, 93100 Caltanissetta (CL)",
     "orario": "  lun-sab 09:00 - 13:00 16:00-20:00 dom Chiuso",
@@ -5379,6 +5647,7 @@
     }
   },
   {
+    "id": "p2XHJ5b",
     "nome": "Farmacia Minucci Snc delle dottoresse Cardinale G. e Minucci Quilici F.& C.",
     "orario": " lun sab 8-20",
     "telefono": " 050-598021",
@@ -5398,6 +5667,7 @@
     }
   },
   {
+    "id": "RBky2Mq",
     "nome": "Farmacia Moltedo Osvaldo",
     "indirizzo": " Via Giacomo Trevis, 60, 00147, Roma",
     "orario": "\n\nLunedì 08:30 - 19:30\nMartedì 08:30 - 19:30\nMercoledì 08:30 - 19:30\nGiovedì 08:30 - 19:30\nVenerdì 08:30 - 19:30\nSabato chiuso\nDomenica chiuso",
@@ -5418,6 +5688,7 @@
     }
   },
   {
+    "id": "E8SvZzE",
     "nome": "Farmacia Montemaggi",
     "indirizzo": " Piazza Anna Magnani 29, 47522 Cesena FC",
     "orario": " lun-sab eccetto giov \n                                              08:30–12:30, 15:30–19:30\n                                      giov 08:30–12:30",
@@ -5437,6 +5708,7 @@
     }
   },
   {
+    "id": "uT4jobN",
     "nome": "Farmacia Monti",
     "indirizzo": "  Via Divisione Partigiana Garibaldi 1, 50032 Borgo San Lorenzo (FI)",
     "orario": " lun-sab 8:30-13:30 15:00-20:00 dom 9:00-13:00 15:30-20:00",
@@ -5457,6 +5729,7 @@
     }
   },
   {
+    "id": "t8N3wjx",
     "nome": "Farmacia Mummolo",
     "indirizzo": " Piazza Garibaldi 11, Udine",
     "orario": "  \nlunedì\t08:30–12:30, 15:30–19:30\nmartedì\t08:30–12:30, 15:30–19:30\nmercoledì\t08:30–12:30, 15:30–19:30\ngiovedì\t08:30–12:30\nvenerdì\t08:30–12:30, 15:30–19:30\nsabato\t08:30–12:30, 15:30–19:30\ndomenica\t08:30–12:30, 15:30–19:30",
@@ -5477,6 +5750,7 @@
     }
   },
   {
+    "id": "UEYZhDg",
     "nome": "Farmacia Murtas",
     "indirizzo": " Via Antonio Scano 52, 09129 Cagliari (CA)",
     "orario": " lun-dom 8:00-24:00",
@@ -5497,6 +5771,7 @@
     }
   },
   {
+    "id": "OTteFyI",
     "nome": "Farmacia Nastri",
     "indirizzo": " Via Roma 110, 84121 Salerno (SA)",
     "orario": " lun-ven 09:00-13:00 16:30-19:30 sab 09:00-19:30 dom Chiuso",
@@ -5517,6 +5792,7 @@
     }
   },
   {
+    "id": "N4rcIoZ",
     "nome": "Farmacia Nieddu",
     "indirizzo": " Viale della Repubblica SNC, 08100 Nuoro (NU)",
     "orario": " lun-ven 08:30-13:00 16:30-20:30 sab 08:30-13:00 dom Chiuso",
@@ -5536,7 +5812,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"rl555Ip",
     "indirizzo": " Via Nazionale 71, 10020 Cambiano (TO)",
     "orario": " lun-ven 08:30–19:30 sab 08:30–12:30 15:30-19:30 dom Chiuso",
     "telefono": " 3922913848",
@@ -5557,6 +5833,7 @@
     }
   },
   {
+    "id": "rKg9XtC",
     "nome": "Farmacia Nuova Snc",
     "orario": " 8-23 tutti i giorni",
     "telefono": " 050544002",
@@ -5576,6 +5853,7 @@
     }
   },
   {
+    "id": "6B8uqNK",
     "nome": "Farmacia Oberdan",
     "indirizzo": " Via Altabella 14, 40126 Bologna (BO)",
     "orario": " lun-ven 8:30-14:00 15:30-19:30 sab-dom Chiuso",
@@ -5596,6 +5874,7 @@
     }
   },
   {
+    "id": "ItOKJNG",
     "nome": "Farmacia Olivi",
     "indirizzo": " Via Paolo Guidi 51, 47814 Bellaria-Igea Marina (RN) ",
     "orario": " lun-sab 09:00-13:00 15:30–19:30 dom Chiuso",
@@ -5616,6 +5895,7 @@
     }
   },
   {
+    "id": "IVhyDXW",
     "nome": "Farmacia Olona",
     "indirizzo": " Viale Coni Zugna 43, 20144 Milano (MI)",
     "orario": " lun-ven 08:30-19:30 sab 9:00-19:30 dom Chiuso",
@@ -5636,6 +5916,7 @@
     }
   },
   {
+    "id": "wfyUSMj",
     "nome": "Farmacia Orlando",
     "indirizzo": " Via Nicolò Garzilli 56, 90141 Palermo (PA)",
     "orario": " lun-ven 08:00-22:00 sab 08:00-14:00 17:00-22:30 dom 19:00-22:30 ",
@@ -5656,6 +5937,7 @@
     }
   },
   {
+    "id": "TamlJhn",
     "nome": "Farmacia Ornato ",
     "indirizzo": "  Via Ornato Luigi 13/A, 20162 Milano (MI)",
     "orario": " lun-ven  08:30-13:00 15:30-19:30 sab 08:30-13:00 15:30-19:00 dom Chiuso",
@@ -5676,6 +5958,7 @@
     }
   },
   {
+    "id": "kT9Y23Q",
     "nome": "Farmacia Ostiense",
     "indirizzo": " Via Ostiense, 85, Roma",
     "orario": "\nlunedì\t08:30–20\nmartedì\t08:30–20\nmercoledì\t08:30–20\ngiovedì\t08:30–20\nvenerdì\t08:30–20\nsabato\t08:30–13\ndomenica\t Chiuso",
@@ -5696,6 +5979,7 @@
     }
   },
   {
+    "id": "bFigH9P",
     "nome": "Farmacia Pallante",
     "indirizzo": " Via dei Filosofi 43, 06121 Perugia (PG)",
     "orario": " lun-sab 08:30-13:00 16:30-20:00",
@@ -5716,6 +6000,7 @@
     }
   },
   {
+    "id": "7UrhKod",
     "nome": "Farmacia Palmieri e Gaffuri",
     "indirizzo": " Corso Giuseppe Garibaldi, 62, 60121 Ancona",
     "orario": " lun-ven 08:00-20:00 sab 08:30-12:30 dom Chiuso",
@@ -5736,6 +6021,7 @@
     }
   },
   {
+    "id": "EkrGTed",
     "nome": "Farmacia Panunzi",
     "indirizzo": " Viale Antonio Ciamarra 235, 00173 Roma (RM)",
     "orario": " lun-dom 08:00-22:00",
@@ -5756,6 +6042,7 @@
     }
   },
   {
+    "id": "UYwIHFr",
     "nome": "Farmacia Passaro",
     "indirizzo": " Piazza dei Martiri 3, 84070 Trentinara (SA)",
     "orario": "  lun-sab 08:30-13:00 16:30-19:30 mar 16:30-19:30 dom Chiuso",
@@ -5776,6 +6063,7 @@
     }
   },
   {
+    "id": "FvCWaM5",
     "nome": "Farmacia Patuna",
     "indirizzo": " Campo S. Giacomo 1, 34137 Trieste (TS)",
     "orario": " lun-ven 08:30-13:00 15:00-19:30 sab 08:30-13:00 dom Chiuso",
@@ -5796,6 +6084,7 @@
     }
   },
   {
+    "id": "FT6h5gP",
     "nome": "Farmacia Pedotti",
     "indirizzo": " Corso Garibaldi 25, Pavia (PV) ",
     "orario": " mar-sab 08:30-13:00, \n                                                    15:00-19:30\n                                      dom 08:30-13:00",
@@ -5815,6 +6104,7 @@
     }
   },
   {
+    "id": "uVHtRAo",
     "nome": "Farmacia Pellegrini",
     "indirizzo": " Piazza di S. Cosimato 34, 00153 Roma (RM)",
     "orario": " lun-ven 08:30-20:00 sab 08:30-13:00 dom Chiuso",
@@ -5835,6 +6125,7 @@
     }
   },
   {
+    "id": "is5RHhH",
     "nome": "Farmacia Pellicanò",
     "indirizzo": " Viale Calabria 78, 89133 Reggio Calabria (RC)",
     "orario": " lun-ven 08:30-13:00 16:00-20:00 sab 08:30-13:00",
@@ -5855,6 +6146,7 @@
     }
   },
   {
+    "id": "hMsyGOz",
     "nome": "Farmacia Penati (Centro Commerciale Carosello)",
     "indirizzo": " Strada Provinciale, 208 (km 2)   Carugate MI",
     "orario": " tutti i giorni, 24ore su 24",
@@ -5875,6 +6167,7 @@
     }
   },
   {
+    "id": "zGeViCS",
     "nome": "Farmacia Perciballi Paolo",
     "indirizzo": " Via Silvio D'Amico 15, Roma",
     "orario": "\n\nlunedì 08:30–19:30\nmartedì 08:30–19:30\nmercoledì 08:30–19:30\ngiovedì 08:30–19:30\nvenerdì 08:30–19:30\nsabato 08:30–13\ndomenica Chiuso",
@@ -5895,6 +6188,7 @@
     }
   },
   {
+    "id": "hDqsqIA",
     "nome": "Farmacia Perissinotto",
     "indirizzo": " Fondamenta Trapolin, 4437, Venezia ",
     "orario": " da lunedì a venerdì:  9AM–12:30PM 3–7:30PM\nsabato:  9AM–12:45PM\ndomenica: chiuso",
@@ -5915,6 +6209,7 @@
     }
   },
   {
+    "id": "JzfMtyk",
     "nome": "Farmacia Perrino",
     "indirizzo": " Via Giuseppe di Vagno 14, 72021 Francavilla Fontana (BR)",
     "orario": " lun-sab 8:30-13:00 17:00-20:30 dom Chiuso",
@@ -5935,6 +6230,7 @@
     }
   },
   {
+    "id": "pDXMvQ7",
     "nome": "Farmacia Pescetto",
     "indirizzo": " Via Balbi 185r, 16126 Genova (GE)",
     "orario": " 24h",
@@ -5955,6 +6251,7 @@
     }
   },
   {
+    "id": "NOmIQYX",
     "nome": "Farmacia Petri",
     "indirizzo": " Corso Italia 1, 56125 Pisa (PI)",
     "orario": " Lun-Ven 9.00-13.00 15.30-19.30",
@@ -5974,6 +6271,7 @@
     }
   },
   {
+    "id": "H1C8XWB",
     "nome": "Farmacia Pettenati",
     "indirizzo": " Piazza Italia 5, 43014 Medesano (PR)",
     "orario": " lun-ven 08:30-13:00 16:00–19:30 sab 08:30-13:00 dom Chiuso",
@@ -5994,6 +6292,7 @@
     }
   },
   {
+    "id": "Ndde9mD",
     "nome": "Farmacia Piazza",
     "indirizzo": " Via Casenuove 54, 48018 Faenza (RA)",
     "orario": " lun-ven 08:30-12:30 15:30-19:30 sab 08:30-12:30 dom Chiuso",
@@ -6014,6 +6313,7 @@
     }
   },
   {
+    "id": "i68Ke4X",
     "nome": "Farmacia Piazza Bologna",
     "indirizzo": " Piazza Bologna 20, 00162 Roma (RM)",
     "orario": " lun-dom 08:00-22:00",
@@ -6034,6 +6334,7 @@
     }
   },
   {
+    "id": "Y4zSvzW",
     "nome": "Farmacia Piazza Libertà",
     "indirizzo": " Via Monastero Vecchio 45, 21100 Varese (VA)",
     "orario": " lun-ven 8:30-12:30 15:00-19:00 sab 8:30-12:30 dom Chiuso",
@@ -6054,6 +6355,7 @@
     }
   },
   {
+    "id": "puiX8y7",
     "nome": "Farmacia Piccalunga",
     "indirizzo": " Via Giuseppe Garibaldi, 23, Desio, MB",
     "orario": " \nlun-mart, giov-ven 08:30–12:30, 15–19:30\nmerc 08:30–19:30\nsab \t08:30–12:30",
@@ -6074,6 +6376,7 @@
     }
   },
   {
+    "id": "pzAQtuE",
     "nome": "Farmacia Piccinini - Dr. Morgantini",
     "orario": " lun-ven 8-20\nsab 8-13",
     "telefono": " 050-541292",
@@ -6093,6 +6396,7 @@
     }
   },
   {
+    "id": "xCpZox8",
     "nome": "Farmacia Pieroni dr. Raffaele",
     "indirizzo": "Piazza della Vittoria, 45, 56020 Santa Maria A Monte PI:",
     "Orario": "lun-ven 8:30-13 16-20 sab 9-13 dom chiuso ",
@@ -6111,6 +6415,7 @@
     }
   },
   {
+    "id": "L2hVZpl",
     "nome": "Farmacia Piga",
     "indirizzo": " Viale Trieste 71C, 09123 Cagliari (CA)",
     "orario": " lun-dom 8:00-00:00 ",
@@ -6131,6 +6436,7 @@
     }
   },
   {
+    "id": "phalMGe",
     "nome": "Farmacia Pineta Sacchetti Snc",
     "indirizzo": " Via della Pineta Sacchetti, 464, 00168 Roma",
     "orario": " lun-sab 08:30–20",
@@ -6151,6 +6457,7 @@
     }
   },
   {
+    "id": "T83v5Eu",
     "nome": "Farmacia Pontenuovo",
     "indirizzo": " Via SS. Consolata 30, 41049 Sassuolo (MO)",
     "orario": " lun-ven 08:30-13:00 15:30-19:45 sab-dom Chiuso",
@@ -6171,6 +6478,7 @@
     }
   },
   {
+    "id": "r1QE81T",
     "nome": "Farmacia Porta Nuova ",
     "indirizzo": " Viale Papa Giovanni XXIII, 34, 24121 Bergamo BG",
     "orario": "  lun-sab: 9:00-19:30\n domenica: chiuso",
@@ -6191,6 +6499,7 @@
     }
   },
   {
+    "id": "PkimLUx",
     "nome": "Farmacia Portis",
     "indirizzo": " Via Madama Cristina 37, 10125 Torino (TO)",
     "orario": " lun-ven 08:30-13:00 15:30-19:30 (sabato 08:30-13:00 a settimane alterne)",
@@ -6211,6 +6520,7 @@
     }
   },
   {
+    "id": "qREQheZ",
     "nome": "Farmacia Portuense",
     "indirizzo": " 425, V. Portuense, 00149 Roma",
     "orario": " Aperto tutti i giorni, 24 ore su 24",
@@ -6231,6 +6541,7 @@
     }
   },
   {
+    "id": "0T4OiZM",
     "nome": "Farmacia Posatora",
     "indirizzo": " Via Martin Luther King 9, 60131 Ancona (AN)",
     "orario": " lun-sab 8:30-12:30 16:00-19:30 dom Chiuso",
@@ -6251,6 +6562,7 @@
     }
   },
   {
+    "id": "MpNlrel",
     "nome": "Farmacia Pozzo Strada",
     "indirizzo": " Corso Francia, 273,  Torino TO",
     "orario": " luned', martedì, giovedì venerdì : 09–13 /15:30–19:30\nmercoledì, sabato, domenica: chiusa",
@@ -6271,6 +6583,7 @@
     }
   },
   {
+    "id": "wCzVeKr",
     "nome": "Farmacia Pretto",
     "indirizzo": " Via Santa Maria Maddalena, 84, 36016 Thiene VI",
     "orario": " lun - ven 8:15-13:00, 15:30-                                     \n                                     19:30 \n                                     sab 8:30-13:00, 15:30-19:00",
@@ -6291,6 +6604,7 @@
     }
   },
   {
+    "id": "55hRsY6",
     "nome": "Farmacia Quattro Canti",
     "indirizzo": "  Via Etnea 39, 95121 Catania (CT)",
     "orario": " mar-sab 08:30-13:00 16:00-19:30 dom-lun Chiuso",
@@ -6311,6 +6625,7 @@
     }
   },
   {
+    "id": "lvH9tQH",
     "nome": "Farmacia Ragusa",
     "indirizzo": " Via Taranto 111, 00182 Roma (RM)",
     "orario": " lun-dom 08:00-21:30",
@@ -6331,6 +6646,7 @@
     }
   },
   {
+    "id": "RSnTXJ4",
     "nome": "Farmacia Raimo di Giovanni Snc",
     "orario": " lun-sab 9-21",
     "telefono": " 050 581337",
@@ -6350,6 +6666,7 @@
     }
   },
   {
+    "id": "ceDR5Kk",
     "nome": "Farmacia Raimondi Giusto",
     "indirizzo": " Via Lucania 68, 74121 Taranto (TA)",
     "orario": " lun-sab 8:30-13:00 16:30-20:00 Dom Chiuso",
@@ -6370,6 +6687,7 @@
     }
   },
   {
+    "id": "c7KGj8W",
     "nome": "Farmacia Ramacciotti",
     "indirizzo": " Via Ponticello Sud 4, 54100 Massa (MS)",
     "orario": " lun-ven 8:30-13:00 15:30-20:00 sab 8:30-12:30 16:00-20:00 dom Chiuso",
@@ -6390,6 +6708,7 @@
     }
   },
   {
+    "id": "3M9imud",
     "nome": "Farmacia Ramacciotti",
     "indirizzo": " Via Ponticello Sud 4, 54100 Massa (MS)",
     "orario": " lun-ven 8:30-13:00 15:30-20:00 sab 8:30-12:30 16:00-20:00 dom Chiuso",
@@ -6410,6 +6729,7 @@
     }
   },
   {
+    "id": "WAWlfis",
     "nome": "Farmacia Repubblica ",
     "indirizzo": " Piazza della Repubblica, 32, Milano MI",
     "orario": " da lunedì a venerdì: 08–00\nsabato 09–20\ndomenica: 09–13 16–20",
@@ -6430,6 +6750,7 @@
     }
   },
   {
+    "id": "eoYiyNu",
     "nome": "Farmacia Riccardi",
     "indirizzo": " Via di Boccea 184, 00167 Roma (RM)",
     "orario": " lun-sab 08:30-13:00 16:00-20:00 dom Chiuso ",
@@ -6450,6 +6771,7 @@
     }
   },
   {
+    "id": "B7zgNbV",
     "nome": "Farmacia Ricciarelli",
     "indirizzo": " Via Giuseppe Mazzini, 2, 61029 Urbino PU",
     "orario": "\nlunedì 08:30–13 15:30–20\nmartedì 08:30–13 15:30–20\nmercoledì 08:30–13 15:30–20\ngiovedì 08:30–13 15:30–20\nvenerdì 08:30–13 15:30–20\nsabato 08:30–13\ndomenica Chiuso",
@@ -6470,6 +6792,7 @@
     }
   },
   {
+    "id": "ZnaLRXe",
     "nome": "Farmacia Ricengo",
     "indirizzo": " Vicolo Brolo 3A, 26010 Ricengo (CR)",
     "orario": " lun-ven 9:00-13:00 16:00-19:00 sab 9:00-13:00 dom Chiuso",
@@ -6490,6 +6813,7 @@
     }
   },
   {
+    "id": "DyVnhLW",
     "nome": "Farmacia Rinaldi ",
     "indirizzo": " Via Arioste 1505, Bagnolo Di Po 45022 (RO) ",
     "orario": " lun-mer-ven-sab  09:00-12:30 16:00-19:30 mar 9:00-12:30 gio 9:00-24:00 dom Chiuso",
@@ -6510,6 +6834,7 @@
     }
   },
   {
+    "id": "7b2zy63",
     "nome": "Farmacia Rolla Cinque Vie",
     "indirizzo": " Via Moroni Giovanni Battista 2, 24122 Bergamo (BG)",
     "orario": " lun-sab 9:00-13:00 15:00-19:30",
@@ -6530,6 +6855,7 @@
     }
   },
   {
+    "id": "y4mepUG",
     "nome": "Farmacia Rombi",
     "indirizzo": " Viale Sant'Avendrace 143, 09122 Cagliari (CA)",
     "orario": " lun-ven 09:00-13:00 17:00-20:00 sab 09:00-13:00 dom Chiuso",
@@ -6550,6 +6876,7 @@
     }
   },
   {
+    "id": "IeVZFI0",
     "nome": "Farmacia Rossi",
     "indirizzo": " Via Manfredi, 5, Lugo RA",
     "orario": " da lunedì a venerdì 08:30–19:30\nsabato: 08:30-13:00\ndomenica: chiuso",
@@ -6570,6 +6897,7 @@
     }
   },
   {
+    "id": "9enNcYk",
     "nome": "Farmacia Rotolo",
     "indirizzo": " Via Antonio Gramsci 26, 91028 Partanna (TP)",
     "orario": " lun-ven 08:30-13:00 16:00-20:00 sab-dom Chiuso",
@@ -6590,6 +6918,7 @@
     }
   },
   {
+    "id": "4Rfiqzp",
     "nome": "Farmacia Ruscazio",
     "indirizzo": " Via San Michele 66, 09122 Cagliari (CA)",
     "orario": " lun-ven 8:30-13:00 16:30-20:00 sab 9:00-13:00 dom Chiuso",
@@ -6610,6 +6939,7 @@
     }
   },
   {
+    "id": "7L7hRRi",
     "nome": "Farmacia Russo",
     "indirizzo": " Viale Sergio Cosmai, 93, Cosenza CS",
     "orario": " da lunedì a sabato:  8:30–13.00 / 16.00- 20.00 \ndomenica: 8.30-13.00",
@@ -6630,6 +6960,7 @@
     }
   },
   {
+    "id": "6DB2sle",
     "nome": "Farmacia S Domenico Di Carrara",
     "indirizzo": " Via Monte Solarolo, 2, 35030 Selvazzano Dentro PD",
     "orario": "  Wednesday 9AM–12:30PM, 3:45–7:30PM\nThursday\t9AM–12:30PM, 3:45–7:30PM\nFriday\t9AM–12:30PM, 3:45–7:30PM\nSaturday\t9AM–12:30PM\nSunday\tClosed\nMonday\t9AM–12:30PM, 3:45–7:30PM\nTuesday\t9AM–12:30PM, 3:45–7:30PM\n",
@@ -6650,6 +6981,7 @@
     }
   },
   {
+    "id": "OVFwkGP",
     "nome": "Farmacia S Domenico Di Carrara",
     "indirizzo": " Via Monte Solarolo, 2, 35030 Selvazzano Dentro PD",
     "orario": "  Wednesday 9AM–12:30PM, 3:45–7:30PM\nThursday\t9AM–12:30PM, 3:45–7:30PM\nFriday\t9AM–12:30PM, 3:45–7:30PM\nSaturday\t9AM–12:30PM\nSunday\tClosed\nMonday\t9AM–12:30PM, 3:45–7:30PM\nTuesday\t9AM–12:30PM, 3:45–7:30PM\n",
@@ -6670,6 +7002,7 @@
     }
   },
   {
+    "id": "HiiCV2T",
     "nome": "Farmacia S. Antonio",
     "indirizzo": " Via Giuseppe Massarenti 108, 40138 Bologna (BO)",
     "orario": " lun-ven 8:30-12:30 15:30-19:30 sab (invernale) 8:30-12:30",
@@ -6690,6 +7023,7 @@
     }
   },
   {
+    "id": "ImXWqQi",
     "nome": "Farmacia S. Antonio Snc",
     "indirizzo": " Via Roma, 2, 31030 Altivole TV",
     "orario": " lun-ven 08:30–19:30\nsab 08:30–12:30",
@@ -6710,6 +7044,7 @@
     }
   },
   {
+    "id": "WGklts7",
     "nome": "Farmacia S. Elia del Dr. Spennati",
     "indirizzo": " Viale Michelangelo Merisi Caravaggio 30, 72100 Brindisi (BR)",
     "orario": " lun-mer-gio 8:30-20:00 mar-ven 8:30-13:30 16:30-20:00 sab 8:30-13:30 dom Chiuso",
@@ -6730,6 +7065,7 @@
     }
   },
   {
+    "id": "RPQVkZW",
     "nome": "Farmacia S. Liberale Dott. Polato Pierfrancesco",
     "indirizzo": " Viale Don Luigi Sturzo, 180, 30020 Marcon VE",
     "orario": " da lunedì a sabato: 8.30- 13.00/ 15.00-20.00\t\ndomenica chiuso",
@@ -6750,6 +7086,7 @@
     }
   },
   {
+    "id": "hNC58rw",
     "nome": "Farmacia S. Marco",
     "indirizzo": " Via dei Visconti 2, 09131 Cagliari (CA)",
     "orario": " lun-sab  09:00-13:00 16:30-20:30",
@@ -6770,6 +7107,7 @@
     }
   },
   {
+    "id": "ObzXKHV",
     "nome": "Farmacia S. Marco della Dottoressa Ciucci M. Letizia e C. sas",
     "indirizzo": " Via Carlo Cattaneo, 20",
     "orario": " lun-ven 09–13, 16–20\nsab 09-13",
@@ -6790,6 +7128,7 @@
     }
   },
   {
+    "id": "tXeRYZ9",
     "nome": "Farmacia S. Pietro Dr.Ssa Donata Bestetti",
     "indirizzo": " Via Adua, 29 20822 Seveso MB ",
     "orario": " lun-ven 08:30 - 12:30 15:30 - 19:30\nsab 08:30 - 12:30",
@@ -6810,6 +7149,7 @@
     }
   },
   {
+    "id": "UxxG1cO",
     "nome": "Farmacia S. Rosa",
     "indirizzo": " Via Dante Di Nanni, 42, 10139 Torino TO",
     "orario": " da lunedì a venerdì: 8.30-12.30 / 15.00-19.30\nsabato e domenica: chiuso",
@@ -6830,6 +7170,7 @@
     }
   },
   {
+    "id": "sZe1Ea3",
     "nome": "Farmacia Sacro Cuore",
     "indirizzo": " Piazza Principe di Camporeale 6/E, 90138 Palermo (PA)",
     "orario": " lun-sab 08:30-21:30 dom 08:30-13:30",
@@ -6850,6 +7191,7 @@
     }
   },
   {
+    "id": "Xra301A",
     "nome": "Farmacia Sacro Cuore di Dott.Ssa Federica Benedetti",
     "indirizzo": " Via Roma 1, 31037 Loria (TV)",
     "orario": " lun-ven 08:30-13:00 15:30-19:30 sab 08:30-13:00 dom Chiuso",
@@ -6870,6 +7212,7 @@
     }
   },
   {
+    "id": "XuQd0D3",
     "nome": "Farmacia Saettone",
     "indirizzo": " Via Pietro Paleocapa, 147r, Savona SV",
     "orario": " da lunedì a domenica 24h",
@@ -6890,6 +7233,7 @@
     }
   },
   {
+    "id": "0m5C30W",
     "nome": "Farmacia Saltarelli",
     "indirizzo": " Via di Acqua Bullicante 202E, 00177 Roma (RM)",
     "orario": " lun-dom 07:00-24:00",
@@ -6910,6 +7254,7 @@
     }
   },
   {
+    "id": "dQFwvic",
     "nome": "Farmacia Salvi",
     "indirizzo": " Via Zeffirino Re 6, 47521 Cesena (FC)",
     "orario": " lun-ven 08:30-12:30 15:30-19:30 gio 08:30-12:30 dom Chiuso",
@@ -6930,6 +7275,7 @@
     }
   },
   {
+    "id": "XQLCXtd",
     "nome": "Farmacia Salvioni",
     "orario": " lun-sab 08-20",
     "telefono": " 050-3138224",
@@ -6947,6 +7293,7 @@
     }
   },
   {
+    "id": "JEo5piK",
     "nome": "Farmacia San Camillo",
     "indirizzo": " Via Benedetto Giovanelli 5, 38122 Trento (TN)",
     "orario": "  lun-ven 08:30-12:15 15:00-19:00 sab 08:30-12:15  ",
@@ -6967,6 +7314,7 @@
     }
   },
   {
+    "id": "3TSk5zV",
     "nome": "Farmacia San Carlo",
     "indirizzo": " Via Statale 50, 44047 San Carlo (FE)",
     "orario": " lun–ven 8:30–12:30 15:30–19:30 sabato 8:30–12:30 dom Chiuso",
@@ -6987,6 +7335,7 @@
     }
   },
   {
+    "id": "jd9j8xk",
     "nome": "Farmacia San Cristoforo",
     "indirizzo": " Via Plebiscito, 329, 95121 Catania CT",
     "orario": " lun-sab 08:30–13:30, 16–00\ndom 08:30–13:30, 19–00",
@@ -7007,6 +7356,7 @@
     }
   },
   {
+    "id": "zdacmuY",
     "nome": "Farmacia San Gabriele",
     "indirizzo": " Via Nomentana 564, 00141 Roma (RM)",
     "orario": " 24h",
@@ -7027,6 +7377,7 @@
     }
   },
   {
+    "id": "wKMP3uY",
     "nome": "Farmacia San Giorgio",
     "indirizzo": " Via Ferruccio Garavaglia 6/B, 40127 Bologna (BO)",
     "orario": " lun-ven 08:30-19:30 sab 09:30-19:30 dom Chiuso  ",
@@ -7047,6 +7398,7 @@
     }
   },
   {
+    "id": "qAv15tl",
     "nome": "Farmacia San Giovanni",
     "indirizzo": " Piazza San Giovanni, 6A, 21052, Busto Arsizio",
     "orario": " 09–12:30, 15–19:30",
@@ -7065,6 +7417,7 @@
     }
   },
   {
+    "id": "CjC7EMw",
     "nome": "Farmacia San Lazzaro",
     "indirizzo": " Corso Casale 183, 14100 Asti (AT)",
     "orario": " lun-ven 8:30-12:45 14:30-20:00 sab 8:30-12:45 15:00-19:30 dom Chiuso",
@@ -7085,6 +7438,7 @@
     }
   },
   {
+    "id": "dtfU3H6",
     "nome": "Farmacia San Leopoldo della Dott.ssa Cinzia Ortolani e c.s.a.s.",
     "indirizzo": " Piazza Trattati di Roma, 1, 47039 Savignano sul Rubicone FC",
     "orario": " da lunedì a domenica 08:30–20",
@@ -7105,6 +7459,7 @@
     }
   },
   {
+    "id": "GS1cyvv",
     "nome": "Farmacia San Lorenzo",
     "indirizzo": " Via Ugo Bassi 25, 40121 Bologna (BO) ",
     "orario": " lun-sab 8:30-19:30 dom Chiuso",
@@ -7125,6 +7480,7 @@
     }
   },
   {
+    "id": "mZn9ZXz",
     "nome": "Farmacia San Lorenzo",
     "indirizzo": " Via dei Sabelli 84, 00185 Roma (RM)",
     "orario": " lun-ven 08:30-13:00 16:00-19:30 sab 08:30-13:00 dom Chiuso",
@@ -7145,6 +7501,7 @@
     }
   },
   {
+    "id": "BFljLfP",
     "nome": "Farmacia San Luigi",
     "indirizzo": " Via Umberto Felluga 46, 34142 Trieste (TS)",
     "orario": " lun-ven 08:30-13:00 16:00-19:30 sab 08:30-13:00 dom Chiuso",
@@ -7165,6 +7522,7 @@
     }
   },
   {
+    "id": "eM3FtdV",
     "nome": "Farmacia San Marco",
     "indirizzo": "  Via Giandomenico Tacco 6, 34144 Trieste (TS)",
     "orario": " lun-ven 08:30-13:00 16:00-19:30 sab 08:30-12:30 dom Chiuso",
@@ -7185,6 +7543,7 @@
     }
   },
   {
+    "id": "zrNvhM5",
     "nome": "Farmacia San Patrizio",
     "indirizzo": " Corso Alessandro Manzoni 1, 27100 Pavia (PV)",
     "orario": " lun-ven 08:30–19:30 sab 08:30–13:00 15:30-19:30 dom Chiuso",
@@ -7205,6 +7564,7 @@
     }
   },
   {
+    "id": "pSSKCa1",
     "nome": "Farmacia San Pio",
     "indirizzo": " Corso Roma 114, 71013 San Giovanni Rotondo (FG)",
     "orario": " lun-sab 8:30-13:00 16:30-20:00 dom Chiuso",
@@ -7225,6 +7585,7 @@
     }
   },
   {
+    "id": "mf1Wd5i",
     "nome": "Farmacia San Polo",
     "indirizzo": " San Polo, 30100 Venezia (VE)",
     "orario": " lun Chiuso mar-sab 9:00-13:00 15:30-19:30 dom 9:00-12:45",
@@ -7245,6 +7606,7 @@
     }
   },
   {
+    "id": "YkXfMsm",
     "nome": "Farmacia San Salvario",
     "indirizzo": " Via Madama Cristina 14, 10125 Torino (TO)",
     "orario": " lun-dom 08:30-19:30",
@@ -7265,6 +7627,7 @@
     }
   },
   {
+    "id": "qfG8y6a",
     "nome": "Farmacia San Vittore",
     "indirizzo": " Piazza S. Vittore, 16,  Rho (MI)",
     "orario": "da lunedì a sabato 08:30-13 15-19:30\ndomenica: chiuso",
@@ -7285,6 +7648,7 @@
     }
   },
   {
+    "id": "7BOYsb9",
     "nome": "Farmacia Sansovino",
     "indirizzo": " Via Sansovino 1, 20133 Milano (MI)",
     "orario": " lun-ven 08:00-22:00 sab  08:30-21:00 dom  09:00-13:00 15:00-20:00",
@@ -7305,6 +7669,7 @@
     }
   },
   {
+    "id": "SwlII14",
     "nome": "Farmacia Sant'Agata",
     "indirizzo": " Via A. e M. Roncoroni, 35, 22077 Olgiate Comasco (CO)",
     "orario": " lun-sab 8:30-19:30 dom Chiuso",
@@ -7325,6 +7690,7 @@
     }
   },
   {
+    "id": "PVwB1KZ",
     "nome": "Farmacia Sant'Elena",
     "indirizzo": " Via Plinio 43, 74121 Taranto (TA)",
     "orario": " lun-ven 09:00-13:00 16:30-20:00 sab 09:00-13:00 dom Chiuso ",
@@ -7345,6 +7711,7 @@
     }
   },
   {
+    "id": "f99pQvb",
     "nome": "Farmacia Sant'Isaia",
     "indirizzo": " Via Sant'Isaia 2, 40123 Bologna (BO)",
     "orario": " lun-ven 08:30-19:30 sab 09:00-13:00 15:30-19:30 Domenica Solo per Turno",
@@ -7365,6 +7732,7 @@
     }
   },
   {
+    "id": "l9ZNq9q",
     "nome": "Farmacia Sant'Isaia",
     "indirizzo": " Via Sant'Isaia 2, 40123 Bologna (BO)",
     "orario": " lun-ven 08:30-19:30 sab 09:00-13:00 15:30-19:30 Domenica Solo per Turno",
@@ -7385,6 +7753,7 @@
     }
   },
   {
+    "id": "riqXcla",
     "nome": "Farmacia Santa Chiara",
     "indirizzo": " Viale Margherita 101, 36100 Vicenza (VI)",
     "orario": " lun-ven 08:20-19:30 lun-sab 08:20-13:00 15:00-19:00 dom Chiuso",
@@ -7405,6 +7774,7 @@
     }
   },
   {
+    "id": "UycQAvK",
     "nome": "Farmacia Santa Maria",
     "indirizzo": "  Viale Tiberina 62, 06059 Todi PG",
     "orario": " lun-ven 09:00-13:00 16:00-19:30 sab 09:00-23:59 dom 00:00-23:59",
@@ -7425,6 +7795,7 @@
     }
   },
   {
+    "id": "8YkPx99",
     "nome": "Farmacia Santa Maria Nascente",
     "indirizzo": " Via Pergine 2, 20148 Milano (MI)",
     "orario": " lun-ven 08:30-13:00 15:30-19:45 sab 8:30-13:00 15:30-18:45 dom Chiuso",
@@ -7445,6 +7816,7 @@
     }
   },
   {
+    "id": "KERehNV",
     "nome": "Farmacia Santa Marta",
     "indirizzo": " Via Nicola Fabrizi 102, 10145 Torino (TO)",
     "orario": " lun-sab  08:00-19:30 dom Chiuso",
@@ -7465,6 +7837,7 @@
     }
   },
   {
+    "id": "hRhbPcs",
     "nome": "Farmacia Santo Stefano",
     "indirizzo": " Via Roma 104, 16033 Lavagna (GE)",
     "orario": " Inverno lun-dom 08:00-20:00\nEstate (giu-lug-ago) lun-dom 08:00-22:00",
@@ -7485,6 +7858,7 @@
     }
   },
   {
+    "id": "Wel8sMG",
     "nome": "Farmacia Saracino",
     "indirizzo": " Corso Vittorio Emanuele II 92, 84014 Nocera Inferiore (SA)",
     "orario": " lun 00:00-13:00 16:30-20:00 mar-ven 08:30-13:00 16:30-20:00 sab 20:00-24:00 dom 00:00-08:30 20:00-24:00",
@@ -7505,6 +7879,7 @@
     }
   },
   {
+    "id": "9WEMXZe",
     "nome": "Farmacia Sarappa s.n.c.",
     "indirizzo": " Via del Tonale e della Mendola, 77, 24060 Endine Gaiano BG",
     "orario": "  \nda lunedì a venerdì: 08:30–12:30 15:30–19:30\nsabato  08:30–12:30\ndomenica chiuso",
@@ -7525,6 +7900,7 @@
     }
   },
   {
+    "id": "98DxjfK",
     "nome": "Farmacia Savonarola",
     "indirizzo": " Piazzale Mazzini 29, 35137 Padova (PD)",
     "orario": " lun-ven 08:30-13:00 15:45-19:30 sab 09:00-12:45 dom Chiuso",
@@ -7545,6 +7921,7 @@
     }
   },
   {
+    "id": "moUHZiz",
     "nome": "Farmacia Scabbio Dottor Lorena",
     "indirizzo": "  Via A. Pigafetta, 12, 30021 Caorle VE",
     "orario": "\nLunedì 09:00 - 12:30 15:30 - 19:00\nMartedì 09:00 - 12:30 15:30 - 19:00\nMercoledì 09:00 - 12:30 15:30 - 19:00\nGiovedì 09:00 - 12:30 15:30 - 19:00\nVenerdì 09:00 - 12:30 15:30 - 19:00\nSabato 09:00 - 12:30\nDomenica chiuso",
@@ -7565,6 +7942,7 @@
     }
   },
   {
+    "id": "uOvMHw5",
     "nome": "Farmacia Schiavone",
     "indirizzo": " Via Regina Margherita 48, 74123 Taranto (TA)",
     "orario": " lun-ven 09:00-13:00 \t17:00-20:30 sab-dom Chiuso",
@@ -7585,6 +7963,7 @@
     }
   },
   {
+    "id": "eOzstWc",
     "nome": "Farmacia Schioppa",
     "indirizzo": " Via Alcide De Gasperi 4, 81014 Capriati A Volturno (CE)",
     "orario": " lun-sab 09:00-13:00 16:00-20:00 dom Chiuso",
@@ -7605,6 +7984,7 @@
     }
   },
   {
+    "id": "CpPyD7A",
     "nome": "Farmacia Schlich",
     "indirizzo": " Via Crispi 12, 09124 Cagliari (CA)",
     "orario": " lun-ven 8:30-14:00 16:00-20:10 sab 9:00-13:00 17:00-19:30",
@@ -7625,6 +8005,7 @@
     }
   },
   {
+    "id": "joX8x0g",
     "nome": "Farmacia Sena ",
     "indirizzo": " Piazza Carlo Mustacchio 1, 84025 Eboli (SA)",
     "orario": " lun-ven 08:30-13:00 16:30-20:00 sab 08:30-13:00 dom Chiuso ",
@@ -7645,6 +8026,7 @@
     }
   },
   {
+    "id": "lmK4Ul0",
     "nome": "Farmacia Sensini",
     "indirizzo": " Località Ponterio 84/H, 06059 Todi PG",
     "orario": " lun-sab 8:30-13:00 16:00-20:00 dom Chiuso",
@@ -7665,6 +8047,7 @@
     }
   },
   {
+    "id": "WHARGXF",
     "nome": "Farmacia Smeraldo",
     "indirizzo": "  Viale Monte Grappa 7, 20124 Milano (MI) ",
     "orario": " lun-ven 9:00-19:30 sab  9:00-13:00 14:30-18:30",
@@ -7685,6 +8068,7 @@
     }
   },
   {
+    "id": "hr7v8kn",
     "nome": "Farmacia Spaccanapoli",
     "indirizzo": " Piazzetta Nilo 1, 80134 Napoli (NA)",
     "orario": " lun-dom 08:00-21:00  ",
@@ -7705,6 +8089,7 @@
     }
   },
   {
+    "id": "4Jlv2bY",
     "nome": "Farmacia Spagnoletti",
     "indirizzo": " Via Molise 78, 86039 Termoli (CB)",
     "orario": " lun-gio sab 8:30-13:00 16:30-20:00 ven-dom Chiuso",
@@ -7725,6 +8110,7 @@
     }
   },
   {
+    "id": "zIjWyk6",
     "nome": "Farmacia Spano",
     "indirizzo": " Via Roma 99, 09124 Cagliari (CA)",
     "orario": "  lun-ven 09:00-13:00 16:30-19:30 sab-dom Chiuso",
@@ -7745,6 +8131,7 @@
     }
   },
   {
+    "id": "kEwKdwt",
     "nome": "Farmacia Sparano",
     "indirizzo": " Via Cervinia 24, 84012 Angri (SA)",
     "orario": " lun-ven 9:00-13:00 16:30-20:30 mar-sab-dom Chiusa",
@@ -7765,6 +8152,7 @@
     }
   },
   {
+    "id": "y6GPdRV",
     "nome": "Farmacia Sponza ",
     "indirizzo": " Via Lionello Stock 9, 34135 Trieste (TS)",
     "orario": " lun-ven 8:30-19:30 sab 8:30-13:00 dom Chiuso",
@@ -7785,6 +8173,7 @@
     }
   },
   {
+    "id": "RyEWumf",
     "nome": "Farmacia Stadio",
     "indirizzo": " Viale Aldo Moro 4, 89128 Reggio Calabria (RC)",
     "orario": " lun-ven 08:30–13 16:30–20 sab-dom Chiuso",
@@ -7805,6 +8194,7 @@
     }
   },
   {
+    "id": "ocS5UI7",
     "nome": "Farmacia Statuto",
     "indirizzo": " Via dello Statuto 21/R, 50129 Firenze (FI)",
     "orario": " lun-ven 09:00-13:00 15:30-20:00 sab 09:00-13:00 dom Chiuso",
@@ -7825,6 +8215,7 @@
     }
   },
   {
+    "id": "IH3Lp84",
     "nome": "Farmacia Stazione Centrale",
     "indirizzo": " Milano Centrale, Piazza Duca d'Aosta 1, 20125 Milano (MI)",
     "orario": " lun-dom 07:00-22:00",
@@ -7845,6 +8236,7 @@
     }
   },
   {
+    "id": "xDdxGUo",
     "nome": "Farmacia Stazione Porta Genova",
     "indirizzo": " Piazzale Stazione Genova 5/3, 20144 Milano (MI)",
     "orario": " 24h",
@@ -7865,6 +8257,7 @@
     }
   },
   {
+    "id": "gjQFrQJ",
     "nome": "Farmacia Stefanini ",
     "indirizzo": " Via Aurelia Sud 173/A, 54100 Massa (MS)",
     "orario": " lun-sab 8:30-12:30\t 15:30-19:30 ven 08:30-23:59 dom Chiuso",
@@ -7885,6 +8278,7 @@
     }
   },
   {
+    "id": "mDUP8AR",
     "nome": "Farmacia Terrone",
     "indirizzo": " Piazza F. Patellani - Centro Comm.le I Macinanti, Valmontone (RM)",
     "orario": "",
@@ -7905,6 +8299,7 @@
     }
   },
   {
+    "id": "ftOBqfH",
     "nome": "Farmacia Tiburtina Dottor Giuliano Mancini",
     "indirizzo": " Via Tiburtina 542, 00159 Roma (RM)",
     "orario": " lun-gio 08:30-13:00 16:30-20 ven 16:00-20:00 sab 08:30-13:00 dom Chiuso",
@@ -7925,6 +8320,7 @@
     }
   },
   {
+    "id": "GJoms0P",
     "nome": "Farmacia Todesco",
     "indirizzo": " Via Croce 19, Ancignano (VI)",
     "orario": " len- ven: 8:45-12:30, 16:00-19:30 sab: 8:45-12:30",
@@ -7945,6 +8341,7 @@
     }
   },
   {
+    "id": "wrIV6jI",
     "nome": "Farmacia Tomassini",
     "indirizzo": "  Frazione Aspio 4, 60020 Ancona (AN)",
     "orario": " lun-sab 08:30-12:45 16:00-19:45",
@@ -7965,6 +8362,7 @@
     }
   },
   {
+    "id": "dqllfsO",
     "nome": "Farmacia Trecca Maria",
     "indirizzo": " Via Emanuele Filiberto 145, 00185 Roma (RM) ",
     "orario": " lun-ven 08:30-13:00 16:00-19:30 sab 08:30-13:00 dom Chiuso  ",
@@ -7985,6 +8383,7 @@
     }
   },
   {
+    "id": "s0xl1rB",
     "nome": "Farmacia Trimarco",
     "indirizzo": " Piazza Pietro Perretta 3, 22100 Como (CO)",
     "orario": " lun-san 08:00 – 19:30 dom Chiuso",
@@ -8005,6 +8404,7 @@
     }
   },
   {
+    "id": "PX2hYLH",
     "nome": "Farmacia Urgu",
     "indirizzo": " Via Antonio Gramsci 78, 09013 Carbonia (SU)",
     "orario": " lun-dom 08:00-23:00",
@@ -8025,6 +8425,7 @@
     }
   },
   {
+    "id": "kvIR1lR",
     "nome": "Farmacia Uroda",
     "indirizzo": " Via della Torre Clementina 76, 00054 Fiumicino (RM)",
     "orario": " lun-ven  08:30-13:00 16:30-20:00 sab-dom Chiuso",
@@ -8045,6 +8446,7 @@
     }
   },
   {
+    "id": "xpnpujO",
     "nome": "Farmacia Valla",
     "indirizzo": " Corso Giuseppe Garibaldi 116, 60121 Ancona (AN)",
     "orario": " lun-dom 8:00-20:00",
@@ -8065,6 +8467,7 @@
     }
   },
   {
+    "id": "hsOc8ho",
     "nome": "Farmacia Verdoliva",
     "indirizzo": " Via Luigi Guercio 216, 84134 Salerno (SA)",
     "orario": " lun-ven 08:45-13:00 16:30-19:30 sab-dom Chiuso",
@@ -8085,6 +8488,7 @@
     }
   },
   {
+    "id": "9wwmXi9",
     "nome": "Farmacia Vieni",
     "indirizzo": " Piazza del Duomo 16, 95124 Catania (CT)",
     "orario": " lun-ven 8:00-20:00 sab 8:30-13:00",
@@ -8105,6 +8509,7 @@
     }
   },
   {
+    "id": "Hj34WVI",
     "nome": "Farmacia Vieni",
     "indirizzo": " Piazza del Duomo 16, 95124 Catania (CT)",
     "orario": " lun-ven 8:00-20:00 sab 8:30-13:00",
@@ -8125,6 +8530,7 @@
     }
   },
   {
+    "id": "fsdtwFr",
     "nome": "Farmacia Vignoli Esposito Dr. Vitolo ",
     "orario": "",
     "telefono": " 050 500273",
@@ -8143,6 +8549,7 @@
     }
   },
   {
+    "id": "URYQyXW",
     "nome": "Farmacia Villaggio Dalmazia",
     "indirizzo": " Via Monte San Gabriele, 52, Novara",
     "orario": " da lunedì alla domenica:  Aperto 24 ore su 24",
@@ -8163,6 +8570,7 @@
     }
   },
   {
+    "id": "MRIzyYO",
     "nome": "Farmacia Vizzini",
     "indirizzo": " Viale Trieste, 59, 93100 Caltanissetta CL",
     "orario": " lun-gio 09:00-13:00, 16:00-20:00\n                                     ven 09:00-13:00",
@@ -8183,6 +8591,7 @@
     }
   },
   {
+    "id": "6hQLMXI",
     "nome": "Farmacia Xx Settembre Del Dott. Romano Antonino",
     "indirizzo": " Via XX Settembre, 182, 16121 Genova GE",
     "orario": " da lunedì a sabato 08:30–19:30\ndomenica: chiuso",
@@ -8203,6 +8612,7 @@
     }
   },
   {
+    "id": "iyV5zgC",
     "nome": "Farmacia Zanobini",
     "indirizzo": " Via Gianfrancesco Pagnini 66, 50134 Firenze (FI)",
     "orario": " lun-gio 09:00-13:00 \t15:00-20:00 ven-sab 09:00-13:00 15:30-20:00 dom Chiuso",
@@ -8223,6 +8633,7 @@
     }
   },
   {
+    "id": "TkM3IOZ",
     "nome": "Farmacia Zanon Snc",
     "indirizzo": "  Via Armando Diaz 4, 22046 Merone (CO)",
     "orario": " lun-sab 08:30-12:30 15:30-19:30 gio 15:30-19:30 dom Chiuso",
@@ -8243,6 +8654,7 @@
     }
   },
   {
+    "id": "mDHoFcM",
     "nome": "Farmacia Zardo",
     "indirizzo": " Viale Franco Martelli 40, 33170 Pordenone (PN)",
     "orario": " lun-ven 08:00-13:00   15:00-19:30 sab-dom: Chiuso",
@@ -8263,6 +8675,7 @@
     }
   },
   {
+    "id": "pFHpjzb",
     "nome": "Farmacie Comunali Corsichesi",
     "indirizzo": " Via Sebastiano Caboto 3, 20094 Corsico (MI)",
     "orario": " 24h",
@@ -8283,6 +8696,7 @@
     }
   },
   {
+    "id": "LPmVz6P",
     "nome": "Farmacie Linfa Palermo",
     "indirizzo": " Via Aspromonte 95/97, 90144 Palermo (PA)",
     "orario": " lun-dom 9:00-14:00 15:30-20:30",
@@ -8303,6 +8717,7 @@
     }
   },
   {
+    "id": "NCyoXRm",
     "nome": "Farmacie Sanasi Giussano",
     "indirizzo": " Via Alberto da Giussano 42, 00176 Roma (RM)",
     "orario": " lun-sab 08:30-20:00 dom Chiuso",
@@ -8323,6 +8738,7 @@
     }
   },
   {
+    "id": "VMepj8e",
     "nome": "Lloyds Farmacia Battaglia",
     "indirizzo": " Via della Battaglia 25, 40141 Bologna",
     "orario": " \nDal Lunedì al Venerdì: 08.30-12.30 e 15.30-19.30",
@@ -8343,6 +8759,7 @@
     }
   },
   {
+    "id": "nhfj3JC",
     "nome": "Lloyds Farmacia Centrale",
     "indirizzo": " Piazza Maggiore, 6, 40121 Bologna BO",
     "orario": "  aperta tutti i giorni 24h",
@@ -8363,6 +8780,7 @@
     }
   },
   {
+    "id": "wPyKjrr",
     "nome": "Lloyds Farmacia Milano",
     "indirizzo": " Via Privata Parenzo 8/A, 20143 Milano (MI)",
     "orario": " lun-ven 08:00-13:00 15:00-19:45 sab 08:30-13:00 15:00-19:30 dom Chiuso ",
@@ -8383,6 +8801,7 @@
     }
   },
   {
+    "id": "PX6OFqQ",
     "nome": "Lloyds Farmacia N..12",
     "indirizzo": " Via Privata Iglesias 48, 20128 Milano (MI)",
     "orario": " lun-ven 08:30-12:30 15:30-19:30 dom 09:00-13:00 15:30-19:30",
@@ -8403,6 +8822,7 @@
     }
   },
   {
+    "id": "aFqYmCs",
     "nome": "Lloyds Farmacia N.23",
     "indirizzo": "   Via Lomellina / angolo Via Monte Suello, 1, 20133 Milano MI",
     "orario": " da lunedì a sabato 8.30-19\ndomenica chiuso",
@@ -8423,6 +8843,7 @@
     }
   },
   {
+    "id": "b0lE3Ff",
     "nome": "Lloyds Farmacia n.70",
     "indirizzo": " Viale Famagosta 36, 20142 Milano (MI)",
     "orario": " 24h",
@@ -8443,6 +8864,7 @@
     }
   },
   {
+    "id": "XxJNgym",
     "nome": "Lloyds Farmacia N.71",
     "indirizzo": " Via Luisa Battistotti Sassi 24, 20133 Milano (MI)",
     "orario": " lun-sab 08:30-20:00 dom 09:00-13:00 15:00-19:00",
@@ -8463,6 +8885,7 @@
     }
   },
   {
+    "id": "XYhOpMh",
     "nome": "Lloyds Farmacia N.72",
     "indirizzo": " Via Gran S. Bernardo, 6, 20154 Milano (MI)",
     "orario": " lun-ven 08:30-19:30 sab 08:30-13:30 15:30-19:30 dom 09:00-13:00 ",
@@ -8483,6 +8906,7 @@
     }
   },
   {
+    "id": "pgU4m1M",
     "nome": "Lloyds Farmacia N.83",
     "indirizzo": " Viale Monza 226, 20128 Milano (MI)",
     "orario": " 24h",
@@ -8503,6 +8927,7 @@
     }
   },
   {
+    "id": "PmX9K1a",
     "nome": "Lloyds Farmacia Repubblica",
     "indirizzo": " Via Cleto Tomba 29, 40127 Bologna (BO)",
     "orario": " lun-sab 8:30-19:30",
@@ -8523,6 +8948,7 @@
     }
   },
   {
+    "id": "NsWbKZV",
     "nome": "Lloyds Farmacia San Donato",
     "indirizzo": " Via S. Donato 99, 40127 Bologna (BO)",
     "orario": " lun-dom 08:00-24:00",
@@ -8543,6 +8969,7 @@
     }
   },
   {
+    "id": "pkJLfgx",
     "nome": "Lloyds Farmacia Via Padova/Toselli",
     "indirizzo": " Via Padova, Via Pietro Toselli, 2, 20127 Milano (MI)",
     "orario": " lun-sab 08:30-13:00 15:30-20:00 dom 09:00-13:00",
@@ -8563,6 +8990,7 @@
     }
   },
   {
+    "id": "Sp8ui2t",
     "nome": "Parafarmacia di Via Grimaldi",
     "indirizzo": " Via Francesco Grimaldi 36, 00146 Roma (RM)",
     "orario": " lun-sab 08:00-20:00 dom Chiuso",
@@ -8583,6 +9011,7 @@
     }
   },
   {
+    "id": "QzPasVE",
     "nome": "Parafarmacia Marina Centro",
     "indirizzo": " Viale Amerigo Vespucci 69b, 47921 Rimini (RN)",
     "orario": " mar-sab 09:00–13:00 15:30–19:00 dom-lun Chiuso",
@@ -8603,6 +9032,7 @@
     }
   },
   {
+    "id": "ZjXT9AF",
     "nome": "Parafarmacia Tenti Marebello",
     "indirizzo": " Viale Regina Margherita, 101, 47924 Rimini RN",
     "orario": " lun-dom 08:30–13:00, \n                                                    15:00–23:00\n",
@@ -8623,6 +9053,7 @@
     }
   },
   {
+    "id": "mi6QEdQ",
     "nome": "Quinta Farmacia S.r.l.",
     "indirizzo": " Largo Vespri Siciliani 2, 97016 Pozzallo",
     "orario": " lun-sab 08:30-13:00 16:00-20:00 dom Chiuso",
@@ -8643,6 +9074,7 @@
     }
   },
   {
+    "id": "TlEdWiz",
     "nome": "Arcispedale Sant'Anna",
     "indirizzo": " Via Aldo Moro 8, 44124 Ferrara (FE)",
     "orario": " 24h",
@@ -8663,6 +9095,7 @@
     }
   },
   {
+    "id": "0FZuu7J",
     "nome": "Azienda ospedaliera di Padova",
     "indirizzo": " via Nicolò Giustiniani 2",
     "orario": " ",
@@ -8683,6 +9116,7 @@
     }
   },
   {
+    "id": "Lqp5AmT",
     "nome": "Azienda Ospedaliera Rummo",
     "indirizzo": " Via Pacevecchia 53, 82100 Benevento (BN)",
     "orario": " 24h",
@@ -8703,6 +9137,7 @@
     }
   },
   {
+    "id": "UU6xOhn",
     "nome": "Azienda Ospedaliera Universitaria Policlinico Paolo Giaccone",
     "indirizzo": " Via del Vespro 129, 90127 Palermo (PA)",
     "orario": " 24h",
@@ -8722,7 +9157,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"dokVHDf",
     "indirizzo": "  Via di Santa Maria a Cintoia 9/A, 50142 Firenze (FI) ",
     "orario": " lun-sab 20:00-08:00 dom 10:00-08:00",
     "telefono": " 055700536",
@@ -8742,7 +9177,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"zM138FN",
     "indirizzo": " Via don Bosco 7, 57014 Collesalvetti (LI)",
     "orario": " lun-gio 7:30-12:30 ven 10:30-12:30 ",
     "telefono": " 0586223955",
@@ -8763,6 +9198,7 @@
     }
   },
   {
+    "id": "bCq3OTq",
     "nome": "Casa di Cura Villa Elena",
     "indirizzo": " Via Dante Alighieri 133, Cagliari",
     "orario": " da lunedì a domenica 13-14 / 16-18 /19.45-20.45",
@@ -8783,6 +9219,7 @@
     }
   },
   {
+    "id": "2imCxxm",
     "nome": "Centro di Pianificazione Familiare",
     "indirizzo": " Viale Aldo Moro 32, 70019 Triggiano (BA)",
     "orario": " 24h",
@@ -8803,6 +9240,7 @@
     }
   },
   {
+    "id": "n8lgbW0",
     "nome": "Centro Medico Polispecialistico Giovanni XXIII",
     "indirizzo": " Via Mazzini 2, 24021 Albino (BG)",
     "orario": " lun-ven 9:00-12:00 15:00-19:00 Sab 9:00-12:00",
@@ -8822,7 +9260,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"FTEayiK",
     "indirizzo": " Via dei Sabbioni 24, 25050 Ome (BS)",
     "orario": " 24h",
     "telefono": " 0306859111 ",
@@ -8843,6 +9281,7 @@
     }
   },
   {
+    "id": "uQc8pUW",
     "nome": "Clinica Sant'Anna",
     "indirizzo": " Via Roma, 118, 81100 Caserta (CE)",
     "orario": " lun-sab 8:00-20:00",
@@ -8863,6 +9302,7 @@
     }
   },
   {
+    "id": "HmX8inT",
     "nome": "Complesso ospedaliero di Noventa Vicentina",
     "indirizzo": " via Capo di Sopra 1, 36025 Noventa Vicentina (VI)",
     "orario": " 24h",
@@ -8883,6 +9323,7 @@
     }
   },
   {
+    "id": "5Qx501m",
     "nome": "Guardia Medica - Ospedale Nuovo Regina Margherita",
     "indirizzo": " Via Morosini 30, 00153 Roma (RM)",
     "orario": " lun-ven-dom 20:00-8:00 sab 10:00-20:00 dom 08:00-20:00",
@@ -8903,6 +9344,7 @@
     }
   },
   {
+    "id": "imO4L32",
     "nome": "Guardia Medica - Pubblica Assistenza Litorale Pisano",
     "indirizzo": " Via della Repubblica pisana 68, 56128 Marina di Pisa (PI)",
     "orario": "  lun-sab 20:00-08:00 dom 10:00-8:00",
@@ -8923,6 +9365,7 @@
     }
   },
   {
+    "id": "64GrPVe",
     "nome": "Guardia Medica - Servizio Di Continuità Assistenziale Bojano",
     "indirizzo": " Via Colle Bellavista, 86021 Bojano (CB)",
     "orario": " lun-dom 20-8",
@@ -8943,6 +9386,7 @@
     }
   },
   {
+    "id": "bhz0Exg",
     "nome": "Guardia Medica ASST Bergamo Est",
     "indirizzo": " Via Somvico 2, 24023 Clusone",
     "orario": " 20:00-8:00 (?)",
@@ -8963,6 +9407,7 @@
     }
   },
   {
+    "id": "ZZ2uRKH",
     "nome": "Guardia Medica di Cesena",
     "indirizzo": " Viale Ghirotti 286, 47521 Cesena (FC)",
     "orario": " Feriale 20:00-8:00 Festivo 10:00(giorno precedente)-8:00 ",
@@ -8983,6 +9428,7 @@
     }
   },
   {
+    "id": "110ZjUb",
     "nome": "Guardia Medica di Pedara",
     "indirizzo": " Via Etnea 56, 95030 Pedara (CT)",
     "orario": " lun 10:00-20:00 mar-ven 08:00-20:00 sab 10:00-24:00 dom 00:00-24:00 ",
@@ -9003,6 +9449,7 @@
     }
   },
   {
+    "id": "P90Hi4h",
     "nome": "Guardia Medica di Perugia",
     "indirizzo": " Via della Pallotta 42, 06126 Perugia (PG)",
     "orario": " 08:00-20:00 tutti i giorni festivi e pre-festivi 20:00-08:00 tutte le notti",
@@ -9023,6 +9470,7 @@
     }
   },
   {
+    "id": "si5uiFc",
     "nome": "Guardia Medica di Salò",
     "indirizzo": " Via Giovanni Fantoni 89, 25087 Salò (BS) ",
     "orario": " lun-dom 08:00-20:00 ",
@@ -9043,6 +9491,7 @@
     }
   },
   {
+    "id": "Fnormzd",
     "nome": "Guardia Medica di San Gregorio di Catania",
     "indirizzo": " Via Zizzo 5, 95027 San Gregorio di Catania (CT)",
     "orario": " lun-ven 20:00-08:00 sab 10:00-24:00 dom 00:00-24:00",
@@ -9062,7 +9511,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"qQq2BcH",
     "indirizzo": " Via Boldrini 1, Thiene VI",
     "orario": " lun - ven 20:00-8:00\n                                     sab e prefestivi 10:00-8:00",
     "telefono": "  800 239 388",
@@ -9083,6 +9532,7 @@
     }
   },
   {
+    "id": "PPqbUcp",
     "nome": "Guardia Medica di Treviglio",
     "indirizzo": " Viale Piave 43, 24047 Treviglio (BG)",
     "orario": " lun 00:00-08:00 20:00-08:00 mar-ven 20:00-08:00 sab 08:00-23:59 dom 24h ",
@@ -9103,6 +9553,7 @@
     }
   },
   {
+    "id": "HQtHyIC",
     "nome": "Guardia Medica Pistoia",
     "indirizzo": " Viale Adua 70, 51100 Pistoia (PT)",
     "orario": " lun-ven 20:00-08:00 sab-dom 24h",
@@ -9122,7 +9573,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"n05xHao",
     "indirizzo": " Viale Amendola, 66, , 89133 Reggio Calabria RC",
     "orario": "\ndomenica 20–00\nlunedì 20–08\nmartedì 20–08\nmercoledì 20–08\ngiovedì 20–08\nvenerdì 20–08\nsabato 20–08",
     "telefono": " 0965.347052 ",
@@ -9143,6 +9594,7 @@
     }
   },
   {
+    "id": "cxCnbq0",
     "nome": "Guardia medica Reggio sud",
     "indirizzo": "Via delle Vittorie 39, 89133 Reggio Calabria RC",
     "orario": "\ndomenica 20–00\nlunedì 20–08\nmartedì 20–08\nmercoledì 20–08\ngiovedì 20–08\nvenerdì 20–08\nsabato 20–08",
@@ -9163,6 +9615,7 @@
     }
   },
   {
+    "id": "7ezZMFF",
     "nome": "Ospedale \"Gaetano Bernabeo\"",
     "indirizzo": " Contrada Santa Liberata, 66026 Ortona (CH)",
     "orario": " 24h",
@@ -9183,6 +9636,7 @@
     }
   },
   {
+    "id": "SUBurzA",
     "nome": "Ospedale \"Guglielmo da Saliceto\"",
     "indirizzo": " Via Giuseppe Taverna 49, 29121 Piacenza (PC)",
     "orario": " 24h",
@@ -9203,6 +9657,7 @@
     }
   },
   {
+    "id": "OtfuSCV",
     "nome": "Ospedale Borgo Roma",
     "indirizzo": " Piazzale L.A. Scuro, 10, 37134 Verona VR",
     "orario": " 24h",
@@ -9223,6 +9678,7 @@
     }
   },
   {
+    "id": "gf9XUH6",
     "nome": "Ospedale Buccheri La Ferla Fatebenefratelli",
     "indirizzo": " Via Messina Marine 197, 90123 Palermo (PA)",
     "orario": " 24h",
@@ -9243,6 +9699,7 @@
     }
   },
   {
+    "id": "pbhTkbH",
     "nome": "Ospedale Buon Consiglio Fatebenefratelli",
     "indirizzo": " Via Alessandro Manzoni 220, 80123 Napoli (NA)",
     "orario": " 24h",
@@ -9263,6 +9720,7 @@
     }
   },
   {
+    "id": "IPNdMlc",
     "nome": "Ospedale Civico di Palermo",
     "indirizzo": " Via Carmelo Lazzaro, 90127 Palermo (PA)",
     "orario": " 24h",
@@ -9283,6 +9741,7 @@
     }
   },
   {
+    "id": "D4qt4l1",
     "nome": "Ospedale Civile di Brescia",
     "indirizzo": " Piazzale Spedali Civili, 1, 25123 Brescia (BS)",
     "orario": " 24h",
@@ -9303,6 +9762,7 @@
     }
   },
   {
+    "id": "gbBFU9x",
     "nome": "Ospedale Civile di Montebelluna",
     "indirizzo": " Via Palmiro Togliatti, 1, 31044 Montebelluna TV",
     "orario": " 24h",
@@ -9323,6 +9783,7 @@
     }
   },
   {
+    "id": "QwBbaAB",
     "nome": "Ospedale Civile di Vigevano",
     "indirizzo": " Corso Milano 19, 27029 Vigevano (PV)",
     "orario": " 24h",
@@ -9343,6 +9804,7 @@
     }
   },
   {
+    "id": "zKqlJ08",
     "nome": "Ospedale Civile Guido Compagna",
     "indirizzo": " Viale Rimembranze 87064 Corigliano Calabro (CS)",
     "orario": " 24h",
@@ -9363,6 +9825,7 @@
     }
   },
   {
+    "id": "mIo3RYz",
     "nome": "Ospedale Civile Nicola Giannettasio",
     "indirizzo": " Via Ippocrate 87067 Rossano Stazione, Rossano (CS)",
     "orario": " 24h",
@@ -9383,6 +9846,7 @@
     }
   },
   {
+    "id": "BCChRN1",
     "nome": "Ospedale Civile SS. Annunziata",
     "indirizzo": " Via Felice Migliori 1, 87100 Cosenza (CS)",
     "orario": " 24h",
@@ -9403,6 +9867,7 @@
     }
   },
   {
+    "id": "dN7xN2j",
     "nome": "Ospedale del Cuore \"Gaetano Pasquinucci\"",
     "description": "Territorio ex Azienda Usl 1 di Massa e Carrara",
     "indirizzo": " Via Aurelia Sud, 54100 Massa MS",
@@ -9423,6 +9888,7 @@
     }
   },
   {
+    "id": "anlHXxT",
     "nome": "Ospedale di Borgo Trento",
     "indirizzo": " Piazzale Stefani 1, 37126 Verona (VR)",
     "orario": " 24h",
@@ -9442,7 +9908,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"7mqR0yO",
     "indirizzo": " Strada Statale 106 Jonica, 87062 Cariati (CS)",
     "orario": " 24h",
     "telefono": " 098339411",
@@ -9463,6 +9929,7 @@
     }
   },
   {
+    "id": "3k9uar0",
     "nome": "Ospedale Di Cecina",
     "indirizzo": " Via Montanara, 57023 Cecina LI",
     "telefono": " 0586 614111",
@@ -9482,6 +9949,7 @@
     }
   },
   {
+    "id": "XSYiCnX",
     "nome": "Ospedale di Circolo di Busto Arsizio",
     "indirizzo": " via Arnaldo da Brescia 1,  21052 Busto Arsizio (VA)",
     "orario": " 24h",
@@ -9502,6 +9970,7 @@
     }
   },
   {
+    "id": "OUdZKx4",
     "nome": "Ospedale di Ciriè",
     "indirizzo": " Via Battitore 7/9, 10073 Ciriè (TO)",
     "orario": " 24h",
@@ -9521,7 +9990,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"Cdn3lvu",
     "indirizzo": " Via Vittorio Emanuele II 22, 35026 Conselve (PD)",
     "orario": " 24h",
     "telefono": " 0499598111",
@@ -9542,6 +10011,7 @@
     }
   },
   {
+    "id": "LiDOmDd",
     "nome": "Ospedale di Gavardo",
     "indirizzo": " Via Gosa Andrea 74, 25085 Gavardo (BS)",
     "orario": " 24h",
@@ -9562,6 +10032,7 @@
     }
   },
   {
+    "id": "BK7NM1l",
     "nome": "Ospedale di Iseo",
     "indirizzo": " Via Giardini Garibaldi 7, 25049 Iseo (BS)",
     "orario": " 24h",
@@ -9582,6 +10053,7 @@
     }
   },
   {
+    "id": "74ZrhmY",
     "nome": "Ospedale di Mirano - ULSS3 Serenissima ",
     "indirizzo": " Via Don Giacobbe Sartor 4, 30035 Mirano (VE)",
     "orario": " 24h",
@@ -9602,6 +10074,7 @@
     }
   },
   {
+    "id": "TZcyuwY",
     "nome": "Ospedale di Piombino",
     "indirizzo": " Via Carlo Forlanini, 24, 57025 Piombino LI",
     "telefono": " 0565 67111",
@@ -9621,6 +10094,7 @@
     }
   },
   {
+    "id": "yxGjiyR",
     "nome": "Ospedale di Valdagno",
     "indirizzo": " Via Galileo Galilei 1, 36078 Valdagno (VI)",
     "orario": " 24h",
@@ -9641,6 +10115,7 @@
     }
   },
   {
+    "id": "HWjB4DC",
     "nome": "Ospedale Evangelico Internazionale",
     "indirizzo": " Corso Solferino 1, 16122 Genova (GE)",
     "orario": " 24h",
@@ -9681,6 +10156,7 @@
     }
   },
   {
+    "id": "DqWiIoC",
     "nome": "Ospedale G. Fornaroli",
     "indirizzo": " Via Donatori Sangue 50, 20013 Magenta (MI)",
     "orario": " 24h",
@@ -9700,7 +10176,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"DZb5N9L",
     "indirizzo": " Strada Prov. 127 Acquaviva – Santeramo Km. 4,100, 70021 Acquaviva delle Fonti BA",
     "orario": " 24h",
     "telefono": " 080 305 4111",
@@ -9721,6 +10197,7 @@
     }
   },
   {
+    "id": "20GHCAf",
     "nome": "Ospedale Ivrea",
     "indirizzo": " P.zza Credenza, 2, 10015 Ivrea TO",
     "orario": " 24 h",
@@ -9741,6 +10218,7 @@
     }
   },
   {
+    "id": "vK5p3LU",
     "nome": "Ospedale Lavagna",
     "indirizzo": " Via Don Bobbio 25, Lavagna (GE)",
     "orario": " 24h",
@@ -9760,7 +10238,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"554LtFd",
     "indirizzo": "  Strada Abbeveratoia, 2, 43100 Parma PR",
     "orario": " 24h",
     "telefono": "  0521 703111",
@@ -9781,6 +10259,7 @@
     }
   },
   {
+    "id": "IbCJMJ6",
     "nome": "Ospedale Maggiore",
     "indirizzo": " Via Resistenza Partigiana, 97015 Modica RG",
     "orario": " Sempre aperto",
@@ -9801,6 +10280,7 @@
     }
   },
   {
+    "id": "ZFirVRv",
     "nome": "Ospedale Maggiore Carlo Alberto Pizzardi",
     "indirizzo": " Largo Nigrisoli 2, 40133 Bologna",
     "orario": " 24h",
@@ -9821,6 +10301,7 @@
     }
   },
   {
+    "id": "SBxe9KB",
     "nome": "Ospedale Maria Vittoria",
     "indirizzo": " Via Luigi Cibrario 72, 10144 Torino (TO)",
     "orario": " 24h",
@@ -9841,6 +10322,7 @@
     }
   },
   {
+    "id": "nIghb2z",
     "nome": "Ospedale materno infantile Burlo Garofolo ",
     "indirizzo": " Via dell'Istria 65, 34137 Trieste (TS)",
     "orario": " 24h",
@@ -9861,6 +10343,7 @@
     }
   },
   {
+    "id": "2tmDqd7",
     "nome": "Ospedale Mauriziano Umberto I di Torino",
     "indirizzo": " Via Ferdinando Magellano 1, 10128 Torino (TO)",
     "orario": " 24h",
@@ -9881,6 +10364,7 @@
     }
   },
   {
+    "id": "OPezE5U",
     "nome": "Ospedale Maurizio Bufalini",
     "indirizzo": " Viale Giovanni Ghirotti 286, 47521 Cesena (FC)",
     "orario": " 24h",
@@ -9901,6 +10385,7 @@
     }
   },
   {
+    "id": "WLPkhLj",
     "nome": "Ospedale Media Valle del Tevere",
     "indirizzo": " Via del Buda, 06059 Pantalla, Todi (PG)",
     "orario": " 24h",
@@ -9920,7 +10405,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"LKrBG91",
     "indirizzo": " Via San Rocco 8, 35028 Piove di Sacco (PD)",
     "orario": " 24h",
     "telefono": " 0499718111",
@@ -9941,6 +10426,7 @@
     }
   },
   {
+    "id": "s8IsfFU",
     "nome": "Ospedale Ramazzini di Carpi",
     "indirizzo": " Via Guido Molinari 2, 41012 Carpi (MO)",
     "orario": " 24h",
@@ -9960,7 +10446,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"JA90w6p",
     "indirizzo": " Viale Principe di Napoli 14, 82100 Benevento (BN)",
     "orario": " 24h",
     "telefono": "  0824771111",
@@ -9981,6 +10467,7 @@
     }
   },
   {
+    "id": "jKtJZ4i",
     "nome": "Ospedale San Bortolo di Vicenza",
     "indirizzo": " Viale Ferdinando Rodolfi 37, 36100 Vicenza (VI)",
     "orario": " 24h",
@@ -10001,6 +10488,7 @@
     }
   },
   {
+    "id": "0eQUvZ9",
     "nome": "Ospedale San Camillo Forlanini",
     "indirizzo": " Circonvallazione Gianicolense 87, 00152 Roma (RM)",
     "orario": " 08:00-08:30 (apertura sportello ginecologico)",
@@ -10020,7 +10508,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"MOh8qBH",
     "indirizzo": " Via dei Frati, 1, 55051 Barga (LU)",
     "telefono": " 05837290",
     "commenti": " Nello stabilimento ospedaliero di Lucca - Barga risultano **15 ginecologi obiettori su 19 ginecologi in servizio**.",
@@ -10040,6 +10528,7 @@
     }
   },
   {
+    "id": "5wci2bX",
     "nome": "Ospedale San Giacomo ",
     "indirizzo": " Largo S. Veneziani, 21, 70043 Monopoli BA",
     "orario": " 24h",
@@ -10060,6 +10549,7 @@
     }
   },
   {
+    "id": "Atklkzh",
     "nome": "Ospedale San GIovanni Battista",
     "indirizzo": " Via Massimo Arcamone, 06034 Foligno (PG)",
     "orario": " 24h",
@@ -10079,7 +10569,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"gNoiQ7c",
     "indirizzo": " Largo Mandic 1, 23807 Merate (LC)",
     "orario": " 24h",
     "telefono": " 039.5916351",
@@ -10100,6 +10590,7 @@
     }
   },
   {
+    "id": "NICFDqn",
     "nome": "Ospedale San Luca di Lucca",
     "indirizzo": " Via Guglielmo Lippi Francesconi 556, 55100 Lucca (LU)",
     "orario": " 24h",
@@ -10120,6 +10611,7 @@
     }
   },
   {
+    "id": "LPrLcAO",
     "nome": "Ospedale San Luca di Trecenta",
     "indirizzo": " Viale Ugo Grisetti 265, 45027 Trecenta (RO)",
     "orario": " lun-ven 8:30-14:00 mar-gio 8:30-14:00 14:30-17:30",
@@ -10140,6 +10632,7 @@
     }
   },
   {
+    "id": "VUvn0on",
     "nome": "Ospedale San Paolo",
     "indirizzo": " Via Capo Scardicchio, 70123 Bari (BA)",
     "orario": " 24h",
@@ -10160,6 +10653,7 @@
     }
   },
   {
+    "id": "Y5zjQy0",
     "nome": "Ospedale San Paolo",
     "indirizzo": " Via Antonio di Rudinì 8, 20142 Milano (MI)",
     "orario": " 24h",
@@ -10180,6 +10674,7 @@
     }
   },
   {
+    "id": "2ZVfccW",
     "nome": "Ospedale San Salvatore",
     "indirizzo": " Via Lorenzo Natali 1, 67100 Coppito, L'Aquila (AQ)",
     "orario": " 24h",
@@ -10200,6 +10695,7 @@
     }
   },
   {
+    "id": "WzxRCJE",
     "nome": "Ospedale San Timoteo",
     "indirizzo": " Viale S. Francesco, 86039 Termoli CB",
     "orario": " 24 h",
@@ -10219,6 +10715,7 @@
     }
   },
   {
+    "id": "wdG4XsD",
     "nome": "Ospedale Sant'Anna",
     "indirizzo": " Via Ventimiglia 3, 10126 Torino (TO)",
     "orario": " 24h",
@@ -10238,7 +10735,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"yZY5cc3",
     "indirizzo": " Via Giobatta Morgagni, 20, 33028 Tolmezzo (UD)",
     "orario": " 24h ",
     "telefono": " 04334881",
@@ -10259,6 +10756,7 @@
     }
   },
   {
+    "id": "BSjvkRc",
     "nome": "Ospedale Sant'Eugenio",
     "indirizzo": " Piazzale dell'Umanesimo 10, 00144 Roma (RM)",
     "orario": " 24h",
@@ -10279,6 +10777,7 @@
     }
   },
   {
+    "id": "RERenG5",
     "nome": "Ospedale Santa Barbara",
     "indirizzo": " Via S. Leonardo 1, 09016 Iglesias (SU)",
     "orario": " 24h",
@@ -10299,6 +10798,7 @@
     }
   },
   {
+    "id": "jKtzdgJ",
     "nome": "Ospedale Santa Colomba",
     "indirizzo": " Corso Giulio Perticari, 47039 Savignano Sul Rubicone FC",
     "orario": " 24 h",
@@ -10319,6 +10819,7 @@
     }
   },
   {
+    "id": "BUyf3Z3",
     "nome": "Ospedale Santa Maria Annunziata",
     "indirizzo": " Via Antella 58, 50012 Ponte a Niccheri, Bagno a Ripoli (FI)",
     "orario": " 24h",
@@ -10339,6 +10840,7 @@
     }
   },
   {
+    "id": "i51VF1t",
     "nome": "Ospedale Santa Maria Degli Angeli",
     "indirizzo": " Via Cappuccini, 7, 70017 Putignano BA",
     "orario": "24h",
@@ -10359,6 +10861,7 @@
     }
   },
   {
+    "id": "jRvFR8o",
     "nome": "Ospedale Santa Maria della Misericordia",
     "indirizzo": " Piazzale Santa Maria della Misericordia 15, 33100 Udine (UD)",
     "orario": " 24h",
@@ -10379,6 +10882,7 @@
     }
   },
   {
+    "id": "rC2EKUA",
     "nome": "Ospedale Santa Maria di Loreto Mare",
     "indirizzo": " Via Amerigo Vespucci 15, 80142 Napoli (NA)",
     "orario": " 24h",
@@ -10399,6 +10903,7 @@
     }
   },
   {
+    "id": "E0J5weF",
     "nome": "Ospedale Santi Cosma e Damiano di Pescia",
     "indirizzo": " Via Cesare Battisti 2, 51017 Pescia (PT)",
     "orario": " 24h",
@@ -10419,6 +10924,7 @@
     }
   },
   {
+    "id": "pIvpiyH",
     "nome": "Ospedale Santi Nicola e Filippo di Avezzano",
     "indirizzo": " Via G. di Vittorio, 67051 Avezzano (AQ)",
     "orario": " 24h",
@@ -10439,6 +10945,7 @@
     }
   },
   {
+    "id": "zCYkl4c",
     "nome": "Ospedale Santissima Trinità",
     "indirizzo": " Via Is Mirrionis 92, 09121 Cagliari (CA)",
     "orario": " 24h",
@@ -10459,6 +10966,7 @@
     }
   },
   {
+    "id": "OrBDJHp",
     "nome": "Ospedale Santo Stefano di Prato",
     "indirizzo": " Via Suor Niccolina Infermiera 20/22, 59100 Prato (PO)",
     "orario": " 24h",
@@ -10479,6 +10987,7 @@
     }
   },
   {
+    "id": "Lj8sfBK",
     "nome": "Ospedale SS. Antonio e Biagio e Cesare Arrigo",
     "indirizzo": " Via Venezia, 16, 15121 Alessandria AL",
     "orario": " 24h",
@@ -10499,6 +11008,7 @@
     }
   },
   {
+    "id": "c606Zl4",
     "nome": "Ospedale SS. Giovanni e Paolo",
     "indirizzo": " Castello 6777, 30122 Venezia",
     "orario": " 24h",
@@ -10519,6 +11029,7 @@
     }
   },
   {
+    "id": "JRPvP0J",
     "nome": "Ospedale vecchio di Legnano",
     "indirizzo": " Via Cesare Candiani 2, 20025 Legnano (MI)",
     "orario": " lun-ven 8:00-17:00",
@@ -10539,6 +11050,7 @@
     }
   },
   {
+    "id": "0XD3xQ4",
     "nome": "Ospedale Versilia",
     "description": " Ospedale Versilia, Azienda USL 12",
     "indirizzo": " Via Aurelia, 335, 55041 Lido di Camaiore, Camaiore (LU)",
@@ -10558,7 +11070,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"MVbqKXq",
     "indirizzo": " Località Nottola, 53045 Ospedali Riuniti Valdichiana Sudest SI",
     "orario": " 24h",
     "telefono": " 0578 713111",
@@ -10578,7 +11090,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"3yjGShU",
     "indirizzo": " Via Sarno Striano 73, 84087 Sarno (SA)",
     "orario": " 24h",
     "telefono": " 0819684955",
@@ -10599,6 +11111,7 @@
     }
   },
   {
+    "id": "5nYkc5d",
     "nome": "Poliambulatorio di Via Biseo",
     "indirizzo": " Via Camillo Biseo 17, 25128 Brescia (BS)",
     "orario": " lun 10:40-13:00 14:00-16:00 mar-mer-ven 8:00-13:00 gio 8:00-14:00 ",
@@ -10619,6 +11132,7 @@
     }
   },
   {
+    "id": "ZSKBYqQ",
     "nome": "Poliambulatorio Viale della Vittoria",
     "indirizzo": " Viale Della Vittoria 9, 60123 Ancona (AN)",
     "orario": " lun-ven 08:00-12:30 mer 08:00-12:30 15:00-17:00 ",
@@ -10639,6 +11153,7 @@
     }
   },
   {
+    "id": "xylVFdW",
     "nome": "Policlinico \"SS. Annunziata\"",
     "indirizzo": " Via dei Vestini, Località Colle dell'Ara, 66100 Chieti",
     "orario": " 24h",
@@ -10659,6 +11174,7 @@
     }
   },
   {
+    "id": "lQHcNfx",
     "nome": "Polo Ospedaliero Santa Chiara",
     "indirizzo": " Via Paolo Savi, 10, 56126 Pisa PI, Italia",
     "orario": " 24 h",
@@ -10679,6 +11195,7 @@
     }
   },
   {
+    "id": "SpB8xYy",
     "nome": "Presidio ospedaliero di Brindisi - A. Perrino",
     "indirizzo": " Strada Statale 7 per Mesagne, 72100 Brindisi (BR)",
     "orario": " 24h",
@@ -10698,7 +11215,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"6yLU2qf",
     "indirizzo": " Viale Vittorio Alfieri, 48, 57124 Livorno LI",
     "telefono": " 0586 223111",
     "commenti": " Nello stabilimento ospedaliero di Livorno risultano **6 ginecologi obiettori su 12 ginecologi in servizio**.",
@@ -10718,6 +11235,7 @@
     }
   },
   {
+    "id": "CRZSCKU",
     "nome": "Presidio Ospedaliero di Trebisacce",
     "indirizzo": " Via della Libertà 468, 87075 Trebisacce (CS)",
     "orario": " 24h",
@@ -10737,7 +11255,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"vHX6nmb",
     "indirizzo": " Via Carlo Forlanini 71, 31029 Vittorio Veneto (TV)",
     "orario": " 24h",
     "telefono": "  0438665111",
@@ -10758,6 +11276,7 @@
     }
   },
   {
+    "id": "v3Oonpv",
     "nome": "Presidio Ospedaliero Portoferraio",
     "indirizzo": " Località San Rocco, 57037 Portoferraio LI",
     "telefono": " 0565 926111",
@@ -10777,6 +11296,7 @@
     }
   },
   {
+    "id": "ZIcOKAA",
     "nome": "Primo Policlinico di Napoli",
     "indirizzo": " Vico Luigi De Crecchio, 80138 Napoli (NA)",
     "orario": " 24h",
@@ -10797,6 +11317,7 @@
     }
   },
   {
+    "id": "bPVZSo6",
     "nome": "Pronto Soccorso dell'Ospedale di Velletri",
     "indirizzo": " Via Orti Ginnetti 7, 00049 Velletri (RM)",
     "orario": " 24h",
@@ -10817,6 +11338,7 @@
     }
   },
   {
+    "id": "fVXuTGR",
     "nome": "Pronto Soccorso dell'Ospedale Maggiore",
     "indirizzo": " Via Carlo e Giani Stuparich, 34129 Trieste ",
     "orario": " 24h",
@@ -10837,6 +11359,7 @@
     }
   },
   {
+    "id": "6kInLSJ",
     "nome": "Pronto Soccorso di Ostetricia e Ginecologia - Ospedale Maggiore",
     "indirizzo": " Via dell'Ospedale 2, 40133 Bologna (BO)",
     "orario": " 24h",
@@ -10857,6 +11380,7 @@
     }
   },
   {
+    "id": "rBlzuSL",
     "nome": "Pronto Soccorso Ostetrico/Ginecologico Ospedale Sant'Orsola",
     "indirizzo": " Via Giuseppe Massarenti 13, 40138 Bologna (BO)",
     "orario": " 24h",
@@ -10877,6 +11401,7 @@
     }
   },
   {
+    "id": "h1FAwcW",
     "nome": "ULSS 3 Serenissima - Presidio di Dolo",
     "indirizzo": " Via XXIX Aprile 2, 30031 Dolo (VE)",
     "orario": " 24h",
@@ -10897,6 +11422,7 @@
     }
   },
   {
+    "id": "sF5JbvP",
     "nome": "ULSS 7 Pedemontana - Ospedale Alto Vicentino",
     "indirizzo": " Via Garziere, 42, 36014 Santorso VI",
     "orario": " 24 h",
@@ -10917,6 +11443,7 @@
     }
   },
   {
+    "id": "PPWFqeV",
     "nome": "Limonaia - Zona Rosa",
     "indirizzo": "  Vicolo Del Ruschi, 4, 56127 Pisa",
     "sito_web": " per ora pagina fb https://www.facebook.com/LimonaiaZonaRosa/",
@@ -10934,6 +11461,7 @@
     }
   },
   {
+    "id": "wcGs61m",
     "nome": "Ambulatorio Erika Santin",
     "indirizzo": " Via Luigi Pulci 11, 20126 Milano MI ",
     "orario": " ",
@@ -10953,7 +11481,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"1h33NlS",
     "indirizzo": " Piazzale Torino 7, 29121 Piacenza (PC)",
     "orario": " lun-ven 8:30-13:30 mer 8:30-17:00",
     "telefono": " 0523303815",
@@ -10973,7 +11501,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"T83yD9V",
     "indirizzo": " Piazza Paolo Borsellino 2, 91021 Campobello Di Mazara (TP) ",
     "orario": " ",
     "telefono": " 3312363313 - 3358419008",
@@ -10993,7 +11521,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"82ddNod",
     "indirizzo": " Via Romana angolo Via Dei Pini 1740/D, 55100 Lucca (LU)",
     "orario": " lun-sab su appuntamento",
     "telefono": " 3890948986",
@@ -11014,6 +11542,7 @@
     }
   },
   {
+    "id": "xxSVQGk",
     "nome": "Dott. Domenico Costa ",
     "indirizzo": " Viale della Vittoria 321, 92100 Agrigento (AG)",
     "orario": " lun ven 09:00-12:00\ngio 15:30-17:30",
@@ -11034,6 +11563,7 @@
     }
   },
   {
+    "id": "xZTRU2H",
     "nome": "Dott. Emidio Morini",
     "indirizzo": " Via Giuseppe Massarenti 254, 40138 Bologna (BO)",
     "orario": " ",
@@ -11053,7 +11583,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"2pXS3u1",
     "indirizzo": " Via San Carlo 18, 25087 Salò (BS)",
     "orario": " ",
     "telefono": " 3392965937",
@@ -11074,6 +11604,7 @@
     }
   },
   {
+    "id": "J6OyzQY",
     "nome": "Dott. Ignazio Lauro",
     "indirizzo": " Via Pompei, 92019 Sciacca (AG)",
     "orario": " venerdì",
@@ -11093,7 +11624,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"HXXlTWr",
     "indirizzo": " Via Dante Alighieri 19, 54100 Massa (MS) ",
     "orario": " lun 11:00-12:00, gio  16:30-17:30, ven 9:00-10:00",
     "telefono": " 058542739",
@@ -11113,7 +11644,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"fMdkGzq",
     "indirizzo": " Via Poggioletto 14A, 54100 Massa (MS)",
     "orario": " lun 9:00-10:30 mar 11:30-13:00 mer 15:00-16:00 gio 15:00-16:00 ven 10:30-12:00",
     "telefono": " 0585790203",
@@ -11134,6 +11665,7 @@
     }
   },
   {
+    "id": "ERrjlHi",
     "nome": "Dott.ssa Gabriella Marchitiello",
     "indirizzo": " Via delle Medaglie d'Oro 36, 56127 Pisa (PI)",
     "orario": " lun 15:30-19:00 mer-ven 9:30-12:30",
@@ -11154,6 +11686,7 @@
     }
   },
   {
+    "id": "ELDjUqH",
     "nome": "Dott.ssa Grazia Rinaldis",
     "indirizzo": " Via Baldassare Zamboni 55, 25126 Brescia (BS)",
     "orario": " ",
@@ -11173,7 +11706,27 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"efHHkuW",
+    "indirizzo": " Via Argine Reno 9, 44049 Vigarano Mainarda (FE) ",
+    "orario": "",
+    "telefono": "",
+    "sito_web": "",
+    "commenti": " Dopo aver discriminato una cura con cannabis terapeutica, ha iniziato una paternale infinita su quello e sull'aborto  ribadito più volte di essere molto religiosa e un'obiettrice di coscienza. ",
+    "forum": "",
+    "nome": "Dott.ssa Lorena Accorsi",
+    "posizione": {
+      "type": "Point",
+      "coordinate": [
+        11.494349241256716,
+        44.84046942854713
+      ]
+    },
+    "verificato": {
+      "nome": "Obiezione Respinta",
+      "link": "https://obiezionerespinta.info/"
+    }
+  },
+  { "id":"z27UBBJ",
     "indirizzo": " Via Argine Reno 9, 44049 Vigarano Mainarda (FE) ",
     "orario": "",
     "telefono": "",
@@ -11194,26 +11747,7 @@
     }
   },
   {
-    "indirizzo": " Via Argine Reno 9, 44049 Vigarano Mainarda (FE) ",
-    "orario": "",
-    "telefono": "",
-    "sito_web": "",
-    "commenti": " Dopo aver discriminato una cura con cannabis terapeutica, ha iniziato una paternale infinita su quello e sull'aborto  ribadito più volte di essere molto religiosa e un'obiettrice di coscienza. ",
-    "forum": "",
-    "nome": "Dott.ssa Lorena Accorsi",
-    "posizione": {
-      "type": "Point",
-      "coordinate": [
-        11.494349241256716,
-        44.84046942854713
-      ]
-    },
-    "verificato": {
-      "nome": "Obiezione Respinta",
-      "link": "https://obiezionerespinta.info/"
-    }
-  },
-  {
+    "id": "kWAeITB",
     "nome": "Dott.ssa Patrizia Franzolini",
     "indirizzo": " Via delle Forze Armate 13, 20147 Milano (MI)",
     "orario": " ",
@@ -11233,7 +11767,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"lgeMN1R",
     "indirizzo": " Via Cà Rotte 7, 36075 Montecchio Maggiore-Alte Ceccato (VI) ",
     "orario": "  ",
     "telefono": " 0444708354 ",
@@ -11254,6 +11788,7 @@
     }
   },
   {
+    "id": "rPkY3cV",
     "nome": "Dottor Paolo Genoni",
     "indirizzo": " Via cardinal Simone, 13, 21052 Busto Arsizio (Va) ",
     "orario": " lun 16:30-19:00 mar 09:30-13:00 mer 14:00-16:00 gio 16:30-19:00 ven 11:00-13:00 sab e dom Chiuso",
@@ -11273,7 +11808,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"7SXwQuf",
     "indirizzo": " Corso Umberto 1, 127",
     "orario": "",
     "telefono": "",
@@ -11293,7 +11828,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"0Vf5Gvv",
     "indirizzo": " viale Rodolfi 37, 36100, Vicenza",
     "Orario di visita": " Martedì dalle 9.00 alle 12.30 ",
     "telefono": " 0444 75-2661 Lunedì al Venerdì dalle 10.00 alle 12.30",
@@ -11314,6 +11849,7 @@
     }
   },
   {
+    "id": "pCrZOQ4",
     "nome": "Dr Rossi Adriano",
     "indirizzo": " Via Fratelli Cairoli, 18, 47039 Savignano Sul Rubicone (FC)",
     "orario": " lun, mer, ven 08:00–12:00\n                                     mar, gio 15:00–18:30",
@@ -11333,6 +11869,7 @@
     }
   },
   {
+    "id": "0eAdvdC",
     "nome": "Dr. Franco De Santis",
     "indirizzo": " Via Ugo Bassi 1, 40121 Bologna (BO) ",
     "orario": "",
@@ -11352,7 +11889,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"z7iVrHJ",
     "indirizzo": " via della Chiesa 2, Rivoli ",
     "orario": "\nmartedì\tChiuso\nmercoledì Chiuso\ngiovedì\t16–19:30\nvenerdì\t16–19:30\nsabato\tChiuso\ndomenica\tChiuso\nlunedì\t16–19:30",
     "telefono": "  011 953 3866",
@@ -11372,7 +11909,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"xnLoa7M",
     "indirizzo": " Corso re Umberto I, 127 ",
     "orario": "",
     "telefono": "",
@@ -11392,7 +11929,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"wREh1NK",
     "indirizzo": " Via Avellino 14, 81100 Caserta (CE) ",
     "orario": " ",
     "telefono": " 0823443718 ",
@@ -11412,7 +11949,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"OxAuLPH",
     "indirizzo": " Via Renato Serra 3, 20017 Rho (MI)",
     "orario": "",
     "telefono": " 029306071",
@@ -11432,7 +11969,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"Si3EOiW",
     "indirizzo": " Largo Giosuè Carducci, 68, 00012 Setteville RM",
     "orario": " \nLunedì 16:30 - 19:30\nMartedì 9:00 - 11:00\nMercoledì 16:30 - 19:30\nGiovedì 9:00 - 11:00\nVenerdì 16:30 - 19:30",
     "telefono": " 0774 390029",
@@ -11474,6 +12011,7 @@
     }
   },
   {
+    "id": "TSBq3ya",
     "nome": "Casa della Donna Pisa",
     "orario": " lun-ven 16.30 - 19",
     "telefono": " 050 550627",
@@ -11492,6 +12030,7 @@
     }
   },
   {
+    "id": "hPiEMMH",
     "nome": "Casa delle Donne Brescia",
     "indirizzo": " Via S. Faustino, 38, 25122 Brescia BS, Italia",
     "orario": " lun-ven 09:30–12:30, 15:00–18:00",
@@ -11511,7 +12050,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"Z5QZYkg",
     "indirizzo": " Via Sagarriga Visconti 199, 70123 Bari (BA)",
     "orario": " lun-ven 9:30-12:30 16:00-19:00 sab-dom Chiuso",
     "telefono": " 0805219441",
@@ -11531,7 +12070,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"eP1bFzQ",
     "indirizzo": " Via Cesarea 37/E/R, 16121 Genova (GE)",
     "orario": " ",
     "telefono": " 010566565",
@@ -11569,7 +12108,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"HF8TZeG",
     "indirizzo": " Via Tito Speri 7, 37121 Verona (VR)",
     "orario": " lun-mar-ven 8:00-19:00 mer 8:00-22:00 gio 8:00-20:00",
     "telefono": " 0458013043",
@@ -11589,7 +12128,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"1g03a8Y",
     "indirizzo": " Via Toscana, 30/1, 00187 Roma",
     "orario": " lun-ven 9.00 – 13.00, 14.00 – 19.00\nsab 9.00 – 13.00",
     "telefono": " 06 4282 5314",
@@ -11609,7 +12148,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"UXnmbx7",
     "indirizzo": " Via della Lungara 19, 00165 Roma (RM)",
     "orario": " lun 17:00-19:00 mar 15:00-19:00 gio 9:00-13:00 ven 15:00-19:00 (su appuntamento)",
     "telefono": " 3339856046",
@@ -11647,7 +12186,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"yl3LiCE",
     "indirizzo": " Piazza S. Bartolomeo, 5, 51100 Pistoia PT",
     "orario": " lun-ven 08:00–19:00\n                                     sab 08:00–14:00",
     "telefono": " 0573 50241",
@@ -11667,7 +12206,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"Kr5oGsy",
     "indirizzo": " Via della guastalla 8",
     "orario": "",
     "telefono": " 02861145 ; 02877829",
@@ -11687,7 +12226,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"3czpnAF",
     "indirizzo": " Via Gerolamo Fantoni 93, 25087 Salò (BS)",
     "orario": " lun-gio-ven 8:30-12:30 13:30-17:00 mar 8:30-17:00 mer 8:30-12:30 13:30-18:00",
     "telefono": " 0365296611",
@@ -11707,7 +12246,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"oWUjkHN",
     "indirizzo": " Via Capo Croce 3, 67100 L'Aquila (AQ)",
     "orario": " lun-gio 09:00-13:00 15:30-17:30 ven 09:00-13:00",
     "telefono": " 0862368498",
@@ -11727,7 +12266,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"jq197hJ",
     "indirizzo": " Via Antonio Pacinotti, 36, 15121 Alessandria AL",
     "orario": " lun-giov 8:30-13:00, 13:30-17:00\n                                     ven 8:30-14:00",
     "telefono": " 0131 307430",
@@ -11747,7 +12286,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"Af7kUQk",
     "indirizzo": " Largo delle Sette Chiese, 25, 00145 Roma",
     "orario": " \nlun, giov 08:30–13:30, 14:30–17\nmart, merc, ven 08:30–13:30",
     "telefono": " 06 5100 8896",
@@ -11767,7 +12306,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"QT2U7MM",
     "indirizzo": " via Fioretta 35, 67100 Paganica (AQ) ",
     "orario": " lun-ven 9:00-13:00 mar e gio 9:00-13:00 15:30-17:30",
     "telefono": " 086268682",
@@ -11787,7 +12326,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"wueGocW",
     "indirizzo": " Largo Volontari del Sangue, 61122 Pesaro (PU) ",
     "orario": "",
     "telefono": " 0721424604",
@@ -11808,6 +12347,7 @@
     }
   },
   {
+    "id": "s98QAHQ",
     "nome": "Consultorio di Ponte San Giovanni",
     "indirizzo": " Via Pietro Cestellini 65, 06135 Perugia (PG)",
     "orario": "  ven 09:00-12:00",
@@ -11828,6 +12368,7 @@
     }
   },
   {
+    "id": "XtqiY86",
     "nome": "Consultorio di Tonadico",
     "indirizzo": " Via Roma 19, 38054 Tonadico (TN)",
     "orario": " lun e ven 8:30-12:30 mar e gio 8:30-12:30 14:30-16:00 mer 14:30-16:00",
@@ -11848,6 +12389,7 @@
     }
   },
   {
+    "id": "gVTqrmz",
     "nome": "Consultorio Familiare - ASL TO2 Torino",
     "indirizzo": " Via Giacinto Pacchiotti 4, 10146 Torino (TO)",
     "orario": " lun-gio 09:00-13:00 13:30-16:00 ven 09:00-13:00 sab-dom Chiuso ",
@@ -11867,7 +12409,27 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"wMKR3eE",
+    "indirizzo": " Via Lionello Stock 2, 34135 Trieste (TS)",
+    "orario": " lun, mar, giov, ven 9:00 - 16:00\n                                      mer 12:00-16:00",
+    "telefono": " 040 3997831",
+    "sito_web": " www.ass1.sanita.fvg.it/it/chi_siamo/organigramma/struttura-dettaglio.html?path=/direzione_sanitaria/distretto_1/sc_tut_sal_bam_adol_donne_fam/ss_cons_fam/struttura.html",
+    "commenti": " La mia esperienza è di diversi anni fa; sono andata al consultorio di Roiano per la pillola del giorno dopo, ho parlato con la ginecologa che mi ha fatto la ricetta, sono andata in farmacia e fine della storia.",
+    "forum": "",
+    "nome": "Consultorio Familiare - Distretto 1 (Roiano)",
+    "posizione": {
+      "type": "Point",
+      "coordinate": [
+        13.770541548728945,
+        45.66470121604961
+      ]
+    },
+    "verificato": {
+      "nome": "Obiezione Respinta",
+      "link": "https://obiezionerespinta.info/"
+    }
+  },
+  { "id":"fV2Khm6",
     "indirizzo": " Via Lionello Stock 2, 34135 Trieste (TS)",
     "orario": " lun, mar, giov, ven 9:00 - 16:00\n                                      mer 12:00-16:00",
     "telefono": " 040 3997831",
@@ -11888,26 +12450,7 @@
     }
   },
   {
-    "indirizzo": " Via Lionello Stock 2, 34135 Trieste (TS)",
-    "orario": " lun, mar, giov, ven 9:00 - 16:00\n                                      mer 12:00-16:00",
-    "telefono": " 040 3997831",
-    "sito_web": " www.ass1.sanita.fvg.it/it/chi_siamo/organigramma/struttura-dettaglio.html?path=/direzione_sanitaria/distretto_1/sc_tut_sal_bam_adol_donne_fam/ss_cons_fam/struttura.html",
-    "commenti": " La mia esperienza è di diversi anni fa; sono andata al consultorio di Roiano per la pillola del giorno dopo, ho parlato con la ginecologa che mi ha fatto la ricetta, sono andata in farmacia e fine della storia.",
-    "forum": "",
-    "nome": "Consultorio Familiare - Distretto 1 (Roiano)",
-    "posizione": {
-      "type": "Point",
-      "coordinate": [
-        13.770541548728945,
-        45.66470121604961
-      ]
-    },
-    "verificato": {
-      "nome": "Obiezione Respinta",
-      "link": "https://obiezionerespinta.info/"
-    }
-  },
-  {
+    "id": "LBC08C7",
     "nome": "Consultorio Familiare - Distretto 2 - San Marco - Trieste",
     "indirizzo": " Via S. Marco 11, 34144 Trieste TS",
     "orario": " lun-ven 9:00-16:00 sab-dom Chiuso",
@@ -11928,6 +12471,7 @@
     }
   },
   {
+    "id": "Oj3IFJn",
     "nome": "Consultorio Familiare - Via Monginevro ",
     "indirizzo": "",
     "orario": " lun 9:00-12:30 13:30-17:00 mar 8:30-13:00 13:30-16:30 mer-ven 8:30-13:30  gio 8:30-13:30 14:00-16:00",
@@ -11947,7 +12491,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"iqcuIcP",
     "indirizzo": " Piazza Bottazzi 1, 73100 Lecce (LE) ",
     "orario": " mar 10:30-11:30 mer-ven 10:30-12:30 gio 17:00-18:00 ",
     "telefono": " 0832215898",
@@ -11967,7 +12511,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"qCLWmR1",
     "indirizzo": " Via Angelo Bertolini 37/F, 70125 Bari (BA)",
     "orario": " lun-ven 8:00-13:30",
     "telefono": " 0805427840",
@@ -11988,6 +12532,7 @@
     }
   },
   {
+    "id": "EMCsb1y",
     "nome": "Consultorio Familiare Ceregnano",
     "indirizzo": " Via Trieste 2, 45010 Ceregnano (RO)",
     "orario": " ",
@@ -12007,7 +12552,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"kBdJa7o",
     "indirizzo": " Via Ospedale 17, 48015 Cervia (RA)",
     "orario": " lun-ven 8:15-13:00 gio 13:30-18:00",
     "telefono": " 0544917634",
@@ -12027,7 +12572,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"K7ux0g1",
     "indirizzo": " Viale Stelvio 3, 21052 Busto Arsizio (VA)",
     "orario": "  lun-gio 08:00-12:30 13:30-17:00 ven 08:00-13:00",
     "telefono": " 0331684362 ",
@@ -12047,7 +12592,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"Ue9UZMf",
     "indirizzo": " Via Is Maglias 124, 09122 Cagliari (CA)",
     "orario": " lun-ven 8:30-13:00 lun-gio 15:00-17:00 ",
     "telefono": " 070286261",
@@ -12067,7 +12612,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"RTaym48",
     "indirizzo": " Via Sassari 15, 09124 Cagliari (CA)",
     "orario": " lun-ven 8:30-13:00 gio e mar 8:30-13:00 15:30-17:30 ",
     "telefono": " 0706094111",
@@ -12087,7 +12632,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"CU0DYAa",
     "indirizzo": " Via Amerigo Vespucci 7, 20090 Cesano Boscone (MI)",
     "orario": " dal lunedì al venerdì 9-12 / 14-16",
     "telefono": " 02 48617726",
@@ -12108,6 +12653,7 @@
     }
   },
   {
+    "id": "tWkF6pE",
     "nome": "Consultorio Familiare di Conselve",
     "indirizzo": " Via Vittorio Emanuele II 22, 35026 Conselve (PD)",
     "orario": " Ostetrica lun 12:30 - 13:30 Psicologo mar-mer 13:30 - 15:00",
@@ -12127,7 +12673,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"dPIcdjF",
     "indirizzo": " Via Felisati 109, Mestre Centro 30171 Venezia",
     "orario": " lun-mar-gio 14:30-17:30",
     "telefono": " 0412608202",
@@ -12147,7 +12693,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"UfQOr9p",
     "indirizzo": " Via Vittime di Bologna, 20, 10024 Moncalieri TO",
     "orario": " lux-ven 8:00-18:00",
     "telefono": " 011 69301",
@@ -12167,7 +12713,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"oJzoFYy",
     "indirizzo": " Via XXIII Settembre 1845 120, 47921 Rimini (RN)",
     "orario": "  lun-ven 9:00-13:00 mar-sab 9:00-12:00 mer 9:00-13:00 14:00-19:00 gio 9:00-13:00 15:00-18:00",
     "telefono": " 0541747604",
@@ -12188,6 +12734,7 @@
     }
   },
   {
+    "id": "Eupc1jP",
     "nome": "Consultorio Familiare di Trento",
     "indirizzo": " Via Malta 12, 38122 Trento (TN)",
     "orario": " lun-ven 08:00-18:00 sab 08:00-12:00",
@@ -12207,7 +12754,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"emvnEmj",
     "indirizzo": " Corso S.S. Felice e Fortunato 233, 36100 Vicenza (VI)",
     "orario": " lun-mer 8:30-16:30 mar-gio-ven 8:30-13:30",
     "telefono": " 0444752900  ",
@@ -12227,7 +12774,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"Dm0ABM7",
     "indirizzo": " Via Sant'Isaia 94/A, 40123 Bologna",
     "orario": " lun-ven 8:00-18:00 ",
     "telefono": " 0516597217",
@@ -12247,7 +12794,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"3WwAklD",
     "indirizzo": " Via Antonio Giuriolo 9, 36075 Montecchio Maggiore (VI)",
     "orario": " ",
     "telefono": " 0444703540",
@@ -12268,6 +12815,7 @@
     }
   },
   {
+    "id": "w4WoBZO",
     "nome": "Consultorio Familiare N.1",
     "indirizzo": " Via Alcide de Gasperi 4, 93100 Caltanissetta (CL)",
     "orario": " lun-gio 09:00-12:00 15:30-17:30\nven 09:00-12:00 sab-dom Chiuso",
@@ -12287,7 +12835,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"KHbVVdI",
     "indirizzo": " Via Volturno 42, 25126 Brescia (BS) ",
     "orario": " lun 14:00-18:00 mar-ven 09:00-12:00 mer-gio 09:00-12:00 14:00-18:00",
     "telefono": " 0303099399",
@@ -12308,6 +12856,7 @@
     }
   },
   {
+    "id": "rSiZXlY",
     "nome": "Consultorio Familiare Padova Nord",
     "indirizzo": " Via Tommaso Temanza 1, 35134 Padova (PD)",
     "orario": " lun 15:00-17:30 mar-ven 8:30-13:15 sab-dom Chiuso",
@@ -12327,7 +12876,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"LHI9Nei",
     "indirizzo": " Via Arturo Farinelli, 25, 10135 Torino",
     "orario": " \nlun 9:00 - 13:00, 14:00 - 17:00\nmar 9:00 - 13:00, 14:00 - 16:00\nmer 13:30 - 18:30\ngiov 9:00 - 12:30, 13:30 - 16:30\nven 9:00 - 13:30, 14:30 - 15:30",
     "telefono": " 011 566 4000",
@@ -12347,7 +12896,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"qzDHDxb",
     "indirizzo": " Piazza Foro Boario 9, 31029 Vittorio Veneto (TV)",
     "orario": " lun-ven 11:00-13:00 ",
     "telefono": " 0438665930 ",
@@ -12367,7 +12916,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"urcgF5j",
     "indirizzo": " Piazza Anna Magnani 147 - 47522, Cesena (FC)",
     "orario": " Consultorio familiare: \n                                          lun-ven:     8.30-10.30 \n                                      Spazio giovani \n                                           lun e gio: 14.30-17.00",
     "telefono": " Prenotazione consultorio            familiare :0547 39423\nPrenotazione spazio giovani :0547 394244 \nInformazioni consultorio familiare :0547 394232 Informazioni  spazio giovani: 0547 394244",
@@ -12387,7 +12936,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"Ya8Xujl",
     "indirizzo": " Via Francesco Gandini 26, 44124 Ferrara (FE)",
     "orario": " mar-mer 14:30-16:30",
     "telefono": " 0532235026",
@@ -12407,7 +12956,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"WotNrpQ",
     "indirizzo": " Corso Lodi 127",
     "orario": "\nLunedì 8:45 - 17:15\nGiovedì 9:00 - 20:00\nVenerdì 8:45 - 18:00\nSabato 9:00 - 16:00",
     "telefono": " +39 02 568 087 62 ",
@@ -12427,7 +12976,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"RgKY3q6",
     "indirizzo": " Via Galliano, 10, 36078 Valdagno VI",
     "orario": "\nlunedì 08–13 13:30–17:30\nmartedì 08–13 13:30–17:30\nmercoledì 08–13\ngiovedì  08–13\nvenerdì  08–13\nsabato   Chiuso\ndomenica Chiuso",
     "telefono": " 0445 402540",
@@ -12447,7 +12996,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"1878Mxd",
     "indirizzo": " Via Gabriele D'Annunzio 29, 50137 Firenze (FI) ",
     "orario": " lun-ven 8:00-19:00 sab 8:00-13:00",
     "telefono": " 05569341",
@@ -12467,7 +13016,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"t7KTeR1",
     "indirizzo": " Via Amedei 13,  Milano ",
     "orario": "\nLunedì 9.00-13.00- 14.30-19.15\nmartedì, mercoledì, giovedì, venerdì 9.00-19.15\nsabato 9.00-12.30",
     "telefono": "02/8690078 - 02/8057835 ",
@@ -12488,6 +13037,7 @@
     }
   },
   {
+    "id": "fQZWWxx",
     "nome": "Consultorio Subasio di Foligno",
     "indirizzo": " Via Aspromonte 8, 06034 Foligno (PG)",
     "orario": " ",
@@ -12507,7 +13057,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"ZZSWit6",
     "indirizzo": " Dorsoduro 1454, 30123 Venezia (VE)",
     "orario": " lun-mer-gio 14:30-17:30",
     "telefono": " 0415295994",
@@ -12527,7 +13077,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"wEbQMA5",
     "indirizzo": " Via Montanaro 60, 10154 Torino",
     "orario": " \nlun 09:15 - 12:30\nmar 13:30 - 16:45\nmer 11:15 - 12:30, 13:00 - 18:45\ngio 09:15 - 12:30, 13:00 - 16:45\nven 08:30 - 13:20",
     "telefono": " 0112402593",
@@ -12547,7 +13097,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"DSWusTa",
     "indirizzo": " via Sant'Anselmo 8, Torino",
     "orario": " ",
     "telefono": " 3387955527 - 3484102874",
@@ -12567,7 +13117,7 @@
       "link": "https://obiezionerespinta.info/"
     }
   },
-  {
+  { "id":"2DlPznB",
     "indirizzo": " Strada Macedonio Melloni, 1, 43121 Parma",
     "orario": " lun-mer-gio 14:30-17:00",
     "telefono": " 0521393337",

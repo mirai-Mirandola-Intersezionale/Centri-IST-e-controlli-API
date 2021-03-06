@@ -1,0 +1,150 @@
+openapi: 3.0.0
+info:
+  version: 1.0.0
+  title: Centri di salute e ascolto in Italia
+  license:
+    name: MIT
+servers:
+  - url: 'https://api.mirai.plus/api/v1/'
+paths:
+  /associazioni:
+    get:
+      summary: Dettagli delle associazioni presenti in Italia
+      operationId: listaAssociazioni
+      tags:
+        - associazioni
+      responses:
+        '200':
+          description: Dettagli delle associazioni presenti in Italia
+          headers:
+            x-next:
+              description: A link to the next page of responses
+              schema:
+                type: string
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Standard'
+        default:
+          description: unexpected error
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+components:
+  schemas:
+    Standard:
+      type: object
+      required:
+        - id
+        - nome
+        - struttura
+        - descrizione
+        - logo
+        - posizione
+          - indirizzo_completo
+          - via
+          - numero_civico
+          - citta
+          - comune
+          - coordinate
+        - contatti
+          - telefono
+          - email
+          - fax
+          - referente
+        - orario
+          - lunedì
+          - martedì
+          - mercoledì
+          - giovedì
+          - venerdì
+          - sabato
+          - domenica
+        - accesso
+        - servizi
+          - nome
+          - figure_presenti
+          - servizi_offerti
+          - costo
+          - tempistiche
+        - linee_guida
+        - note
+        - tag
+        - links
+          - facebook
+          - twitter
+          - instagram
+          - youtube
+          - sito_web
+          - forum
+        - valutazioni
+          - commenti
+          - voto
+        - verifica
+          - ultima_data
+          - nome
+          - responsabile
+          - link
+          - logo
+
+      properties:
+        id:
+          type: integer
+        nome:
+          type: string
+        struttura:
+          type: string
+        descrizione:
+          type: string
+        logo:
+          type: string
+        posizione: 
+          type: string
+          format: array
+          properties:
+            indirizzo_completo:
+              type: string
+            via:
+              type: string
+            numero_civico:
+              type: string
+            citta:
+              type: string
+            comune:
+              type: string
+            coordinate:
+              type: string
+        contatti:
+          type: string
+        orario:
+          type: string
+        accesso:
+          type: string
+        servizi:
+          type: string
+        linee_guida:
+          type: string
+        note:
+          type: string
+        tag:
+          type: string
+        links:
+          type: string
+        valutazioni:
+          type: string
+        verifica:
+          type: string
+
+        
+    Error:
+      type: object
+      required:
+        - code
+        - message
+      properties:
+        code:
+          type: integer
+          format: int32
+        message:
+          type: string
