@@ -50,6 +50,7 @@ assignees: frappaaa
     }],
     "linee_guida": "",
     "note": "",
+    "tag":["", ""],
     "links": {
         "facebook": ["", ""],
         "twitter": ["", ""],
