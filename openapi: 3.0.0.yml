@@ -135,8 +135,6 @@ components:
           type: string
         verifica:
           type: string
-
-        
     Error:
       type: object
       required:
