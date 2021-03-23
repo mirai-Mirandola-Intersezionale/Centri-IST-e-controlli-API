@@ -5,7 +5,6 @@ import initMiddleware from '../../../lib/init-middleware'
 import arcigay from '../../data/JSON/arcigay.json'
 import ist from '../../data/JSON/centriIST.json'
 import hiv from '../../data/JSON/centriHIV.json'
-import consultori from '../../data/JSON/consultori.json'
 import helpaids from '../../data/JSON/helpaids.json'
 import infoTrans from '../../data/JSON/infoTrans.json'
 import obiezioneRespinta from '../../data/JSON/obiezioneRespinta.json'
@@ -31,7 +30,6 @@ export default async function handler(req, res) {
           'arcigay': arcigay
         },
         'consultori':{
-          consultori,
           obiezioneRespinta
         },
         'centri_test':{
