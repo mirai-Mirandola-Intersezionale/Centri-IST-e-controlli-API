@@ -41,13 +41,13 @@ assignees: frappaaa
         "domenica": ["", ""]
     },
     "accesso": "",
-    "servizi": {
+    "servizi": [{
         "nome": "",
         "figure_presenti": "",
         "servizi_offerti":"",
         "costo": "",
         "tempistiche": ""
-    },
+    }],
     "linee_guida": "",
     "note": "",
     "tag":["", ""],
@@ -59,7 +59,7 @@ assignees: frappaaa
         "sito_web": ["", ""],
         "forum": ["", ""]
     },
-    "valutazioni": {
+    "valutazione": {
         "commenti": [""],
         "voto":[""]
     },
